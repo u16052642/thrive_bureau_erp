@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<thrive>
+    <data>
+        <function model="hr.employee" name="init_INSZ_number" context="{'install_mode' : True}"/>
+    </data>
+</thrive>

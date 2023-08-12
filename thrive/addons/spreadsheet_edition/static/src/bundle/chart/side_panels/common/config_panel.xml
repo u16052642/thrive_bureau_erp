@@ -1,0 +1,7 @@
+<thrive>
+<t t-name="spreadsheet_edition.CommonThriveChartConfigPanel" owl="1">
+        <div>
+            <t t-call="spreadsheet_edition.ThriveMenuChartPanelSection"/>
+        </div>
+    </t>
+</thrive>
