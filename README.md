@@ -20,5 +20,7 @@ after finishing installation you will see the (yourvpsip):8069 then you should p
 when need manually start restart or stop then use this command
 
 sudo /etc/init.d/thrive1669-server restart
+
 sudo /etc/init.d/thrive1669-server stop
+
 sudo /etc/init.d/thrive1669-server start
