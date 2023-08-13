@@ -7,7 +7,7 @@
     'category': 'Manufacturing/Quality',
     'sequence': 120,
     'summary': 'Control the quality of your products',
-    'website': 'https://www.ThriveERP.com/app/quality',
+    'website': 'https://www.thrivebureau.com/app/quality',
     'depends': ['quality'],
     'description': """
 Quality Control

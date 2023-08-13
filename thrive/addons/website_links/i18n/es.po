@@ -335,8 +335,8 @@ msgstr "ejemplo. Motor de búsqueda, Página web, ..."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.ThriveERP.com/contactus"
-msgstr "por ejemplo https://www.ThriveERP.com/contactus"
+msgid "e.g. https://www.thrivebureau.com/contactus"
+msgstr "por ejemplo https://www.thrivebureau.com/contactus"
 
 #. module: website_links
 #. openerp-web

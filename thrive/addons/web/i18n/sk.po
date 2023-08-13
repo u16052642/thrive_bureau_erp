@@ -15,7 +15,7 @@
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2022
 # Jan Prokop, 2022
 # Martin Trigaux, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # 
@@ -3293,8 +3293,8 @@ msgstr "Viacriadkový text"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Môj ThriveERP.com účet"
+msgid "My thrivebureau.com account"
+msgstr "Môj thrivebureau.com účet"
 
 #. module: web
 #. thrive-javascript

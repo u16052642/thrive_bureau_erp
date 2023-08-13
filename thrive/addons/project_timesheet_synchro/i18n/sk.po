@@ -7,7 +7,7 @@
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Martin Trigaux, 2022
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # 
 msgid ""
@@ -675,8 +675,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:0
 #, python-format
-msgid "Use an ThriveERP.com account"
-msgstr "Použite účet ThriveERP.com"
+msgid "Use an thrivebureau.com account"
+msgstr "Použite účet thrivebureau.com"
 
 #. module: project_timesheet_synchro
 #. openerp-web

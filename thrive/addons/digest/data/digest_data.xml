@@ -404,7 +404,7 @@
                 <t t-out="preference"/>
             </div>
             <div class="by_thrive">
-                Sent by <a href="https://www.ThriveERP.com" target="_blank" class="thrive_link"><span class="thrive_link_text">Thrive</span></a>
+                Sent by <a href="https://www.thrivebureau.com" target="_blank" class="thrive_link"><span class="thrive_link_text">Thrive</span></a>
                 <t t-if="unsubscribe_token">
                     –
                     <a t-attf-href="/digest/#{object.id}/unsubscribe?token=#{unsubscribe_token}&amp;user_id=#{user.id}"
@@ -429,7 +429,7 @@
 <div class="global_layout" id="footer">
     <p style="font-weight: bold;" t-esc="company.name"/>
     <p class="by_thrive" id="powered">
-        Powered by <a href="https://www.ThriveERP.com" target="_blank" class="thrive_link"><span class="thrive_link_text">Thrive</span></a>
+        Powered by <a href="https://www.thrivebureau.com" target="_blank" class="thrive_link"><span class="thrive_link_text">Thrive</span></a>
     </p>
 </div>
 </div>
@@ -442,16 +442,16 @@
     <template id="digest_section_mobile">
 <div class="global_layout" style="overflow: auto;">
     <div style="width: 50%; float: left; text-align: right;">
-        <img src="https://www.ThriveERP.com/web/image/24717933/thrive-mobile.png" alt="Thrive Mobile" />
+        <img src="https://www.thrivebureau.com/web/image/24717933/thrive-mobile.png" alt="Thrive Mobile" />
     </div>
     <div style="width: 50%; float: left;">
         <p class="run_business">Run your business from anywhere with <b>Thrive Mobile</b>.</p>
-        <div>
+<!--        <div>
             <a href="https://play.google.com/store/apps/details?id=com.thrive.mobile" target="_blank"><img class="download_app" src="https://download.thrivecdn.com/digests/digest/static/src/img/google_play.png" /></a>
         </div>
         <div>
             <a href="https://itunes.apple.com/us/app/thrive/id1272543640" target="_blank"><img class="download_app" src="https://download.thrivecdn.com/digests/digest/static/src/img/app_store.png" /></a>
-        </div>
+        </div>-->
     </div>
 </div>
     </template>

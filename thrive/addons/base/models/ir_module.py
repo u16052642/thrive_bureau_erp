@@ -907,7 +907,7 @@ class Module(models.Model):
 
     @api.model
     def get_apps_server(self):
-        return tools.config.get('apps_server', 'https://apps.ThriveERP.com/apps')
+        return tools.config.get('apps_server', 'https://apps.thrivebureau.com/apps')
 
     def _update_dependencies(self, depends=None, auto_install_requirements=()):
         self.env['ir.module.module.dependency'].flush_model()

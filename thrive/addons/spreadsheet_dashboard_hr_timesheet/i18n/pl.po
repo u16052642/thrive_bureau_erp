@@ -3,7 +3,7 @@
 # 	* spreadsheet_dashboard_hr_timesheet
 # 
 # Translators:
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Mariusz, 2022
 # Martin Trigaux, 2022
 # Judyta Kaźmierczak <judyta.kazmierczak@openglobe.pl>, 2022

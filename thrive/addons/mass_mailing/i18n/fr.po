@@ -7,7 +7,7 @@
 # Vincent Regouby <v.regouby@inetshore.com>, 2022
 # Florian Charlier, 2022
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023
 # 

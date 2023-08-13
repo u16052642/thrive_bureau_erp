@@ -7,7 +7,7 @@
     'category': 'Manufacturing/Product Lifecycle Management (PLM)',
     'sequence': 155,
     'summary': """Manage engineering change orders on products, bills of material""",
-    'website': 'https://www.ThriveERP.com/app/plm',
+    'website': 'https://www.thrivebureau.com/app/plm',
     'depends': ['mrp'],
     'description': """
 Product Life Management

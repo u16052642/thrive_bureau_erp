@@ -7,7 +7,7 @@
 # Martin Trigaux, 2022
 # Paolo Valier, 2022
 # Friederike Fasterling-Nesselbosch, 2022
-# Léonie Bouchat <lbo@ThriveERP.com>, 2022
+# Léonie Bouchat <lbo@thrivebureau.com>, 2022
 # Sergio Zanchetta <primes2h@gmail.com>, 2022
 # 
 msgid ""

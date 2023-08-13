@@ -1565,7 +1565,7 @@ QUnit.module("ActionManager", (hooks) => {
     });
 
     QUnit.test("flags field of ir.actions.act_window is used", async function (assert) {
-        // more info about flags field : https://github.com/thrive/ThriveERP.commit/c9b133813b250e89f1f61816b0eabfb9bee2009d
+        // more info about flags field : https://github.com/thrive/thrivebureau.commit/c9b133813b250e89f1f61816b0eabfb9bee2009d
         assert.expect(6);
         serverData.actions[44] = {
             id: 33,

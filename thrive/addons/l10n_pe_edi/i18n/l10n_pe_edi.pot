@@ -1643,7 +1643,7 @@ msgid ""
 "1. Linked Digiflow as OSE.\n"
 "2. Authorize Digiflow as PSE.\n"
 "Reference: \n"
-"https://www.ThriveERP.com/documentation/user/14.0/accounting/fiscal_localizations/localizations/peru.html#what-do-you-need-to-do"
+"https://www.thrivebureau.com/documentation/user/14.0/accounting/fiscal_localizations/localizations/peru.html#what-do-you-need-to-do"
 msgstr ""
 
 #. module: l10n_pe_edi

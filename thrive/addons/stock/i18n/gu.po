@@ -6,10 +6,10 @@
 # Martin Trigaux, 2018
 # Gaurav Marsoniya <marsoniyagaurav@gmail.com>, 2018
 # Dharmraj Jhala <dja@thrivebureau.com>, 2018
-# Divya Pandya <dia@ThriveERP.com>, 2018
+# Divya Pandya <dia@thrivebureau.com>, 2018
 # Ajay Chauhan, 2018
 # Turkesh Patel <turkesh4friends@gmail.com>, 2018
-# Ranjit Pillai <rpi@ThriveERP.com>, 2018
+# Ranjit Pillai <rpi@thrivebureau.com>, 2018
 # Spellbound Soft Solutions <jeel.spellbound@gmail.com>, 2018
 msgid ""
 msgstr ""

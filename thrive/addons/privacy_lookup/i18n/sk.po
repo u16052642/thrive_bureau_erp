@@ -5,7 +5,7 @@
 # Translators:
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Jan Prokop, 2022
 # Martin Trigaux, 2022
 # 

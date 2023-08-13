@@ -3,7 +3,7 @@
 # 	* project_timesheet_synchro
 # 
 # Translators:
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Mehjabin Farsana, 2022
 # Niyas Raphy, 2022
@@ -668,8 +668,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:0
 #, python-format
-msgid "Use an ThriveERP.com account"
-msgstr "استخدام حساب ThriveERP.com "
+msgid "Use an thrivebureau.com account"
+msgstr "استخدام حساب thrivebureau.com "
 
 #. module: project_timesheet_synchro
 #. openerp-web

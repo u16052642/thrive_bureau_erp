@@ -4,7 +4,7 @@
 # 
 # Translators:
 # laznikd <laznik@mentis.si>, 2022
-# Camille Dantinne <cmd@ThriveERP.com>, 2022
+# Camille Dantinne <cmd@thrivebureau.com>, 2022
 # Tadej Lupšina <tadej@hbs.si>, 2022
 # Vida Potočnik <vida.potocnik@mentis.si>, 2022
 # Jasmina Macur <jasmina@hbs.si>, 2022

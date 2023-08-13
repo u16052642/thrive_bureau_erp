@@ -9,7 +9,7 @@
     'description': """
 Add Subcontracting information in Cost Analysis Report and The Production Analysis
 """,
-    'website': 'https://www.ThriveERP.com/app/manufacturing',
+    'website': 'https://www.thrivebureau.com/app/manufacturing',
     'depends': ['mrp_account_enterprise', 'mrp_subcontracting'],
     'data': [
         'report/mrp_cost_structure_report.xml',

@@ -5,7 +5,7 @@ APP_ID = 'amzn1.sp.solution.1cab4d17-1dba-47d1-968f-66b10b614b01'
 
 
 # The URL of the Amazon proxy.
-PROXY_URL = 'https://iap-services.ThriveERP.com/'
+PROXY_URL = 'https://iap-services.thrivebureau.com/'
 
 
 # The endpoints of the Amazon proxy.

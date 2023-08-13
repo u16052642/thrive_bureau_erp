@@ -10,7 +10,7 @@ from thrive.addons.iap.tools import iap_tools
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap.ThriveERP.com'
+DEFAULT_ENDPOINT = 'https://iap.thrivebureau.com'
 
 
 class IapAccount(models.Model):

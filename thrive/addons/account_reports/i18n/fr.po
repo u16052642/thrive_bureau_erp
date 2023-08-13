@@ -8,7 +8,7 @@
 # Malika Berardi, 2022
 # Loïc De Greef, 2022
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Christophe Klopfert, 2022
 # Jolien De Paepe, 2023
 # 

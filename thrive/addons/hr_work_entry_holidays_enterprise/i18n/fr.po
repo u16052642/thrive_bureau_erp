@@ -3,7 +3,7 @@
 # 	* hr_work_entry_holidays_enterprise
 # 
 # Translators:
-# Tivisse <yti@ThriveERP.com>, 2022
+# Tivisse <yti@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

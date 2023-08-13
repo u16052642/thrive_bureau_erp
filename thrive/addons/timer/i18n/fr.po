@@ -3,7 +3,7 @@
 # 	* timer
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

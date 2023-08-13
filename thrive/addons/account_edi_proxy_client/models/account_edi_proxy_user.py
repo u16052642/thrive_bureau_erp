@@ -18,8 +18,8 @@ import logging
 _logger = logging.getLogger(__name__)
 
 
-DEFAULT_SERVER_URL = 'https://l10n-it-edi.api.ThriveERP.com'
-DEFAULT_TEST_SERVER_URL = 'https://iap-services-test.ThriveERP.com'
+DEFAULT_SERVER_URL = 'https://l10n-it-edi.api.thrivebureau.com'
+DEFAULT_TEST_SERVER_URL = 'https://iap-services-test.thrivebureau.com'
 TIMEOUT = 30
 
 

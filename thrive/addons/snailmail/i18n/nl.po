@@ -713,10 +713,10 @@ msgstr "Je staat op het punt dit te verzenden."
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.ThriveERP.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.thrivebureau.com</a> to claim your free credits."
 msgstr ""
 "Je hebt geen IAP-account geregistreerd voor deze service. <br>Ga naar <a "
-"href=%s target=\"new\"> iap.ThriveERP.com</a> om je gratis krediet te claimen."
+"href=%s target=\"new\"> iap.thrivebureau.com</a> om je gratis krediet te claimen."
 
 #. module: snailmail
 #. thrive-python

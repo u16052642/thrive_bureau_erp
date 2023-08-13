@@ -7,7 +7,7 @@
     'category': 'Marketing/Online Appointment',
     'sequence': 2150,
     'summary': 'Use SMS reminders for appointment meetings',
-    'website': 'https://www.ThriveERP.com/app/appointments',
+    'website': 'https://www.thrivebureau.com/app/appointments',
     'description': """Enable sending appointment reminders via SMS to your clients.""",
     'depends': ['appointment', 'calendar_sms'],
     'data': [

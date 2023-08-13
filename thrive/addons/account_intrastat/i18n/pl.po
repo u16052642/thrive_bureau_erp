@@ -11,7 +11,7 @@
 # Piotr Strębski <strebski@gmail.com>, 2022
 # Piotr Szlązak <szlazakpiotr@gmail.com>, 2022
 # Martin Trigaux, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Monika Grzelak <m.e.grzelak@gmail.com>, 2022
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2022
 # 

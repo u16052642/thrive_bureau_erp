@@ -18,7 +18,7 @@
 # RGB Consulting <thrive@rgbconsulting.com>, 2022
 # eriiikgt, 2022
 # AncesLatino2004, 2022
-# Anh Thao PHAM <pta@ThriveERP.com>, 2022
+# Anh Thao PHAM <pta@thrivebureau.com>, 2022
 # M Palau <mpalau@tda.ad>, 2022
 # Carles Antoli <carlesantoli@hotmail.com>, 2022
 # marcescu, 2022

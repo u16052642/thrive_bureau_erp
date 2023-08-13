@@ -10,7 +10,7 @@
         Manage user and manager notifications
     """,
 
-    'website': "https://www.ThriveERP.com/app/rental",
+    'website': "https://www.thrivebureau.com/app/rental",
 
     'category': 'Sales/Sales',
     'sequence': 160,

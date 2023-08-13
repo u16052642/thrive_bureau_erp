@@ -192,7 +192,7 @@ msgstr "Collegati come amministratore per correggere il problema."
 #. openerp-web
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
 msgstr ""
 
 #. module: web_enterprise

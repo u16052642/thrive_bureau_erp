@@ -3,7 +3,7 @@
 # 	* hr_skills
 # 
 # Translators:
-# Lucia Pacheco <lpo@ThriveERP.com>, 2022
+# Lucia Pacheco <lpo@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2022
 # 

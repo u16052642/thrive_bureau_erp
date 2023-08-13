@@ -6,8 +6,8 @@
 # jb78180 <jblum66@gmail.com>, 2022
 # Malika Berardi, 2022
 # laje_thrive, 2022
-# Lucas Deliege <lud@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Lucas Deliege <lud@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Christophe Klopfert, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2022

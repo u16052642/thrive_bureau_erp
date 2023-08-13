@@ -6,7 +6,7 @@
     'summary': 'Design, send and track emails',
     'version': '2.5',
     'sequence': 60,
-    'website': 'https://www.ThriveERP.com/app/email-marketing',
+    'website': 'https://www.thrivebureau.com/app/email-marketing',
     'category': 'Marketing/Email Marketing',
     'depends': [
         'contacts',

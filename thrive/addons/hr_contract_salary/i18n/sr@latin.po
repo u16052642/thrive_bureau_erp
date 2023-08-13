@@ -3,7 +3,7 @@
 # * hr_contract_salary
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Nemanja Dragovic <nemanjadragovic94@gmail.com>, 2017
 # Djordje Marjanovic <djordje_m@yahoo.com>, 2017
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "                      </tr>\n"
 "                      <tr>\n"
 "                        <td align=\"center\">\n"
-"                            Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com\">Thrive</a>.\n"
+"                            Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com\">Thrive</a>.\n"
 "                        </td>\n"
 "                      </tr>\n"
 "                    </tbody>\n"

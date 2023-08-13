@@ -7,7 +7,7 @@
     'category': 'Marketing/Events',
     'sequence': 140,
     'summary': 'Publish events, sell tickets',
-    'website': 'https://www.ThriveERP.com/app/events',
+    'website': 'https://www.thrivebureau.com/app/events',
     'depends': [
         'event',
         'website',

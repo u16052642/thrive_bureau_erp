@@ -6,7 +6,7 @@
     'version': '1.0',
     'category': 'Productivity/Discuss',
     'summary': 'Add livechat support for ThriveBot',
-    'website': 'https://www.ThriveERP.com/app/discuss',
+    'website': 'https://www.thrivebureau.com/app/discuss',
     'depends': ['mail_bot', 'im_livechat'],
     'installable': True,
     'auto_install': True,

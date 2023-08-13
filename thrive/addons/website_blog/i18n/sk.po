@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Matus Krnac <matus.krnac@gmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022
 # Filip Brenčič <brencicf5@gmail.com>, 2022

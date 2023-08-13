@@ -216,7 +216,7 @@ QUnit.test('create/search anytime appointment type', async function (assert) {
             writeText: (value) => {
                 assert.strictEqual(
                     value,
-                    `http://amazing.ThriveERP.com/appointment/3?filter_staff_user_ids=%5B${uid}%5D`
+                    `http://amazing.thrivebureau.com/appointment/3?filter_staff_user_ids=%5B${uid}%5D`
                 );
             }
         },
@@ -246,7 +246,7 @@ QUnit.test('create/search anytime appointment type', async function (assert) {
             }
         },
         session: {
-            'web.base.url': 'http://amazing.ThriveERP.com',
+            'web.base.url': 'http://amazing.thrivebureau.com',
         },
     });
 
@@ -375,7 +375,7 @@ QUnit.test("create slots for custom appointment type", async function (assert) {
             writeText: (value) => {
                 assert.strictEqual(
                     value,
-                    `http://amazing.ThriveERP.com/appointment/3?filter_staff_user_ids=%5B${uid}%5D`
+                    `http://amazing.thrivebureau.com/appointment/3?filter_staff_user_ids=%5B${uid}%5D`
                 );
             }
         }
@@ -495,7 +495,7 @@ QUnit.test('click & copy appointment type url', async function (assert) {
             writeText: (value) => {
                 assert.strictEqual(
                     value,
-                    `http://amazing.ThriveERP.com/appointment/2?filter_staff_user_ids=%5B${uid}%5D`
+                    `http://amazing.thrivebureau.com/appointment/2?filter_staff_user_ids=%5B${uid}%5D`
                 );
             }
         }

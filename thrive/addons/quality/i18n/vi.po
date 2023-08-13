@@ -953,10 +953,10 @@ msgstr ""
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Tên của bí danh email, vd 'vieclam' nếu bạn muốn bắt tin nhắn gửi đến địa "
-"chỉ email <vieclam@vidu.ThriveERP.com>"
+"chỉ email <vieclam@vidu.thrivebureau.com>"
 
 #. module: quality
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_user_id

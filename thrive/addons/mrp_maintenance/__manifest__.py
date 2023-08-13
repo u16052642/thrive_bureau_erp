@@ -6,7 +6,7 @@
     'version': '1.0',
     'category': 'Manufacturing/Manufacturing',
     'summary': 'Schedule and manage maintenance on machine and tools.',
-    'website': 'https://www.ThriveERP.com/app/maintenance',
+    'website': 'https://www.thrivebureau.com/app/maintenance',
     'description': """
 Maintenance in MRP
 ==================

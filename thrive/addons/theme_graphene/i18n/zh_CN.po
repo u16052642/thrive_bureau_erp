@@ -7,7 +7,7 @@
 # Martin Trigaux, 2019
 # Xia Fajin <xia.fajin@elico-corp.com>, 2019
 # fausthuang, 2019
-# Lisa Zhang <lzh@ThriveERP.com>, 2019
+# Lisa Zhang <lzh@thrivebureau.com>, 2019
 # liAnGjiA <liangjia@qq.com>, 2019
 # 
 msgid ""

@@ -7,7 +7,7 @@
     'category': 'Services/Helpdesk',
     'sequence': 110,
     'summary': 'Track, prioritize, and solve customer tickets',
-    'website': 'https://www.ThriveERP.com/app/helpdesk',
+    'website': 'https://www.thrivebureau.com/app/helpdesk',
     'depends': [
         'base_setup',
         'mail',

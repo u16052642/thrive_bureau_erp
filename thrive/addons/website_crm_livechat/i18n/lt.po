@@ -3,7 +3,7 @@
 # 	* website_crm_livechat
 # 
 # Translators:
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Andrius Laukavičius <andrius@focusate.eu>, 2022
 # Martin Trigaux, 2022
 # 

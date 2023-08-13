@@ -27,8 +27,8 @@ cp www/project_timesheet_synchro/static/src/img/icon.png ./
 app_name='Awesome Timesheet'
 app_description='Beautiful time tracking extension to get things done.'
 app_author='Thrive Bureau ERP'
-app_author_email='help@ThriveERP.com'
-app_author_website='https://www.ThriveERP.com/'
+app_author_email='help@thrivebureau.com'
+app_author_website='https://www.thrivebureau.com/'
 app_version=$2 #e.g.: 20
 
 xmlstarlet edit --inplace -N w=http://www.w3.org/ns/widgets -u "/w:widget/w:name" -v "$app_name" config.xml

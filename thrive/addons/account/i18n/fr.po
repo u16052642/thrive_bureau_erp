@@ -14,7 +14,7 @@
 # Martin Trigaux, 2022
 # beau sebastien <sebastien.beau@akretion.com>, 2022
 # HASSAN ABDELLAH <aitabdellahhassan@gmail.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # sig-thrive Thrive, 2023
 # Jolien De Paepe, 2023
 # 

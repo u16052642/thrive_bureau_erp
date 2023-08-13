@@ -9253,7 +9253,7 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "De naam van de e-mail alias, bijvoorbeeld: 'vacature' als je alle e-mails "
 "van vacature@bedrijf.nl wilt afvangen"
@@ -10091,11 +10091,11 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.ThriveERP.com)."
+"email server (@mycompany.thrivebureau.com)."
 msgstr ""
 "Het gebruik van je eigen e-mailserver is vereist voor het verzenden / "
 "ontvangen van e-mails in Community- en Enterprise-versies. Online gebruikers"
-" profiteren van een kant-en-klare e-mailserver (@ mijnbedrijf.ThriveERP.com)."
+" profiteren van een kant-en-klare e-mailserver (@ mijnbedrijf.thrivebureau.com)."
 
 #. module: mail
 #. thrive-javascript
@@ -16910,8 +16910,8 @@ msgstr "bijv. waar.waar..f"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.email_compose_message_wizard_form
-msgid "e.g: \"info@mycompany.ThriveERP.com\""
-msgstr "bijvoorbeeld: \"info@mijnbedrijf.ThriveERP.com\""
+msgid "e.g: \"info@mycompany.thrivebureau.com\""
+msgstr "bijvoorbeeld: \"info@mijnbedrijf.thrivebureau.com\""
 
 #. module: mail
 #. thrive-javascript

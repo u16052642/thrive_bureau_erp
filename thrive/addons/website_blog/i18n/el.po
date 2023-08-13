@@ -602,7 +602,7 @@ msgstr "Ομαδοποίηση κατά"
 
 #. module: website_blog
 #: model_terms:blog.post,content:website_blog.blog_post_1
-msgid "Here are the ideas behind the ThriveERP.communication tools:"
+msgid "Here are the ideas behind the thrivebureau.communication tools:"
 msgstr "Εδώ είναι οι ιδέες πίσω από τα εργαλεία επικοινωνίας Thrive:"
 
 #. module: website_blog
@@ -631,7 +631,7 @@ msgstr "Κωδικός"
 #. module: website_blog
 #: model:blog.post,subtitle:website_blog.blog_post_1
 #: model:blog.post,website_meta_description:website_blog.blog_post_1
-msgid "Ideas behind the ThriveERP.communication tools."
+msgid "Ideas behind the thrivebureau.communication tools."
 msgstr "Ιδέες πίσω από τα εργαλεία επικοινωνίας Thrive."
 
 #. module: website_blog

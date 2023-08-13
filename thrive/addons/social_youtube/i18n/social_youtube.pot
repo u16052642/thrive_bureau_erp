@@ -725,7 +725,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form
 msgid ""
 "e.g. Engage your entire community with a single app! "
-"https://www.ThriveERP.com/trial"
+"https://www.thrivebureau.com/trial"
 msgstr ""
 
 #. module: social_youtube

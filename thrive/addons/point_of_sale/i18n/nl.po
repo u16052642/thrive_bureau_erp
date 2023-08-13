@@ -3,7 +3,7 @@
 # 	* point_of_sale
 # 
 # Translators:
-# Lukas Van Cauter <cvl@ThriveERP.com>, 2022
+# Lukas Van Cauter <cvl@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023
 # Erwin van der Ploeg <erwin@thriveexperts.nl>, 2023

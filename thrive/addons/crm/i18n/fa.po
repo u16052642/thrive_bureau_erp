@@ -2589,8 +2589,8 @@ msgstr "مثلا قیمت گذاری محصول"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_leads
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_oppor
-msgid "e.g. www.ThriveERP.com"
-msgstr "برای مثال www.ThriveERP.com"
+msgid "e.g. www.thrivebureau.com"
+msgstr "برای مثال www.thrivebureau.com"
 
 #. module: crm
 #: code:addons/crm/models/crm_lead.py:946

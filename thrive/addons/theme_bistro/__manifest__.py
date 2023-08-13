@@ -41,7 +41,7 @@
         'pricing': ["s_text_image", "s_product_catalog"],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-bistro.ThriveERP.com',
+    'live_test_url': 'https://theme-bistro.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_bistro/static/src/js/tour.js',

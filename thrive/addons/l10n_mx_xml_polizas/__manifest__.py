@@ -9,7 +9,7 @@
     "version": "0.1",
     "author": "Thrive",
     "category": "Accounting/Localizations/Reporting",
-    "website": "http://www.ThriveERP.com/",
+    "website": "http://www.thrivebureau.com/",
     "license": "OEEL-1",
     "depends": [
         "l10n_mx_reports",

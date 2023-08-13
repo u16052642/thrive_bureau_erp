@@ -7,7 +7,7 @@
     'category': 'Marketing/Online Appointment',
     'sequence': 2140,
     'summary': "Manage Appointments with Employees",
-    'website': 'https://www.ThriveERP.com/app/appointments',
+    'website': 'https://www.thrivebureau.com/app/appointments',
     'description': """
 Take into account the working schedule (sick leaves, part time, ...) of employees when scheduling appointments
 --------------------------------------------------------------------------------------------------------------

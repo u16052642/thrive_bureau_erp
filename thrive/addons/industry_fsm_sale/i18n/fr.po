@@ -3,8 +3,8 @@
 # 	* industry_fsm_sale
 # 
 # Translators:
-# Tivisse <yti@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Tivisse <yti@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Alexandra Jubert, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023

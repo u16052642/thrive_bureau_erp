@@ -3,7 +3,7 @@
 # 	* mrp_subcontracting_account_enterprise
 # 
 # Translators:
-# fah_thrive <fah@ThriveERP.com>, 2022
+# fah_thrive <fah@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

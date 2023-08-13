@@ -97,7 +97,7 @@ class IrMailServer(models.Model):
     from_filter = fields.Char(
         "FROM Filtering",
         help='Define for which email address or domain this server can be used.\n'
-             'e.g.: "notification@ThriveERP.com" or "ThriveERP.com"')
+             'e.g.: "notification@thrivebureau.com" or "thrivebureau.com"')
     smtp_host = fields.Char(string='SMTP Server', required=True, help="Hostname or IP of SMTP server")
     smtp_port = fields.Integer(string='SMTP Port', required=True, default=25, help="SMTP Port. Usually 465 for SSL, and 25 or 587 for other cases.")
     smtp_authentication = fields.Selection([('login', 'Username'), ('certificate', 'SSL Certificate')], string='Authenticate with', required=True, default='login')
@@ -198,16 +198,16 @@ class IrMailServer(models.Model):
         if self.from_filter:
             if "@" in self.from_filter:
                 # All emails will be sent from the same address
-                return self.from_filter, "noreply@ThriveERP.com"
+                return self.from_filter, "noreply@thrivebureau.com"
             # All emails will be sent from any address in the same domain
             default_from = self.env["ir.config_parameter"].sudo().get_param("mail.default.from", "thrive")
-            return f"{default_from}@{self.from_filter}", "noreply@ThriveERP.com"
+            return f"{default_from}@{self.from_filter}", "noreply@thrivebureau.com"
         # Fallback to current user email if there's no from filter
         email_from = self.env.user.email
         if not email_from:
             raise UserError(_('Please configure an email on the current user to simulate '
                               'sending an email message via this outgoing server'))
-        return email_from, 'noreply@ThriveERP.com'
+        return email_from, 'noreply@thrivebureau.com'
 
     def test_smtp_connection(self):
         for server in self:

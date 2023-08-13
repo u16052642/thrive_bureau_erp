@@ -3,7 +3,7 @@
 # * mrp_plm
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Saba Khmaladze <skhmaladze@uglt.org>, 2018
 # Giorgi Melitauri <gmelitauri@live.com>, 2018
 msgid ""
@@ -1307,7 +1307,7 @@ msgstr ""
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: mrp_plm

@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Alejandro Die Sanchis <marketing@domatix.com>, 2022
-# Jon Perez <jop@ThriveERP.com>, 2022
+# Jon Perez <jop@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022
 # oscaryuu, 2022
@@ -4233,8 +4233,8 @@ msgstr "ej. pago regular"
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.hr_payroll_note_demo_content
-msgid "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
-msgstr "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
+msgid "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
+msgstr "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.report_payslip

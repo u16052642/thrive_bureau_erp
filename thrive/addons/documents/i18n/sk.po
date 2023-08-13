@@ -5,7 +5,7 @@
 # Translators:
 # gebri <gebri@inmail.sk>, 2022
 # Matus Krnac <matus.krnac@gmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Jan Prokop, 2022
@@ -322,7 +322,7 @@ msgid ""
 "                            <t t-if=\"object.date_deadline\">\n"
 "                                This link expires on <b t-out=\"object.date_deadline or ''\">2021-05-17</b>.<br/>\n"
 "                            </t>\n"
-"                            Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
+"                            Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
 "                          </td></tr>\n"
 "                        </table>\n"
 "                    </td></tr>\n"
@@ -2441,10 +2441,10 @@ msgstr ""
 #: model:ir.model.fields,help:documents.field_documents_share__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre "
-"<praca@priklad.ThriveERP.com>"
+"<praca@priklad.thrivebureau.com>"
 
 #. module: documents
 #: model:ir.model.fields,help:documents.field_documents_share__alias_user_id

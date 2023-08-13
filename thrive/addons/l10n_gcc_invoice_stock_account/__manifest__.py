@@ -7,7 +7,7 @@
         Arabic/English for GCC + lot/SN numbers
     """,
     'author': "Thrive Bureau ERP",
-    'website': "https://www.ThriveERP.com",
+    'website': "https://www.thrivebureau.com",
     'category': 'Accounting/Localizations',
 
     'depends': ['l10n_gcc_invoice', 'stock_account'],

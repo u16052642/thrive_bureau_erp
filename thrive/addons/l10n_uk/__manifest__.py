@@ -15,7 +15,7 @@ This is the latest UK Thrive localisation necessary to run Thrive accounting for
     - InfoLogic UK counties listing
     - a few other adaptations""",
     'author': 'SmartMode LTD',
-    'website': 'https://www.ThriveERP.com/app/accounting',
+    'website': 'https://www.thrivebureau.com/app/accounting',
     'depends': [
         'account',
         'base_iban',

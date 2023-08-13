@@ -2576,7 +2576,7 @@ msgstr ""
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_leads
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_oppor
-msgid "e.g. www.ThriveERP.com"
+msgid "e.g. www.thrivebureau.com"
 msgstr ""
 
 #. module: crm

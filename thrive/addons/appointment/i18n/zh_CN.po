@@ -6,7 +6,7 @@
 # Jeanphy <hzh0292@qq.com>, 2022
 # liAnGjiA <liangjia@qq.com>, 2022
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2022
-# Emily Jia <eji@ThriveERP.com>, 2022
+# Emily Jia <eji@thrivebureau.com>, 2022
 # Jeffery CHEN <jeffery9@gmail.com>, 2022
 # Martin Trigaux, 2022
 # 

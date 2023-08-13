@@ -1676,8 +1676,8 @@ msgstr ""
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
-msgstr "eメールのエイリアス.例えば<jobs@example.ThriveERP.com>のメールを受け取りたい場合'jobs’を選択"
+"<jobs@example.thrivebureau.com>"
+msgstr "eメールのエイリアス.例えば<jobs@example.thrivebureau.com>のメールを受け取りたい場合'jobs’を選択"
 
 #. module: mrp_plm
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_user_id

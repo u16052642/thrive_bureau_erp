@@ -3,14 +3,14 @@
 # * helpdesk
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Thrive Bureau ERP server 10.saas~18+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-02 11:50+0000\n"
 "PO-Revision-Date: 2017-10-02 11:50+0000\n"
-"Last-Translator: Martin Trigaux <mat@ThriveERP.com>, 2017\n"
+"Last-Translator: Martin Trigaux <mat@thrivebureau.com>, 2017\n"
 "Language-Team: Spanish (Venezuela) (https://www.transifex.com/thrive/teams/41243/es_VE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -101,7 +101,7 @@ msgid ""
 "        <tbody>\n"
 "            <tr><td style=\"padding-top:10px;color:#afafaf;\">\n"
 "                <p>This customer survey has been sent because your ticket has been moved to the stage <b>${object.stage_id.name}</b></p>\n"
-"                <p>Email automatically sent by <a target=\"_blank\" href=\"https://www.ThriveERP.com/page/helpdesk\" style=\"color:#875A7B;text-decoration:none;\">Thrive Helpdesk</a> for <a href=\"${object.team_id.company_id.website}\" style=\"color:#875A7B;text-decoration:none;\">${object.team_id.company_id.name}</a></p>\n"
+"                <p>Email automatically sent by <a target=\"_blank\" href=\"https://www.thrivebureau.com/page/helpdesk\" style=\"color:#875A7B;text-decoration:none;\">Thrive Helpdesk</a> for <a href=\"${object.team_id.company_id.website}\" style=\"color:#875A7B;text-decoration:none;\">${object.team_id.company_id.name}</a></p>\n"
 "            </td></tr>\n"
 "        </tbody>\n"
 "    </table>\n"
@@ -1734,7 +1734,7 @@ msgstr ""
 #: model:ir.model.fields,help:helpdesk.field_helpdesk_team_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: helpdesk

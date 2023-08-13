@@ -36,7 +36,7 @@
         'homepage': ['s_cover', 's_text_image', 's_image_text', 's_title', 's_three_columns', 's_picture'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-aviato.ThriveERP.com',
+    'live_test_url': 'https://theme-aviato.thrivebureau.com',
 
     'assets': {
         'website.assets_editor': [

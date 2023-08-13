@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Emily Jia <eji@ThriveERP.com>, 2022
+# Emily Jia <eji@thrivebureau.com>, 2022
 # Jeffery CHEN <jeffery9@gmail.com>, 2022
 # Allen Likey, 2022
 # Raymond Yu <cl_yu@hotmail.com>, 2022

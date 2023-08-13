@@ -201,8 +201,8 @@ msgstr "Log in sebagai administrator untuk membetulkan masalah ini."
 #. thrive-javascript
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
-msgstr "Login ke dashboard ThriveERP.com Anda lalu unlink database sebelumnya:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
+msgstr "Login ke dashboard thrivebureau.com Anda lalu unlink database sebelumnya:"
 
 #. module: web_enterprise
 #: model:ir.model,name:web_enterprise.model_ir_ui_menu

@@ -3,12 +3,12 @@
 # 	* hr_appraisal_survey
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
-# Clo <clo@ThriveERP.com>, 2022
+# Clo <clo@thrivebureau.com>, 2022
 # Nancy Bolognesi <nb@microcom.ca>, 2022
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2022
-# Melanie Bernard <mbe@ThriveERP.com>, 2022
+# Melanie Bernard <mbe@thrivebureau.com>, 2022
 # Xavier Symons <xsy@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 

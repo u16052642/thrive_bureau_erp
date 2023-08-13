@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""
@@ -202,9 +202,9 @@ msgstr "تسجيل الدخول كمدير لتصحيح المشكلة. "
 #. thrive-javascript
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
 msgstr ""
-"قم بتسجيل الدخول إلى لوحة معلومات ThriveERP.com الخاصة بك ثم قم بإلغاء ربط قاعدة "
+"قم بتسجيل الدخول إلى لوحة معلومات thrivebureau.com الخاصة بك ثم قم بإلغاء ربط قاعدة "
 "البيانات السابقة:"
 
 #. module: web_enterprise

@@ -8,9 +8,9 @@
 # v2exerer <9010446@qq.com>, 2022
 # digitalliuzg8888, 2022
 # Tony Peng <umingpeng@gmail.com>, 2022
-# Shane Tsoi <sso@ThriveERP.com>, 2022
+# Shane Tsoi <sso@thrivebureau.com>, 2022
 # mrshelly <mrshelly@hotmail.com>, 2022
-# Emily Jia <eji@ThriveERP.com>, 2022
+# Emily Jia <eji@thrivebureau.com>, 2022
 # 稀饭~~ <wangwhai@qq.com>, 2022
 # Raymond Yu <cl_yu@hotmail.com>, 2022
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2022
@@ -9027,8 +9027,8 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
-msgstr "邮件别名的名称，例如，如果您要收取 <jobs@example.ThriveERP.com> 的EMail,别名就要设为：\"jobs\""
+"<jobs@example.thrivebureau.com>"
+msgstr "邮件别名的名称，例如，如果您要收取 <jobs@example.thrivebureau.com> 的EMail,别名就要设为：\"jobs\""
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -9836,10 +9836,10 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.ThriveERP.com)."
+"email server (@mycompany.thrivebureau.com)."
 msgstr ""
 "在社区和企业版本中，发送/接收电子邮件需要使用自己的电子邮件服务器。上线用户已受益于随时可用的电子邮件服务器 "
-"(@mycompany.ThriveERP.com)。"
+"(@mycompany.thrivebureau.com)。"
 
 #. module: mail
 #. thrive-javascript
@@ -16627,8 +16627,8 @@ msgstr "例如 true.true..f"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.email_compose_message_wizard_form
-msgid "e.g: \"info@mycompany.ThriveERP.com\""
-msgstr "例如：“info@mycompany.ThriveERP.com”"
+msgid "e.g: \"info@mycompany.thrivebureau.com\""
+msgstr "例如：“info@mycompany.thrivebureau.com”"
 
 #. module: mail
 #. thrive-javascript

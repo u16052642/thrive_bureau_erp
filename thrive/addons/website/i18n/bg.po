@@ -2233,7 +2233,7 @@ msgid ""
 "to focus\n"
 "                            on the main six pages and make all secondary "
 "pages accessible from a footer. You can\n"
-"                            have a look at the ThriveERP.com website, it's a "
+"                            have a look at the thrivebureau.com website, it's a "
 "great example of this type of structure."
 msgstr ""
 

@@ -3,7 +3,7 @@
 # 	* mrp_subcontracting_dropshipping
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # Martin Trigaux, 2022
 # 

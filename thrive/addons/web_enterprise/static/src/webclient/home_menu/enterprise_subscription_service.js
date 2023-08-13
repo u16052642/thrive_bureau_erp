@@ -69,7 +69,7 @@ export class SubscriptionManager {
             ],
         ];
         const nbUsers = await this.orm.call("res.users", "search_count", args);
-        browser.location = `https://www.ThriveERP.com/thrive-enterprise/upgrade?num_users=${nbUsers}`;
+        browser.location = `https://www.thrivebureau.com/thrive-enterprise/upgrade?num_users=${nbUsers}`;
     }
     /**
      * Save the registration code then triggers a ping to submit it.
@@ -144,7 +144,7 @@ export class SubscriptionManager {
             "database.enterprise_code",
         ]);
 
-        const url = "https://www.ThriveERP.com/thrive-enterprise/renew";
+        const url = "https://www.thrivebureau.com/thrive-enterprise/renew";
         const contractQueryString = enterpriseCode ? `?contract=${enterpriseCode}` : "";
         browser.location = `${url}${contractQueryString}`;
     }
@@ -160,7 +160,7 @@ export class SubscriptionManager {
                 ],
             ]),
         ]);
-        const url = "https://www.ThriveERP.com/thrive-enterprise/upsell";
+        const url = "https://www.thrivebureau.com/thrive-enterprise/upsell";
         const contractQueryString = enterpriseCode ? `&contract=${enterpriseCode}` : "";
         browser.location = `${url}?num_users=${nbUsers}${contractQueryString}`;
     }

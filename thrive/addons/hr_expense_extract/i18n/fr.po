@@ -3,8 +3,8 @@
 # 	* hr_expense_extract
 # 
 # Translators:
-# Damien Bouvy <dbo@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Damien Bouvy <dbo@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2022
 # 

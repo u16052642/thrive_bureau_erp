@@ -3,7 +3,7 @@
 # * account_reports
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Ivan Ivanov <harami@abv.bg>, 2017
 msgid ""
 msgstr ""

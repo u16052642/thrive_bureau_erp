@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 
 msgid ""
@@ -203,9 +203,9 @@ msgstr "Connectez-vous avec un compte administrateur pour corriger ceci."
 #. thrive-javascript
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
 msgstr ""
-"Connectez-vous à votre tableau de bord ThriveERP.com puis dissociez votre "
+"Connectez-vous à votre tableau de bord thrivebureau.com puis dissociez votre "
 "ancienne base de données :"
 
 #. module: web_enterprise

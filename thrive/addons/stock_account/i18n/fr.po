@@ -5,8 +5,8 @@
 # Translators:
 # Martin Trigaux, 2022
 # Nicolas Seinlet <nicolas@seinlet.com>, 2022
-# Marie Willemyns <mwi@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Marie Willemyns <mwi@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2023
 # 
 msgid ""

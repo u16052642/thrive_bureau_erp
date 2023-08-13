@@ -5,7 +5,7 @@
 # Translators:
 # Grzegorz Krukar <grzegorzgk1@gmail.com>, 2022
 # Zdzisław Krajewski <zdzichucb@gmail.com>, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Radosław Biegalski <radoslaw.biegalski@openglobe.pl>, 2022
 # Andrzej Wiśniewski <a.wisniewski@hadron.eu.com>, 2022
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2022

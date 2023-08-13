@@ -7,7 +7,7 @@
 # Robert Förster <hello@suppliot.eu>, 2021
 # Felix Schubert <felix.schubert@go-erp.com>, 2021
 # Max-Milan Stoyanov, 2021
-# Philipp Fürstos <pfu@ThriveERP.com>, 2021
+# Philipp Fürstos <pfu@thrivebureau.com>, 2021
 # Florian Pose <fp@igh.de>, 2021
 # Oliver Roch <oliver.roch@d9t.de>, 2021
 # Chris Egal <sodaswed@web.de>, 2021

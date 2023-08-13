@@ -5,7 +5,7 @@
     'name': 'Inventory',
     'version': '1.1',
     'summary': 'Manage your stock and logistics activities',
-    'website': 'https://www.ThriveERP.com/app/inventory',
+    'website': 'https://www.thrivebureau.com/app/inventory',
     'depends': ['product', 'barcodes_gs1_nomenclature', 'digest'],
     'category': 'Inventory/Inventory',
     'sequence': 25,

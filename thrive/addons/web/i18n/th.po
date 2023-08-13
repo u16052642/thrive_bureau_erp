@@ -3302,8 +3302,8 @@ msgstr "ข้อความหลายบรรทัด"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "บัญชี ThriveERP.com ของฉัน"
+msgid "My thrivebureau.com account"
+msgstr "บัญชี thrivebureau.com ของฉัน"
 
 #. module: web
 #. thrive-javascript

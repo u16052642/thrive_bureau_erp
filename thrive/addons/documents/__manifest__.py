@@ -13,7 +13,7 @@
     'sequence': 80,
     'version': '1.1',
     'application': True,
-    'website': 'https://www.ThriveERP.com/app/documents',
+    'website': 'https://www.thrivebureau.com/app/documents',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'mail', 'portal', 'web_enterprise', 'attachment_indexation', 'digest'],

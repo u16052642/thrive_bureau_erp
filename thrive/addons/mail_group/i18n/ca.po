@@ -1367,10 +1367,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail_group.field_mail_group__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "El nom d'aquest pseudònim de correu electrònic. Per exemple, \"jobs\", si "
-"voleu obtenir els correus per <jobs@example.ThriveERP.com>"
+"voleu obtenir els correus per <jobs@example.thrivebureau.com>"
 
 #. module: mail_group
 #: code:addons/mail_group/models/mail_group.py:0

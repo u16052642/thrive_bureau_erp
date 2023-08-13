@@ -6,7 +6,7 @@
 
 # List of contributors:
 # Mag. Wolfgang Taferner <wolfgang.taferner@wt-io-it.at>
-# Josse Colpaert <jco@ThriveERP.com>
+# Josse Colpaert <jco@thrivebureau.com>
 
 {
     "name": "Austria - Accounting",

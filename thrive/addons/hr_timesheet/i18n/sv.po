@@ -3,7 +3,7 @@
 # 	* hr_timesheet
 # 
 # Translators:
-# fah_thrive <fah@ThriveERP.com>, 2022
+# fah_thrive <fah@thrivebureau.com>, 2022
 # Kim Asplund <kim.asplund@gmail.com>, 2022
 # Christelle Wehbe <libanon_cristelle@hotmail.com>, 2022
 # Jakob Krabbe <jakob.krabbe@vertel.se>, 2022

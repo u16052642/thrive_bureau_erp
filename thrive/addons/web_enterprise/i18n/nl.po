@@ -203,8 +203,8 @@ msgstr "Log in als administrator om het probleem te corrigeren."
 #. thrive-javascript
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
-msgstr "Login op je ThriveERP.com dashboard en ontkoppel je vorige database:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
+msgstr "Login op je thrivebureau.com dashboard en ontkoppel je vorige database:"
 
 #. module: web_enterprise
 #: model:ir.model,name:web_enterprise.model_ir_ui_menu

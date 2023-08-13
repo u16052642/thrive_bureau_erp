@@ -29,9 +29,9 @@ License :: OSI Approved :: GNU Lesser General Public License v3
 
 Programming Language :: Python
 """
-url = 'https://www.ThriveERP.com'
+url = 'https://www.thrivebureau.com'
 author = 'Thrive Bureau ERP'
-author_email = 'info@ThriveERP.com'
+author_email = 'info@thrivebureau.com'
 license = 'LGPL-3'
 
 nt_service_name = "thrive-server-" + series.replace('~','-')

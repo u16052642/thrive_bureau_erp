@@ -12,12 +12,12 @@ class TestAccountIncomingSupplierInvoice(AccountTestInvoicingCommon):
     def setUpClass(cls, chart_template_ref=None):
         super().setUpClass(chart_template_ref=chart_template_ref)
 
-        cls.env['ir.config_parameter'].sudo().set_param('mail.catchall.domain', 'test-company.ThriveERP.com')
+        cls.env['ir.config_parameter'].sudo().set_param('mail.catchall.domain', 'test-company.thrivebureau.com')
 
         cls.internal_user = cls.env['res.users'].create({
             'name': 'Internal User',
-            'login': 'internal.user@test.ThriveERP.com',
-            'email': 'internal.user@test.ThriveERP.com',
+            'login': 'internal.user@test.thrivebureau.com',
+            'email': 'internal.user@test.thrivebureau.com',
         })
 
         cls.supplier_partner = cls.env['res.partner'].create({

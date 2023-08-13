@@ -3,10 +3,10 @@
 # 	* appointment
 # 
 # Translators:
-# gdp Thrive <gdp@ThriveERP.com>, 2022
+# gdp Thrive <gdp@thrivebureau.com>, 2022
 # bb76cd9ac0cb7e20167a14728edb858b, 2022
-# Camille Dantinne <cmd@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Camille Dantinne <cmd@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2022
 # 

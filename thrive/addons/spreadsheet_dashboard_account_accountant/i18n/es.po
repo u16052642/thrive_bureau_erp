@@ -4,7 +4,7 @@
 # 
 # Translators:
 # José Vicente <txusev@gmail.com>, 2022
-# Braulio D. López Vázquez <bdl@ThriveERP.com>, 2022
+# Braulio D. López Vázquez <bdl@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022
 # Oscar Yu, 2022

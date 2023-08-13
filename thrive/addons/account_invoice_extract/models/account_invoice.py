@@ -11,8 +11,8 @@ import json
 
 _logger = logging.getLogger(__name__)
 
-PARTNER_AUTOCOMPLETE_ENDPOINT = 'https://partner-autocomplete.ThriveERP.com'
-EXTRACT_ENDPOINT = 'https://iap-extract.ThriveERP.com'
+PARTNER_AUTOCOMPLETE_ENDPOINT = 'https://partner-autocomplete.thrivebureau.com'
+EXTRACT_ENDPOINT = 'https://iap-extract.thrivebureau.com'
 CLIENT_OCR_VERSION = 120
 
 # list of result id that can be sent by iap-extract

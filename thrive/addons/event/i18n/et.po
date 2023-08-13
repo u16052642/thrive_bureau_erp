@@ -3505,7 +3505,7 @@ msgstr "nt. VIP pilet"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
 msgstr ""
 
 #. module: event

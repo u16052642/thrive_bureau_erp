@@ -18,7 +18,7 @@ class SocialMedia(models.Model):
     _description = 'Social Media'
     _inherit = ['mail.thread']
 
-    _DEFAULT_SOCIAL_IAP_ENDPOINT = 'https://social.api.ThriveERP.com'
+    _DEFAULT_SOCIAL_IAP_ENDPOINT = 'https://social.api.thrivebureau.com'
 
     name = fields.Char('Name', readonly=True, required=True, translate=True)
     media_description = fields.Char('Description', readonly=True)

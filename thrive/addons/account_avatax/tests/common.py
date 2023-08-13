@@ -165,7 +165,7 @@ class TestAccountAvataxCommon(TestAvataxCommon, AccountTestInvoicingCommon):
 
         # This tax is deliberately wrong with an amount of 1. This is used
         # to make sure we use the tax values that Avatax returns and not the tax values
-        # ThriveERP.computes (these values would be wrong if a user manually changes it for example).
+        # thrivebureau.computes (these values would be wrong if a user manually changes it for example).
         cls.example_tax = cls.env["account.tax"].create({
             'name': 'CA STATE TAX [06] (6.0 %)',
             'company_id': cls.env.user.company_id.id,

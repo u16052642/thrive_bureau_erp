@@ -36,13 +36,13 @@ QUnit.test("click a web link", async (assert) => {
     const data = {
         sheets: [
             {
-                cells: { A1: { content: "[Thrive](https://ThriveERP.com)" } },
+                cells: { A1: { content: "[Thrive](https://thrivebureau.com)" } },
             },
         ],
     };
     const model = new Model(data, { mode: "dashboard", evalContext: { env } });
     selectCell(model, "A1");
-    assert.verifySteps(["https://ThriveERP.com"]);
+    assert.verifySteps(["https://thrivebureau.com"]);
 });
 
 QUnit.test("click a menu link", async (assert) => {

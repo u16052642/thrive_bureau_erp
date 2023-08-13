@@ -13,7 +13,7 @@
 # Jan Prokop, 2022
 # karolína schusterová <karolina.schusterova@vdp.sk>, 2022
 # Lívia Dudejová <livia.dudejova@26house.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
@@ -11196,7 +11196,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
 msgstr ""
 
 #. module: website

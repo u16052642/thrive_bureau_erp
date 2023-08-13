@@ -3,7 +3,7 @@
 # 	* hr_skills_slides
 # 
 # Translators:
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Hassan Najm <hassannjm@gmail.com>, 2023
 # 

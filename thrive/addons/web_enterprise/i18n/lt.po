@@ -8,7 +8,7 @@
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022
 # Tomas Darius Davainis <tomas@davainis.lt>, 2022
 # Linas Versada <linaskrisiukenas@gmail.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # digitouch UAB <digitouchagencyeur@gmail.com>, 2022
 # Martin Trigaux, 2022
 # 
@@ -199,7 +199,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
 msgstr ""
 
 #. module: web_enterprise

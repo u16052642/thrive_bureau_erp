@@ -3,7 +3,7 @@
 # 	* hr_holidays_gantt
 # 
 # Translators:
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

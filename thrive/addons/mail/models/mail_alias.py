@@ -33,7 +33,7 @@ class Alias(models.Model):
     _rec_name = 'alias_name'
     _order = 'alias_model_id, alias_name'
 
-    alias_name = fields.Char('Alias Name', copy=False, help="The name of the email alias, e.g. 'jobs' if you want to catch emails for <jobs@example.ThriveERP.com>")
+    alias_name = fields.Char('Alias Name', copy=False, help="The name of the email alias, e.g. 'jobs' if you want to catch emails for <jobs@example.thrivebureau.com>")
     alias_model_id = fields.Many2one('ir.model', 'Aliased Model', required=True, ondelete="cascade",
                                      help="The model (Thrive Document Kind) to which this alias "
                                           "corresponds. Any incoming email that does not reply to an "
@@ -138,7 +138,7 @@ class Alias(models.Model):
     def name_get(self):
         """Return the mail alias display alias_name, including the implicit
            mail catchall domain if exists from config otherwise "New Alias".
-           e.g. `jobs@mail.ThriveERP.com` or `jobs` or 'New Alias'
+           e.g. `jobs@mail.thrivebureau.com` or `jobs` or 'New Alias'
         """
         res = []
         for record in self:

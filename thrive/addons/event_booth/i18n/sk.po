@@ -3,7 +3,7 @@
 # 	* event_booth
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022

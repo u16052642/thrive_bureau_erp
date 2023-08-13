@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Jakub Snášel <jakub@potisk-tricek.cz>, 2022
-# Pauline Thiry <pth@ThriveERP.com>, 2022
+# Pauline Thiry <pth@thrivebureau.com>, 2022
 # Michal Veselý <michal@veselyberanek.net>, 2022
 # karolína schusterová <karolina.schusterova@vdp.sk>, 2022
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2022

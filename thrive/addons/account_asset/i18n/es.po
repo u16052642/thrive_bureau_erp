@@ -5,7 +5,7 @@
 # Translators:
 # Mijail Todorovich <mijailtodorovich+git@gmail.com>, 2022
 # Sergio Hevia <sah@talleresbernesga.com>, 2022
-# Daniela Cervantes <dace@ThriveERP.com>, 2022
+# Daniela Cervantes <dace@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # David Ramia, 2023
 # 

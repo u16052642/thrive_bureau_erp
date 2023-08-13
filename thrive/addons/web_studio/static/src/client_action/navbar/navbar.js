@@ -55,7 +55,7 @@ export class StudioNavbar extends EnterpriseNavBar {
         // LPE fixme: dbuuid should be injected into session_info python side
         const action = {
             type: "ir.actions.act_url",
-            url: `http://pad.ThriveERP.com/p/customization-${this.user.db.uuid}`,
+            url: `http://pad.thrivebureau.com/p/customization-${this.user.db.uuid}`,
         };
         // LPE Fixme: this could be either the local AM or the GlobalAM
         // we don(t care i-here as we open an url anyway)

@@ -49,7 +49,7 @@ export class ImageSelector extends FileSelector {
         this.state.showOptimized = false;
 
         this.uploadText = this.env._t("Upload an image");
-        this.urlPlaceholder = "https://www.ThriveERP.com/logo.png";
+        this.urlPlaceholder = "https://www.thrivebureau.com/logo.png";
         this.addText = this.env._t("Add URL");
         this.searchPlaceholder = this.env._t("Search an image");
         this.urlWarningTitle = this.env._t("Uploaded image's format is not supported. Try with: " + IMAGE_EXTENSIONS.join(', '));

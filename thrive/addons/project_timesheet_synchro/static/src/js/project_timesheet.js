@@ -1781,7 +1781,7 @@ thrive.define('project_timeshee.ui', function (require ) {
         },
         select_thrive_login: function() {
             var self = this;
-            self.server = 'https://www.ThriveERP.com';
+            self.server = 'https://www.thrivebureau.com';
             session.origin = self.server;
             session.setup(self.server, {use_cors : true});
             var always = function() {
@@ -1926,7 +1926,7 @@ thrive.define('project_timeshee.ui', function (require ) {
             var login = this.$(".pt_thrive_login").val();
             var password = this.$(".pt_thrive_password").val();
             var db_name = 'openerp';
-            var server_address = 'https://www.ThriveERP.com';
+            var server_address = 'https://www.thrivebureau.com';
             session.origin = server_address;
             session.setup(server_address, {use_cors : true});
             session._session_authenticate(db_name, login, password).then(function() {
@@ -2024,14 +2024,14 @@ thrive.define('project_timeshee.ui', function (require ) {
             var self = this;
             var server_address = this.$(".pt_premise_url").val();
             var protocol = this.$(".pt_premise_protocol").val();
-            if (server_address === "ThriveERP.com" || server_address === "www.ThriveERP.com") {
-                server_address = "www.ThriveERP.com";
+            if (server_address === "thrivebureau.com" || server_address === "www.thrivebureau.com") {
+                server_address = "www.thrivebureau.com";
                 self.protocol = "https://";
             }
             session.origin = protocol + server_address;
             session.setup(protocol + server_address, {use_cors : true});
 
-            if (server_address === "www.ThriveERP.com") {
+            if (server_address === "www.thrivebureau.com") {
                 self.getParent().db_list = ["openerp"];
                 self.getParent().show_premise_login_form_screen();
                 return;
@@ -2110,7 +2110,7 @@ thrive.define('project_timeshee.ui', function (require ) {
             var self = this;
             return new Promise(function (resolve, reject) {
                 $.ajax({
-                    url: 'https://www.ThriveERP.com/fr_FR/trial',
+                    url: 'https://www.thrivebureau.com/fr_FR/trial',
                     type: 'HEAD',
                     cache: false,
                     timeout: 5000,
@@ -2126,7 +2126,7 @@ thrive.define('project_timeshee.ui', function (require ) {
             });
         },
         received_message: function(event) {
-            if (event.origin === 'https://www.ThriveERP.com' && event.data === 'success') {
+            if (event.origin === 'https://www.thrivebureau.com' && event.data === 'success') {
                 core.bus.trigger('db_created'); // We use the bus as we want to have access to the widget to re-render it, and here 'this' refers to 'window'.
             }
         },

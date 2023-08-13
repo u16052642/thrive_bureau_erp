@@ -5,7 +5,7 @@
 # Translators:
 # Filip Matúšek <filip.matusek@26house.com>, 2022
 # Matus Krnac <matus.krnac@gmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2022
 # gebri <gebri@inmail.sk>, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022
@@ -4141,7 +4141,7 @@ msgstr ""
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.hr_payroll_note_demo_content
-msgid "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
+msgid "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
 msgstr ""
 
 #. module: hr_payroll

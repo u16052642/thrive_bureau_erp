@@ -9,7 +9,7 @@
 # 192015edb78c7397bdecc2172c7447b3, 2022
 # Robert Kirschner <robertkirschner@yahoo.com>, 2022
 # rastislav Brencic <rastislav.brencic99@gmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Matúšek <filip.matusek@26house.com>, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022

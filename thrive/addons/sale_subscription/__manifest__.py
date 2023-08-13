@@ -17,7 +17,7 @@ Features:
     - Generate invoice automatically at fixed intervals
 """,
     'author': 'Camptocamp / Thrive',
-    'website': 'https://www.ThriveERP.com/app/subscriptions',
+    'website': 'https://www.thrivebureau.com/app/subscriptions',
     'depends': [
         'sale_management',
         'portal',

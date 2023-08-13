@@ -3307,8 +3307,8 @@ msgstr "Многострочный текст"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Личный кабинет на ThriveERP.com"
+msgid "My thrivebureau.com account"
+msgstr "Личный кабинет на thrivebureau.com"
 
 #. module: web
 #. thrive-javascript

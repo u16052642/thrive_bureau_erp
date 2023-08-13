@@ -13,8 +13,8 @@ import logging
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_IAP_ENDPOINT = "https://l10n-in-edi.api.ThriveERP.com"
-DEFAULT_IAP_TEST_ENDPOINT = "https://l10n-in-edi-demo.api.ThriveERP.com"
+DEFAULT_IAP_ENDPOINT = "https://l10n-in-edi.api.thrivebureau.com"
+DEFAULT_IAP_TEST_ENDPOINT = "https://l10n-in-edi-demo.api.thrivebureau.com"
 
 
 class AccountEdiFormat(models.Model):

@@ -3,13 +3,13 @@
 # 	* website_sale
 # 
 # Translators:
-# Clo <clo@ThriveERP.com>, 2022
-# Eloïse Stilmant <est@ThriveERP.com>, 2022
-# Fernanda Marques <fem@ThriveERP.com>, 2022
+# Clo <clo@thrivebureau.com>, 2022
+# Eloïse Stilmant <est@thrivebureau.com>, 2022
+# Fernanda Marques <fem@thrivebureau.com>, 2022
 # Alexandra Jubert, 2022
 # RHTthrive, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
-# Pierre Delacroix <pde@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
+# Pierre Delacroix <pde@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023
 # 

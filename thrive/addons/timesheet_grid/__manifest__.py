@@ -27,7 +27,7 @@
     'demo': [
         'data/timesheet_grid_demo.xml',
     ],
-    'website': ' https://www.ThriveERP.com/app/timesheet',
+    'website': ' https://www.thrivebureau.com/app/timesheet',
     'auto_install': ['web_grid', 'hr_timesheet'],
     'application': True,
     'license': 'OEEL-1',

@@ -194,8 +194,8 @@ msgstr "以管理员身份登陆以解决此问题。"
 #. openerp-web
 #: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
 #, python-format
-msgid "Login to your ThriveERP.com dashboard then unlink your previous database:"
-msgstr "登录你的ThriveERP.com 仪表板然后取消链接您以前的数据库："
+msgid "Login to your thrivebureau.com dashboard then unlink your previous database:"
+msgstr "登录你的thrivebureau.com 仪表板然后取消链接您以前的数据库："
 
 #. module: web_enterprise
 #: model:ir.model,name:web_enterprise.model_ir_ui_menu

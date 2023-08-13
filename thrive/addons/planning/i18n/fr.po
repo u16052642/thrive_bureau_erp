@@ -3,10 +3,10 @@
 # 	* planning
 # 
 # Translators:
-# gdp Thrive <gdp@ThriveERP.com>, 2022
-# Nathan Grognet <ngr@ThriveERP.com>, 2022
+# gdp Thrive <gdp@thrivebureau.com>, 2022
+# Nathan Grognet <ngr@thrivebureau.com>, 2022
 # Alexandra Jubert, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023
 # 

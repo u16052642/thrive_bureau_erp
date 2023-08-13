@@ -3,7 +3,7 @@
 # 	* appointment
 # 
 # Translators:
-# efaThrive <efa@ThriveERP.com>, 2022
+# efaThrive <efa@thrivebureau.com>, 2022
 # Friederike Fasterling-Nesselbosch, 2022
 # Sergio Zanchetta <primes2h@gmail.com>, 2022
 # Martin Trigaux, 2022

@@ -6,7 +6,7 @@
     'category': 'Website/Website',
     'sequence': 50,
     'summary': 'Sell your products online',
-    'website': 'https://www.ThriveERP.com/app/ecommerce',
+    'website': 'https://www.thrivebureau.com/app/ecommerce',
     'version': '1.1',
     'depends': ['website', 'sale', 'website_payment', 'website_mail', 'portal_rating', 'digest'],
     'data': [

@@ -247,7 +247,7 @@ class TestCommissionsSetup(TransactionCase):
         self.salesman = self.env['res.users'].create({
             'name': '...',
             'login': 'sales',
-            'email': 'sales@ThriveERP.com',
+            'email': 'sales@thrivebureau.com',
             'company_id': self.company.id,
             'groups_id': [(6, 0, groups)],
         })

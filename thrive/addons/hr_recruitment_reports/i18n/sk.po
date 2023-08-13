@@ -3,7 +3,7 @@
 # 	* hr_recruitment_reports
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2022

@@ -4,11 +4,11 @@
 # 
 # Translators:
 # Jinjiu Liu, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Shaima Safar <shaima.safar@open-inside.com>, 2022
 # Mustafa Rawi <mustafa@cubexco.com>, 2022
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""

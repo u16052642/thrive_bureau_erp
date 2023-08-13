@@ -143,8 +143,8 @@ msgstr "Log ind med Google"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with ThriveERP.com"
-msgstr "Log ind med ThriveERP.com"
+msgid "Log in with thrivebureau.com"
+msgstr "Log ind med thrivebureau.com"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__body

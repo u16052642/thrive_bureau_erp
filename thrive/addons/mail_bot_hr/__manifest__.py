@@ -3,7 +3,7 @@
     'name': "mail_bot_hr",
     'summary': """Bridge module between hr and mailbot.""",
     'description': """This module adds the ThriveBot state and notifications in the user form modified by hr.""",
-    'website': "https://www.ThriveERP.com/app/discuss",
+    'website': "https://www.thrivebureau.com/app/discuss",
     'category': 'Productivity/Discuss',
     'version': '1.0',
     'depends': ['mail_bot', 'hr'],

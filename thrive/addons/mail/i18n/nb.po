@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Mads Søndergaard, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Lars Aam <lars.aam@vikenfiber.no>, 2022
 # Marius Stedjan <marius@stedjan.com>, 2022
 # Martin Trigaux, 2022
@@ -8987,7 +8987,7 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: mail
@@ -9785,7 +9785,7 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.ThriveERP.com)."
+"email server (@mycompany.thrivebureau.com)."
 msgstr ""
 
 #. module: mail
@@ -16578,7 +16578,7 @@ msgstr ""
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.email_compose_message_wizard_form
-msgid "e.g: \"info@mycompany.ThriveERP.com\""
+msgid "e.g: \"info@mycompany.thrivebureau.com\""
 msgstr ""
 
 #. module: mail

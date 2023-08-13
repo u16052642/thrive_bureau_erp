@@ -2523,7 +2523,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.ThriveERP.com?"
+msgid "What do you think about the documentation available on doc.thrivebureau.com?"
 msgstr ""
 
 #. module: survey

@@ -4,7 +4,7 @@
     'name': "Marketing Automation",
     'version': "1.0",
     'summary': "Build automated mailing campaigns",
-    'website': 'https://www.ThriveERP.com/app/marketing-automation',
+    'website': 'https://www.thrivebureau.com/app/marketing-automation',
     'category': "Marketing/Marketing Automation",
     'sequence': 195,
     'depends': ['mass_mailing'],

@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Wahyu Setiawan <wahyusetiaaa@gmail.com>, 2017
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # oon arfiandwi (OonID) <oon.arfiandwi@gmail.com>, 2017
 msgid ""
 msgstr ""

@@ -34,7 +34,7 @@ class TestRecruitment(TransactionCase):
         A, B, C, D, E, F = self.env['hr.applicant'].create([
             {
                 'name': 'Application A',
-                'email_from': 'abc@ThriveERP.com',
+                'email_from': 'abc@thrivebureau.com',
                 'partner_phone': '123',
                 'partner_mobile': '14-15-16',
             },
@@ -45,13 +45,13 @@ class TestRecruitment(TransactionCase):
             },
             {
                 'name': 'Application C',
-                'email_from': 'def@ThriveERP.com',
+                'email_from': 'def@thrivebureau.com',
                 'partner_phone': '123',
                 'partner_mobile': '14-15-16',
             },
             {
                 'name': 'Application D',
-                'email_from': 'def@ThriveERP.com',
+                'email_from': 'def@thrivebureau.com',
                 'partner_phone': '456',
                 'partner_mobile': '14-15-16',
             },

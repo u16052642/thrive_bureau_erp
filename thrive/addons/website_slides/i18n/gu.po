@@ -7,14 +7,14 @@
 # Turkesh Patel <turkesh4friends@gmail.com>, 2018
 # Dharmraj Jhala <dja@thrivebureau.com>, 2018
 # Spellbound Soft Solutions <jeel.spellbound@gmail.com>, 2018
-# Divya Pandya <dia@ThriveERP.com>, 2018
+# Divya Pandya <dia@thrivebureau.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: Thrive Bureau ERP server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-08 06:49+0000\n"
 "PO-Revision-Date: 2018-10-08 06:49+0000\n"
-"Last-Translator: Divya Pandya <dia@ThriveERP.com>, 2018\n"
+"Last-Translator: Divya Pandya <dia@thrivebureau.com>, 2018\n"
 "Language-Team: Gujarati (https://www.transifex.com/thrive/teams/41243/gu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -546,14 +546,14 @@ msgstr ""
 msgid ""
 "Discover how you can integrate MRP, PLM, Quality and Maintenance in a single application to maximize the efficiency of your manufacturing operations.\n"
 "\n"
-"Read more about the features at: https://www.ThriveERP.com/page/manufacturing-features\n"
+"Read more about the features at: https://www.thrivebureau.com/page/manufacturing-features\n"
 "\n"
-"Discover Thrive MRP: https://www.ThriveERP.com/page/manufacturing"
+"Discover Thrive MRP: https://www.thrivebureau.com/page/manufacturing"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_1
-msgid "Discover the CRM sales people love https://www.ThriveERP.com/page/crm"
+msgid "Discover the CRM sales people love https://www.thrivebureau.com/page/crm"
 msgstr ""
 
 #. module: website_slides
@@ -561,7 +561,7 @@ msgstr ""
 msgid ""
 "Discover the all-in-one business management software solution that fits any business size and use case.\n"
 "\n"
-"Learn more at https://ThriveERP.com"
+"Learn more at https://thrivebureau.com"
 msgstr ""
 
 #. module: website_slides
@@ -872,7 +872,7 @@ msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_8
-msgid "Learn more at https://www.ThriveERP.com/page/sales"
+msgid "Learn more at https://www.thrivebureau.com/page/sales"
 msgstr ""
 
 #. module: website_slides
@@ -1394,7 +1394,7 @@ msgstr ""
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Thrive Sign!\n"
 "\n"
-"Discover more at https://www.ThriveERP.com/page/sign"
+"Discover more at https://www.thrivebureau.com/page/sign"
 msgstr ""
 
 #. module: website_slides
@@ -1612,7 +1612,7 @@ msgstr ""
 msgid ""
 "Warehouse management software for the 21st century.\n"
 "\n"
-"Discover Thrive Inventory: https://www.ThriveERP.com/page/warehouse"
+"Discover Thrive Inventory: https://www.thrivebureau.com/page/warehouse"
 msgstr ""
 
 #. module: website_slides

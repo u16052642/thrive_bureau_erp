@@ -3,7 +3,7 @@
 # 	* social_instagram
 # 
 # Translators:
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Linas Versada <linaskrisiukenas@gmail.com>, 2022
 # 
 msgid ""

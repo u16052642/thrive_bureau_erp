@@ -3,7 +3,7 @@
 # 	* crm_iap_mine
 # 
 # Translators:
-# Kevin Harrings <kha@ThriveERP.com>, 2022
+# Kevin Harrings <kha@thrivebureau.com>, 2022
 # Éder Brito <britoederr@gmail.com>, 2022
 # Martin Trigaux, 2022
 # 

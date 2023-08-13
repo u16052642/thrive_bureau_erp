@@ -7,7 +7,7 @@
     'category': 'Hidden/Tests',
     'sequence': 9999,
     'summary': 'Appointment Testing Module',
-    'website': 'https://www.ThriveERP.com/app/appointments',
+    'website': 'https://www.thrivebureau.com/app/appointments',
     'description': """
 Take into account the working schedule (sick leaves, part time, ...) of employees when scheduling appointments
 --------------------------------------------------------------------------------------------------------------

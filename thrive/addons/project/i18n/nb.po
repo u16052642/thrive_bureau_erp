@@ -3,7 +3,7 @@
 # 	* project
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Lars Aam <lars.aam@vikenfiber.no>, 2022
 # Joar Horvei, 2022
 # Martin Trigaux, 2022
@@ -5263,7 +5263,7 @@ msgstr ""
 #: model:ir.model.fields,help:project.field_project_project__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: project

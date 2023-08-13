@@ -1087,8 +1087,8 @@ msgstr "es. : Decorazione OpenWood"
 
 #. module: website_event_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_exhibitor.event_sponsor_view_form
-msgid "e.g. : https://www.ThriveERP.com"
-msgstr "es. : https://www.ThriveERP.com"
+msgid "e.g. : https://www.thrivebureau.com"
+msgstr "es. : https://www.thrivebureau.com"
 
 #. module: website_event_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_exhibitor.event_sponsor_view_form

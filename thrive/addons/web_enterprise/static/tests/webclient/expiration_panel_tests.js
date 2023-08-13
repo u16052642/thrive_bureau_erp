@@ -129,7 +129,7 @@ QUnit.module("web_enterprise", function ({ beforeEach }) {
 
         assert.strictEqual(
             browser.location,
-            "https://www.ThriveERP.com/thrive-enterprise/upgrade?num_users=7"
+            "https://www.thrivebureau.com/thrive-enterprise/upgrade?num_users=7"
         );
     });
 
@@ -400,7 +400,7 @@ QUnit.module("web_enterprise", function ({ beforeEach }) {
                 formatWhiteSpaces(
                     `Your subscription is already linked to a database.
                 To unlink it you can either:
-                Login to your ThriveERP.com dashboard then unlink your previous database: www.super_company.com
+                Login to your thrivebureau.com dashboard then unlink your previous database: www.super_company.com
                 Click here to send an email to the subscription owner (email: super_company_admin@gmail.com) with the instructions to follow`
                 )
             );
@@ -421,7 +421,7 @@ QUnit.module("web_enterprise", function ({ beforeEach }) {
                 formatWhiteSpaces(
                     `Your subscription is already linked to a database.
                 To unlink it you can either:
-                Login to your ThriveERP.com dashboard then unlink your previous database: www.super_company.com
+                Login to your thrivebureau.com dashboard then unlink your previous database: www.super_company.com
                 Click here to send an email to the subscription owner (email: super_company_admin@gmail.com) with the instructions to follow
                 Unable to send the instructions by email, please contact the Thrive Support
                 Error reason: By design`
@@ -674,7 +674,7 @@ QUnit.module("web_enterprise", function ({ beforeEach }) {
         assert.verifySteps(["get_param", "search_count"]);
         assert.strictEqual(
             browser.location,
-            "https://www.ThriveERP.com/thrive-enterprise/upsell?num_users=13&contract=ABC"
+            "https://www.thrivebureau.com/thrive-enterprise/upsell?num_users=13&contract=ABC"
         );
     });
 
@@ -752,7 +752,7 @@ QUnit.module("web_enterprise", function ({ beforeEach }) {
 
         assert.strictEqual(
             browser.location,
-            "https://www.ThriveERP.com/thrive-enterprise/renew?contract=ABC"
+            "https://www.thrivebureau.com/thrive-enterprise/renew?contract=ABC"
         );
 
         assert.verifySteps(["get_param"]);

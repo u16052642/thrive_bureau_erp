@@ -2,7 +2,7 @@ Thrive Manufacturing Resource Planning
 ------------------------------------
 
 Manage Bill of Materials, plan manufacturing orders, track work orders with the
-Thrive <a href="https://www.ThriveERP.com/app/manufacturing">Open Source MRP</a> app.
+Thrive <a href="https://www.thrivebureau.com/app/manufacturing">Open Source MRP</a> app.
 
 Get all your assembly or manufacturing operations managed by Thrive. Schedule
 manufacturing orders and work orders automatically. Review the proposed

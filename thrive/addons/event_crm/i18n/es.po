@@ -3,7 +3,7 @@
 # 	* event_crm
 # 
 # Translators:
-# Camille Dantinne <cmd@ThriveERP.com>, 2022
+# Camille Dantinne <cmd@thrivebureau.com>, 2022
 # marcescu, 2022
 # Martin Trigaux, 2022
 # juankfj, 2022

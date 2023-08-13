@@ -3,8 +3,8 @@
 # 	* sales_team
 # 
 # Translators:
-# Nisrine Tagri <nta@ThriveERP.com>, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Nisrine Tagri <nta@thrivebureau.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Niyas Raphy, 2022
 # 

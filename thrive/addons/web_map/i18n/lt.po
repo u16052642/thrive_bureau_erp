@@ -6,7 +6,7 @@
 # Arminas Grigonis <arminas@versada.lt>, 2022
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022
 # Arunas V. <arunas@devoro.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Naglis Jonaitis, 2022
 # Linas Versada <linaskrisiukenas@gmail.com>, 2022
 # Martin Trigaux, 2022

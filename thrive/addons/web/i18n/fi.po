@@ -34,7 +34,7 @@
 # Martin Trigaux, 2022
 # Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>, 2022
 # Tuomo Aura <tuomo.aura@web-veistamo.fi>, 2022
-# Richard Mouthier <rmo@ThriveERP.com>, 2022
+# Richard Mouthier <rmo@thrivebureau.com>, 2022
 # 
 msgid ""
 msgstr ""
@@ -42,7 +42,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-15 12:44+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
-"Last-Translator: Richard Mouthier <rmo@ThriveERP.com>, 2022\n"
+"Last-Translator: Richard Mouthier <rmo@thrivebureau.com>, 2022\n"
 "Language-Team: Finnish (https://www.transifex.com/thrive/teams/41243/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3313,8 +3313,8 @@ msgstr "Monirivinen teksti"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "ThriveERP.com-tilini"
+msgid "My thrivebureau.com account"
+msgstr "thrivebureau.com-tilini"
 
 #. module: web
 #. thrive-javascript

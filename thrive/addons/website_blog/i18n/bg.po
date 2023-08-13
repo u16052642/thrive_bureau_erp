@@ -500,7 +500,7 @@ msgstr "Групиране по"
 #. module: website_blog
 #: model_terms:blog.post,content:website_blog.blog_post_1
 #, fuzzy
-msgid "Here are the ideas behind the ThriveERP.communication tools:"
+msgid "Here are the ideas behind the thrivebureau.communication tools:"
 msgstr "Идей зад Thrive комуникационните инструменти."
 
 #. module: website_blog
@@ -527,7 +527,7 @@ msgstr "ID"
 
 #. module: website_blog
 #: model:blog.post,subtitle:website_blog.blog_post_1
-msgid "Ideas behind the ThriveERP.communication tools."
+msgid "Ideas behind the thrivebureau.communication tools."
 msgstr "Идей зад Thrive комуникационните инструменти."
 
 #. module: website_blog
@@ -1207,7 +1207,7 @@ msgstr "изгледи"
 #~ "            </p>\n"
 #~ "            <h3>The Communication Mechanism of Thrive</h3>\n"
 #~ "            <p data-chatter-id=\"counter_44333/div/section\">\n"
-#~ "                Here are the ideas behind the ThriveERP.communication tools:\n"
+#~ "                Here are the ideas behind the thrivebureau.communication tools:\n"
 #~ "            </p>\n"
 #~ "            <ul>\n"
 #~ "                <li>\n"
@@ -1314,7 +1314,7 @@ msgstr "изгледи"
 #~ "            </p>\n"
 #~ "            <h3>The Communication Mechanism of Thrive</h3>\n"
 #~ "            <p data-chatter-id=\"counter_44333/div/section\">\n"
-#~ "                Here are the ideas behind the ThriveERP.communication tools:\n"
+#~ "                Here are the ideas behind the thrivebureau.communication tools:\n"
 #~ "            </p>\n"
 #~ "            <ul>\n"
 #~ "                <li>\n"

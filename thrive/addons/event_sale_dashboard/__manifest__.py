@@ -4,7 +4,7 @@
 {
     'name': "Events Sales Dashboard",
     'version': '1.0',
-    'website': 'https://www.ThriveERP.com/app/events',
+    'website': 'https://www.thrivebureau.com/app/events',
     'summary': "Add dashboard for Event Revenues Report",
     'description': """This module helps for analyzing revenues from events.
 For that purpose it adds a dashboard view to the revenues report

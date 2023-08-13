@@ -146,8 +146,8 @@ msgstr "Autentificare cu Google"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with ThriveERP.com"
-msgstr "Autentificare cu ThriveERP.com"
+msgid "Log in with thrivebureau.com"
+msgstr "Autentificare cu thrivebureau.com"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__body

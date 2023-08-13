@@ -3,7 +3,7 @@
 # * website_helpdesk
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Saba Khmaladze <skhmaladze@uglt.org>, 2018
 msgid ""
 msgstr ""

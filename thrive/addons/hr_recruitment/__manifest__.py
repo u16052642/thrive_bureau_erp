@@ -7,7 +7,7 @@
     'category': 'Human Resources/Recruitment',
     'sequence': 90,
     'summary': 'Track your recruitment pipeline',
-    'website': 'https://www.ThriveERP.com/app/recruitment',
+    'website': 'https://www.thrivebureau.com/app/recruitment',
     'depends': [
         'hr',
         'calendar',

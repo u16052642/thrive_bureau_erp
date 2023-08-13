@@ -2652,10 +2652,10 @@ msgstr "Värbamise taseme nimi peab olema unikaalne!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "E-maili aliase nimi, nt \"job\" kui soovid saada e-kirju "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

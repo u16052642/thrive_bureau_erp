@@ -9,7 +9,7 @@ Design gorgeous mails
     """,
     'version': '1.1',
     'sequence': 110,
-    'website': 'https://www.ThriveERP.com/app/mailing',
+    'website': 'https://www.thrivebureau.com/app/mailing',
     'category': 'Marketing/Email Marketing',
     'depends': [
         'mass_mailing',

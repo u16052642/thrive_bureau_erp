@@ -3,7 +3,7 @@
 # 	* sale_stock_renting
 # 
 # Translators:
-# Pauline Thiry <pth@ThriveERP.com>, 2022
+# Pauline Thiry <pth@thrivebureau.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Martin Trigaux, 2022
 # trendspotter <jirka.p@volny.cz>, 2022

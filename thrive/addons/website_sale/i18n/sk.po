@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Brenčič <brencicf5@gmail.com>, 2022
 # Filip Matúšek <filip.matusek@26house.com>, 2022
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2022

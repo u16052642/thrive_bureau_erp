@@ -4,7 +4,7 @@
 from thrive import _, api, models
 from thrive.addons.iap.tools import iap_tools
 
-DEFAULT_ENDPOINT = 'https://iap-sms.ThriveERP.com'
+DEFAULT_ENDPOINT = 'https://iap-sms.thrivebureau.com'
 
 
 class SmsApi(models.AbstractModel):

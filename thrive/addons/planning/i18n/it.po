@@ -3,7 +3,7 @@
 # 	* planning
 # 
 # Translators:
-# Davide Speranza <dsp@ThriveERP.com>, 2022
+# Davide Speranza <dsp@thrivebureau.com>, 2022
 # Friederike Fasterling-Nesselbosch, 2022
 # Sergio Zanchetta <primes2h@gmail.com>, 2022
 # Martin Trigaux, 2022

@@ -3,7 +3,7 @@
 # 	* hr_recruitment_sign
 # 
 # Translators:
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Antanas Muliuolis <an.muliuolis@gmail.com>, 2022
 # Anatolij, 2022
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022

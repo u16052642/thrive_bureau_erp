@@ -7,7 +7,7 @@
     'sequence': 1002,
     'version': '1.0',
     'summary': 'Event / Jitsi',
-    'website': 'https://www.ThriveERP.com/app/events',
+    'website': 'https://www.thrivebureau.com/app/events',
     'depends': [
         'website_event',
         'website_jitsi',

@@ -3,7 +3,7 @@
 # 	* link_tracker
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Matus Krnac <matus.krnac@gmail.com>, 2022
 # Jan Prokop, 2022

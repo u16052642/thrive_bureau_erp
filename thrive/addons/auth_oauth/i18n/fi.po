@@ -149,8 +149,8 @@ msgstr "Google-kirjautuminen"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with ThriveERP.com"
-msgstr "ThriveERP.com-tunnistautuminen"
+msgid "Log in with thrivebureau.com"
+msgstr "thrivebureau.com-tunnistautuminen"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__body

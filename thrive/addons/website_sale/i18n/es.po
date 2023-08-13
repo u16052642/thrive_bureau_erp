@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Mateo Tibaquirá Palacios <nestormateo@gmail.com>, 2022
-# Jon Perez <jop@ThriveERP.com>, 2022
+# Jon Perez <jop@thrivebureau.com>, 2022
 # Michael Epstein, 2022
 # marcescu, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022

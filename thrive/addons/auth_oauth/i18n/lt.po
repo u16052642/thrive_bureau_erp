@@ -6,7 +6,7 @@
 # digitouch UAB <digitouchagencyeur@gmail.com>, 2022
 # Arunas V. <arunas@devoro.com>, 2022
 # Martin Trigaux, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Anatolij, 2022
 # Aleksandr Jadov <a.jadov@tata.lt>, 2022
 # Monika Raciunaite <monika.raciunaite@gmail.com>, 2022
@@ -153,7 +153,7 @@ msgstr ""
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with ThriveERP.com"
+msgid "Log in with thrivebureau.com"
 msgstr ""
 
 #. module: auth_oauth

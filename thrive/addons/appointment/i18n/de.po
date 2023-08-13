@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Chris Egal <sodaswed@web.de>, 2022
-# Leon Grill <leg@ThriveERP.com>, 2022
+# Leon Grill <leg@thrivebureau.com>, 2022
 # Friederike Fasterling-Nesselbosch, 2022
 # 4e7311735ad180fde514b5b19202d965, 2022
 # DE T2 <e2f48d4s5vd1s2@outlook.com>, 2022

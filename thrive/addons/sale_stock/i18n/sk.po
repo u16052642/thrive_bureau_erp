@@ -3,7 +3,7 @@
 # 	* sale_stock
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Stefan Stieranka <stieranka@itec.sk>, 2022
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2022

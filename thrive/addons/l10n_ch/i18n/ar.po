@@ -5,7 +5,7 @@
 # Translators:
 # jahzar <jahzar@gmail.com>, 2022
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 #
 msgid ""
 msgstr ""

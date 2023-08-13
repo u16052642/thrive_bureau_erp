@@ -27,15 +27,15 @@ wTourUtils.registerWebsitePreviewTour('link_tools', {
         trigger: "#toolbar #create-link",
     },
     {
-        content: "Type the link URL ThriveERP.com",
+        content: "Type the link URL thrivebureau.com",
         trigger: '#o_link_dialog_url_input',
-        run: 'text ThriveERP.com'
+        run: 'text thrivebureau.com'
     },
     clickOnImgStep,
     // 2. Edit the link with the link tools.
     {
         content: "Click on the newly created link, change content to thrive website",
-        trigger: 'iframe .s_text_image a[href="http://ThriveERP.com"]:contains("ThriveERP.com")',
+        trigger: 'iframe .s_text_image a[href="http://thrivebureau.com"]:contains("thrivebureau.com")',
         run: 'text thrive website',
     },
     {
@@ -91,7 +91,7 @@ wTourUtils.registerWebsitePreviewTour('link_tools', {
     {
         content: "Set URL.",
         trigger: '.o_we_customize_panel we-input:contains("Your URL") input',
-        run: 'text ThriveERP.com',
+        run: 'text thrivebureau.com',
     },
     {
         content: "Deselect image.",
@@ -103,13 +103,13 @@ wTourUtils.registerWebsitePreviewTour('link_tools', {
     },
     {
         content: "Check that link tools appear.",
-        trigger: 'iframe .popover div a:contains("http://ThriveERP.com")',
+        trigger: 'iframe .popover div a:contains("http://thrivebureau.com")',
         run: () => {}, // It's a check.
     },
     // 5. Remove link from image.
     {
         content: "Remove link.",
-        trigger: 'iframe .popover:contains("http://ThriveERP.com") a .fa-chain-broken',
+        trigger: 'iframe .popover:contains("http://thrivebureau.com") a .fa-chain-broken',
     },
     {
         content: "Check that image is not within a link anymore.",

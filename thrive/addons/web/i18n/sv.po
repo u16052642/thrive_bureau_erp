@@ -3,7 +3,7 @@
 # 	* web
 # 
 # Translators:
-# fah_thrive <fah@ThriveERP.com>, 2022
+# fah_thrive <fah@thrivebureau.com>, 2022
 # Jonathan S <jonathan.c.strom@gmail.com>, 2022
 # Christelle Wehbe <libanon_cristelle@hotmail.com>, 2022
 # Haojun Zou <apollo_zhj@msn.com>, 2022
@@ -3311,8 +3311,8 @@ msgstr "Flerradig Text"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Mitt ThriveERP.com-konto"
+msgid "My thrivebureau.com account"
+msgstr "Mitt thrivebureau.com-konto"
 
 #. module: web
 #. thrive-javascript

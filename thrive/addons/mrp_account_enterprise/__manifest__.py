@@ -12,7 +12,7 @@ Analytic Accounting in MRP
 
 * Cost structure report
 """,
-    'website': 'https://www.ThriveERP.com/app/manufacturing',
+    'website': 'https://www.thrivebureau.com/app/manufacturing',
     'depends': ['mrp_account'],
     'data': [
         'security/ir.model.access.csv',

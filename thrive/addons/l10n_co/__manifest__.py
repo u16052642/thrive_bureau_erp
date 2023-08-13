@@ -14,7 +14,7 @@
     'category': 'Accounting/Localizations/Account Charts',
     'description': 'Colombian Accounting and Tax Preconfiguration',
     'author': 'David Arnold (XOE Solutions)',
-    'website': 'https://www.ThriveERP.com/colombia',
+    'website': 'https://www.thrivebureau.com/colombia',
     'depends': [
         'account',
         'account_debit_note',

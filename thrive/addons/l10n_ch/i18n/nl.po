@@ -3,7 +3,7 @@
 # 	* l10n_ch
 #
 # Translators:
-# Lukas Van Cauter <cvl@ThriveERP.com>, 2022
+# Lukas Van Cauter <cvl@thrivebureau.com>, 2022
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2022
 # Martin Trigaux, 2022
 #

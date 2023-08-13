@@ -3,8 +3,8 @@
 # 	* website_sale_digital
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
-# Ludvig Auvens <lau@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
+# Ludvig Auvens <lau@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2023
 # 

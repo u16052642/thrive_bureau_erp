@@ -3,7 +3,7 @@
 # 	* calendar_sms
 # 
 # Translators:
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Tomasz Leppich <t.leppich@gmail.com>, 2022
 # Piotr Strębski <strebski@gmail.com>, 2022
 # Maksym <ms@mythrive.pl>, 2022

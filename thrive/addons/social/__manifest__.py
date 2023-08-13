@@ -8,7 +8,7 @@
     'summary': 'Manage your social media and website visitors',
     'version': '1.3',
     'description': """Manage your social media and website visitors""",
-    'website': 'https://www.ThriveERP.com/app/social-marketing',
+    'website': 'https://www.thrivebureau.com/app/social-marketing',
     'depends': ['web', 'mail', 'iap', 'link_tracker'],
     'data': [
         'security/social_security.xml',

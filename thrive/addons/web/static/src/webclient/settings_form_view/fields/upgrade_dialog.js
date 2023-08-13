@@ -15,7 +15,7 @@ export class UpgradeDialog extends Component {
             [["share", "=", false]],
         ]);
         this.router.redirect(
-            "https://www.ThriveERP.com/thrive-enterprise/upgrade?num_users=" + usersCount
+            "https://www.thrivebureau.com/thrive-enterprise/upgrade?num_users=" + usersCount
         );
     }
 }

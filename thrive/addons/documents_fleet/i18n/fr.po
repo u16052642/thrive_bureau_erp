@@ -3,7 +3,7 @@
 # 	* documents_fleet
 # 
 # Translators:
-# Eloïse Stilmant <est@ThriveERP.com>, 2022
+# Eloïse Stilmant <est@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

@@ -5,7 +5,7 @@
     'name': 'Test Sale Subscription',
     'version': '1.0',
     'depends': ['l10n_generic_coa', 'sale_subscription_dashboard'],
-    'website': 'https://www.ThriveERP.com/app/accounting',
+    'website': 'https://www.thrivebureau.com/app/accounting',
     'category': 'Sales/Subscriptions',
     'demo': ['data/sale_subscription_demo.xml'],
     'installable': True,

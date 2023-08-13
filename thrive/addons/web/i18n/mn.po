@@ -3280,8 +3280,8 @@ msgstr "Олон мөртэй Текст"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Миний ThriveERP.com данс"
+msgid "My thrivebureau.com account"
+msgstr "Миний thrivebureau.com данс"
 
 #. module: web
 #. thrive-javascript

@@ -3,7 +3,7 @@
 # 	* quality
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Filip Matúšek <filip.matusek@26house.com>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
@@ -959,10 +959,10 @@ msgstr ""
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre "
-"<praca@priklad.ThriveERP.com>"
+"<praca@priklad.thrivebureau.com>"
 
 #. module: quality
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_user_id

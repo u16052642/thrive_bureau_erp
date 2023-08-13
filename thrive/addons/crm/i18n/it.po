@@ -340,7 +340,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -1234,7 +1234,7 @@ msgid ""
 "company size, business information, social media accounts, etc."
 msgstr ""
 "Lo sapevi che è possibile cercare un'azienda a partire dal nome o dalla "
-"partita IVA e compilare istantaneamente i suoi dati? ThriveERP.completa tutto in "
+"partita IVA e compilare istantaneamente i suoi dati? thrivebureau.completa tutto in "
 "modo automatico: logo, indirizzo, dimensione azienda, informazioni "
 "commerciali, account social network ecc..."
 
@@ -3514,10 +3514,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Nome dell’alias e-mail, es. “lavori” per intercettare le e-mail a "
-"<lavori@example.ThriveERP.com>"
+"<lavori@example.thrivebureau.com>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -4067,8 +4067,8 @@ msgstr "es. troppo costoso"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.ThriveERP.com"
-msgstr "es. https://www.ThriveERP.com"
+msgid "e.g. https://www.thrivebureau.com"
+msgstr "es. https://www.thrivebureau.com"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form

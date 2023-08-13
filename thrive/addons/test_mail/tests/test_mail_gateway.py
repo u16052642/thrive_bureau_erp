@@ -1502,7 +1502,7 @@ class TestMailgateway(TestMailCommon):
                 subject='Test alias loop X',
                 target_model=alias.alias_model_id.model,
                 return_path=self.email_from,
-                extra='References: <test-1337-loop-detection-bounce-email@ThriveERP.com>',
+                extra='References: <test-1337-loop-detection-bounce-email@thrivebureau.com>',
             )
 
         self.assertNotSentEmail()

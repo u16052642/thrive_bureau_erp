@@ -44,7 +44,7 @@ QUnit.module('partner_autocomplete', {
                         return Promise.resolve([
                             {
                                 "name": "Thrive",
-                                "domain": "ThriveERP.com",
+                                "domain": "thrivebureau.com",
                             },
                             {
                                 "name": "MyCompany",

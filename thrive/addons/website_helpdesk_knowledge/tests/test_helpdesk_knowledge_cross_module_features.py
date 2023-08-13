@@ -29,7 +29,7 @@ class TestHelpdeskKnowledgeCrossModuleFeatures(HttpCase):
                 <p><br></p>
                 <div class="o_knowledge_behavior_anchor o_knowledge_behavior_type_file">
                     <div class="o_knowledge_file_image" data-prop-name="fileImage">
-                        <a href="https://www.ThriveERP.com/web/content/31413934?download=true" title="Onboarding.pdf" data-mimetype="application/pdf" class="o_image"></a>
+                        <a href="https://www.thrivebureau.com/web/content/31413934?download=true" title="Onboarding.pdf" data-mimetype="application/pdf" class="o_image"></a>
                     </div>
                     <div class="o_knowledge_file_description">
                         <div class="o_knowledge_file_name" data-prop-name="fileName">Thrive Survival Guide</div>

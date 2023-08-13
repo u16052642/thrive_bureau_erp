@@ -742,9 +742,9 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form
 msgid ""
 "e.g. Engage your entire community with a single app! "
-"https://www.ThriveERP.com/trial"
+"https://www.thrivebureau.com/trial"
 msgstr ""
-"เช่น มีส่วนร่วมกับชุมชนทั้งหมดของคุณด้วยแอปเดียว! https://www.ThriveERP.com/trial"
+"เช่น มีส่วนร่วมกับชุมชนทั้งหมดของคุณด้วยแอปเดียว! https://www.thrivebureau.com/trial"
 
 #. module: social_youtube
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form

@@ -11191,8 +11191,8 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
-msgstr "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
+msgstr "https://www.thrivebureau.com"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_thrive_menu

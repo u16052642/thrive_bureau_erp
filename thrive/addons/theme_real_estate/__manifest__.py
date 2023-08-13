@@ -43,7 +43,7 @@
                      's_title', 's_masonry_block', 's_numbers', 's_quotes_carousel'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-real-estate.ThriveERP.com',
+    'live_test_url': 'https://theme-real-estate.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_real_estate/static/src/js/tour.js',

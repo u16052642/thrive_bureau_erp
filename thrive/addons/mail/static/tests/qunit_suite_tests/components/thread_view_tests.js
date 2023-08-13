@@ -864,7 +864,7 @@ QUnit.test('Post a message containing an email address followed by a mention on 
 
     const pyEnv = await startServer();
     const resPartnerId1 = pyEnv['res.partner'].create({
-        email: "testpartner@ThriveERP.com",
+        email: "testpartner@thrivebureau.com",
         name: "TestPartner",
     });
     const mailChannelId1 = pyEnv['mail.channel'].create({
@@ -879,7 +879,7 @@ QUnit.test('Post a message containing an email address followed by a mention on 
         },
     });
     await openDiscuss();
-    await insertText('.o_ComposerTextInput_textarea', "email@ThriveERP.com\n");
+    await insertText('.o_ComposerTextInput_textarea', "email@thrivebureau.com\n");
     await insertText('.o_ComposerTextInput_textarea', "@Te");
     await click('.o_ComposerSuggestionView');
     await click('.o_Composer_buttonSend');
@@ -1610,7 +1610,7 @@ QUnit.test("not highlighting the message if not mentioning the current user insi
     const pyEnv = await startServer();
     const resPartnerId1 = pyEnv['res.partner'].create({
         display_name: "testPartner",
-        email: "testPartner@ThriveERP.com",
+        email: "testPartner@thrivebureau.com",
     });
     pyEnv['res.users'].create({ partner_id: resPartnerId1 });
     const mailChannelId1 = pyEnv['mail.channel'].create({

@@ -7,7 +7,7 @@
     'category': 'Inventory/Purchase',
     'sequence': 35,
     'summary': 'Purchase orders, tenders and agreements',
-    'website': 'https://www.ThriveERP.com/app/purchase',
+    'website': 'https://www.thrivebureau.com/app/purchase',
     'depends': ['account'],
     'data': [
         'security/purchase_security.xml',

@@ -3,7 +3,7 @@
 # 	* knowledge
 # 
 # Translators:
-# Leon Grill <leg@ThriveERP.com>, 2022
+# Leon Grill <leg@thrivebureau.com>, 2022
 # Ralf Hilgenstock <rh@dialoge.info>, 2022
 # Friederike Fasterling-Nesselbosch, 2022
 # Michael Hofer, 2022

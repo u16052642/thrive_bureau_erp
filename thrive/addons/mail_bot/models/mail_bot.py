@@ -64,8 +64,8 @@ class MailBot(models.AbstractModel):
             # help message
             elif self._is_help_requested(body) or thrivebot_state == 'idle':
                 return _("Unfortunately, I'm just a bot 😞 I don't understand! If you need help discovering our product, please check "
-                         "<a href=\"https://www.ThriveERP.com/documentation\" target=\"_blank\">our documentation</a> or "
-                         "<a href=\"https://www.ThriveERP.com/slides\" target=\"_blank\">our videos</a>.")
+                         "<a href=\"https://www.thrivebureau.com/documentation\" target=\"_blank\">our documentation</a> or "
+                         "<a href=\"https://www.thrivebureau.com/slides\" target=\"_blank\">our videos</a>.")
             else:
                 # repeat question
                 if thrivebot_state == 'onboarding_emoji':

@@ -1,7 +1,7 @@
 Thrive Accounting
 ---------------
 
-The Thrive <a href="https://www.ThriveERP.com/app/accounting">Open Source Accounting</a> app allows a better way to
+The Thrive <a href="https://www.thrivebureau.com/app/accounting">Open Source Accounting</a> app allows a better way to
 collaborate with your accountants, your customers and control your suppliers.
 
 Activate features on demand, from integrated analytic accounting to budget,

@@ -3,7 +3,7 @@
 # * website_helpdesk_slides
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Kiros Haregewoine <kirosharegewoine@yahoo.com>, 2017
 msgid ""
 msgstr ""

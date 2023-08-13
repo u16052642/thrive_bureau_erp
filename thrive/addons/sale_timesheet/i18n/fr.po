@@ -4,10 +4,10 @@
 # 
 # Translators:
 # 6534c450c77b2549e41c52e2051f5839, 2022
-# Cécile Perrez <cpe@ThriveERP.com>, 2022
+# Cécile Perrez <cpe@thrivebureau.com>, 2022
 # Alexandra Jubert, 2022
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2023
 # 
 msgid ""

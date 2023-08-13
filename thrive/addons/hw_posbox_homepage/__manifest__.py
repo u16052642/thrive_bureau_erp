@@ -5,7 +5,7 @@
     'name': 'IoT Box Homepage',
     'category': 'Sales/Point of Sale',
     'sequence': 6,
-    'website': 'https://www.ThriveERP.com/app/point-of-sale-hardware',
+    'website': 'https://www.thrivebureau.com/app/point-of-sale-hardware',
     'summary': 'A homepage for the IoT Box',
     'description': """
 IoT Box Homepage

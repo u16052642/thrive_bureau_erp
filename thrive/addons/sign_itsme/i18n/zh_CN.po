@@ -3,7 +3,7 @@
 # 	* sign_itsme
 # 
 # Translators:
-# Felix Yuen <fyu@ThriveERP.com>, 2022
+# Felix Yuen <fyu@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Raymond Yu <cl_yu@hotmail.com>, 2022
 # Jeffery CHEN <jeffery9@gmail.com>, 2022

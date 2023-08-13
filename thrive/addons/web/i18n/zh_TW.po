@@ -3280,8 +3280,8 @@ msgstr "多行文本"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "ThriveERP.com帳戶"
+msgid "My thrivebureau.com account"
+msgstr "thrivebureau.com帳戶"
 
 #. module: web
 #. thrive-javascript

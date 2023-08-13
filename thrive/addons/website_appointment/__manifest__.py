@@ -7,7 +7,7 @@
     'version': '1.0',
     'category': 'Marketing/Online Appointment',
     'sequence': 215,
-    'website': 'https://www.ThriveERP.com/page/appointments',
+    'website': 'https://www.thrivebureau.com/page/appointments',
     'description': """
 Allow clients to Schedule Appointments through your Website
 -------------------------------------------------------------

@@ -3,7 +3,7 @@
 # 	* website
 # 
 # Translators:
-# Keli Brugalli <kbr@ThriveERP.com>, 2022
+# Keli Brugalli <kbr@thrivebureau.com>, 2022
 # Marcelo at JambuTec <marcelo@jambu.com.br>, 2022
 # Mateus Lopes <mateus1@gmail.com>, 2022
 # Luis Felipe Miléo <mileo@kmee.com.br>, 2022
@@ -8338,7 +8338,7 @@ msgid ""
 "picture, in just a few clicks."
 msgstr ""
 "Pesquise no diálogo da mídia quando precisar de fotos para ilustrar o seu "
-"site. A integração do ThriveERP.com o Unsplash, com milhões de fotos livres de "
+"site. A integração do thrivebureau.com o Unsplash, com milhões de fotos livres de "
 "royalties e de alta qualidade, permite que você obtenha a imagem perfeita "
 "com apenas alguns cliques."
 
@@ -11383,8 +11383,8 @@ msgstr "https://fonts.google.com/specimen/Roboto"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
-msgstr "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
+msgstr "https://www.thrivebureau.com"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_thrive_menu

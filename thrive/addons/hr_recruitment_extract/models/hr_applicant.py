@@ -143,7 +143,7 @@ class HrApplicant(models.Model):
             'version': CLIENT_OCR_VERSION,
         }
         endpoint = self.env['ir.config_parameter'].sudo().get_param(
-            'hr_recruitment_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/applicant/1/validate_batch'
+            'hr_recruitment_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/applicant/1/validate_batch'
         try:
             iap_tools.iap_jsonrpc(endpoint, params=params)
             app_to_validate.extract_state = 'done'
@@ -205,7 +205,7 @@ class HrApplicant(models.Model):
     def _check_ocr_status(self):
         self.ensure_one()
         endpoint = self.env['ir.config_parameter'].sudo().get_param(
-            'hr_recruitment_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/applicant/1/get_result'
+            'hr_recruitment_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/applicant/1/get_result'
         params = {
             'version': CLIENT_OCR_VERSION,
             'document_id': self.extract_remote_id
@@ -281,7 +281,7 @@ class HrApplicant(models.Model):
         ):
             account_token = self.env['iap.account'].get('invoice_ocr')
             endpoint = self.env['ir.config_parameter'].sudo().get_param(
-                    'hr_recruitment_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/applicant/1/parse'
+                    'hr_recruitment_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/applicant/1/parse'
 
             #this line contact iap to create account if this is the first request. This allow iap to give free credits if the database is elligible
             self.env['iap.account'].get_credits('invoice_ocr')

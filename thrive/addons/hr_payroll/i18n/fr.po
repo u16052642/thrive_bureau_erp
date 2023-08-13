@@ -3,9 +3,9 @@
 # 	* hr_payroll
 # 
 # Translators:
-# Tivisse <yti@ThriveERP.com>, 2022
+# Tivisse <yti@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 
 msgid ""
@@ -4258,8 +4258,8 @@ msgstr "par exemple : Salaire régulier"
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.hr_payroll_note_demo_content
-msgid "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
-msgstr "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
+msgid "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
+msgstr "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.report_payslip

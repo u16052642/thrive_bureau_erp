@@ -6,7 +6,7 @@
     'version': '1.2',
     'category': 'Productivity/Discuss',
     'summary': 'Add ThriveBot in discussions',
-    'website': 'https://www.ThriveERP.com/app/discuss',
+    'website': 'https://www.thrivebureau.com/app/discuss',
     'depends': ['mail'],
     'auto_install': True,
     'installable': True,

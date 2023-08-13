@@ -6,10 +6,10 @@
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2019
 # Nhomar Hernández [Vauxoo] <nhomar@vauxoo.com>, 2019
 # Gabriel Umana <gabriel.umana@delfixcr.com>, 2019
-# Pierre-Antoine Magnet <pma@ThriveERP.com>, 2019
+# Pierre-Antoine Magnet <pma@thrivebureau.com>, 2019
 # JOSE ALEJANDRO ECHEVERRI VALENCIA <josealejandroeche@gmail.com>, 2019
 # Nicolás Broggi <rnbroggi@gmail.com>, 2019
-# Carolina Gonzalez <cgo@ThriveERP.com>, 2019
+# Carolina Gonzalez <cgo@thrivebureau.com>, 2019
 # e2f <projects@e2f.com>, 2019
 # Martin Trigaux, 2019
 # Daniel Blanco <daniel@blancomartin.com.ar>, 2019

@@ -10,7 +10,7 @@
 # Piotr Strębski <strebski@gmail.com>, 2022
 # Andrzej Wiśniewski <a.wisniewski@hadron.eu.com>, 2022
 # Dawid Prus, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2022
 # Tomasz Leppich <t.leppich@gmail.com>, 2022
 # Maja Stawicka <mjstwck@wp.pl>, 2022
@@ -1378,10 +1378,10 @@ msgstr ""
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Nazwa aliasu e-mail, np. \"jobs\", jeśli chcesz przechwytywać wiadomości "
-"e-mail dla <jobs@example.ThriveERP.com>"
+"e-mail dla <jobs@example.thrivebureau.com>"
 
 #. module: maintenance
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_user_id

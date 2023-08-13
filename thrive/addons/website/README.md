@@ -1,8 +1,8 @@
 Thrive Website Builder
 --------------------
 
-Get an awesome and <a href="https://www.ThriveERP.com/app/website">free website</a>,
-easily customizable with the Thrive <a href="https://www.ThriveERP.com/app/website">website builder</a>.
+Get an awesome and <a href="https://www.thrivebureau.com/app/website">free website</a>,
+easily customizable with the Thrive <a href="https://www.thrivebureau.com/app/website">website builder</a>.
 
 Create enterprise grade website with our super easy builder. Use finely
 designed building blocks and edit everything inline.

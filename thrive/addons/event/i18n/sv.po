@@ -3507,8 +3507,8 @@ msgstr ""
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@ThriveERP.com"
-msgstr "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
+msgstr "events@thrivebureau.com"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

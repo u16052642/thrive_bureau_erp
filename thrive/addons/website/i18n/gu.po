@@ -4,9 +4,9 @@
 # 
 # Translators:
 # Martin Trigaux, 2018
-# Ranjit Pillai <rpi@ThriveERP.com>, 2018
+# Ranjit Pillai <rpi@thrivebureau.com>, 2018
 # Dharmraj Jhala <dja@thrivebureau.com>, 2018
-# Divya Pandya <dia@ThriveERP.com>, 2018
+# Divya Pandya <dia@thrivebureau.com>, 2018
 # Turkesh Patel <turkesh4friends@gmail.com>, 2018
 msgid ""
 msgstr ""
@@ -4732,7 +4732,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.ThriveERP.com"
+msgid "www.thrivebureau.com"
 msgstr ""
 
 #. module: website

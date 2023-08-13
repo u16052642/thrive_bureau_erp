@@ -15,7 +15,7 @@
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2019
 # Rangy Chen <rangychen@163.com>, 2019
 # e2f_cn c5 <jarvisn@ecinnovations.com>, 2019
-# Lisa Zhang <lzh@ThriveERP.com>, 2019
+# Lisa Zhang <lzh@thrivebureau.com>, 2019
 # inspur qiuguodong <qiuguodong@inspur.com>, 2019
 # liAnGjiA <liangjia@qq.com>, 2019
 # 

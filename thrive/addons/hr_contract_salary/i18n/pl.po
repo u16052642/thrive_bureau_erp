@@ -17,7 +17,7 @@
 # Grzegorz Grzelak <grzegorz.grzelak@openglobe.pl>, 2022
 # Piotr Cierkosz <piotr.w.cierkosz@gmail.com>, 2022
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Paweł Wodyński <pw@mythrive.pl>, 2022
 # Martin Trigaux, 2022
 # Maksym <ms@mythrive.pl>, 2022

@@ -855,7 +855,7 @@
     }
     /**
      * Check if the string is a web link.
-     * e.g. http://ThriveERP.com
+     * e.g. http://thrivebureau.com
      */
     function isWebLink(str) {
         return WEB_LINK_REGEX.test(str);

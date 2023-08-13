@@ -3,10 +3,10 @@
 # 	* project
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
-# Braulio D. López Vázquez <bdl@ThriveERP.com>, 2022
-# Lucia Pacheco <lpo@ThriveERP.com>, 2022
-# Patricia Gutiérrez Capetillo <pagc@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
+# Braulio D. López Vázquez <bdl@thrivebureau.com>, 2022
+# Lucia Pacheco <lpo@thrivebureau.com>, 2022
+# Patricia Gutiérrez Capetillo <pagc@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""
@@ -5561,10 +5561,10 @@ msgstr ""
 #: model:ir.model.fields,help:project.field_project_project__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Use el seudónimo del correo electrónico, por ejemplo, 'jobs' si desea "
-"recibir correos electrónicos para <jobs@example.ThriveERP.com>"
+"recibir correos electrónicos para <jobs@example.thrivebureau.com>"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_user_id

@@ -559,8 +559,8 @@ msgstr "Thrive를 통해 프로젝트와 작업을 구성하면, 자원 예측�
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:0
 #, python-format
-msgid "Use an ThriveERP.com account"
-msgstr "ThriveERP.com 계정을 사용"
+msgid "Use an thrivebureau.com account"
+msgstr "thrivebureau.com 계정을 사용"
 
 #. module: project_timesheet_synchro
 #. openerp-web

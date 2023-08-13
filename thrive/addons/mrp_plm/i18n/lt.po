@@ -12,7 +12,7 @@
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022
 # Ramunė ViaLaurea <ramune.vialaurea@gmail.com>, 2022
 # Audrius Palenskis <audrius.palenskis@gmail.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Arunas V. <arunas@devoro.com>, 2022
 # Monika Raciunaite <monika.raciunaite@gmail.com>, 2022
 # Martin Trigaux, 2022
@@ -1697,10 +1697,10 @@ msgstr ""
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "El. pašto pseudonimo pavadinimas, pvz. \"darbai\", jei norite gauti "
-"<darbai@pavyzdys.ThriveERP.com>"
+"<darbai@pavyzdys.thrivebureau.com>"
 
 #. module: mrp_plm
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_user_id

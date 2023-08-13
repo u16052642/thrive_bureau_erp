@@ -19,7 +19,7 @@ class TestTokenAccess(TransactionCase):
             user = cls.env['res.users'].create({
                 'name': f'{u}',
                 'login': f'{u}',
-                'email': f'{u}@ThriveERP.com',
+                'email': f'{u}@thrivebureau.com',
                 'google_calendar_account_id': credentials.id,
             })
             cls.users += [user]
@@ -27,7 +27,7 @@ class TestTokenAccess(TransactionCase):
         cls.system_user = cls.env['res.users'].create({
             'name': 'system_user',
             'login': 'system_user',
-            'email': 'system_user@ThriveERP.com',
+            'email': 'system_user@thrivebureau.com',
             'groups_id': [Command.link(cls.env.ref('base.group_system').id)],
         })
 

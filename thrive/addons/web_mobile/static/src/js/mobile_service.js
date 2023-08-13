@@ -15,7 +15,7 @@ const mobileService = {
         }
 
         if (mobile.methods.switchAccount) {
-            // remove "Log Out" and "My ThriveERP.com Account"
+            // remove "Log Out" and "My thrivebureau.com Account"
             userMenuRegistry.remove('log_out');
             userMenuRegistry.remove('thrive_account');
 

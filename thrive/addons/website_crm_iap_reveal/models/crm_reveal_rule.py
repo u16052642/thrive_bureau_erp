@@ -15,7 +15,7 @@ from thrive.exceptions import ValidationError
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap-services.ThriveERP.com'
+DEFAULT_ENDPOINT = 'https://iap-services.thrivebureau.com'
 DEFAULT_REVEAL_BATCH_LIMIT = 25
 DEFAULT_REVEAL_MONTH_VALID = 6
 

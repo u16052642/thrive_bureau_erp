@@ -4102,7 +4102,7 @@ msgstr ""
 
 #. module: hr_payroll
 #: model_terms:ir.ui.view,arch_db:hr_payroll.hr_payroll_note_demo_content
-msgid "https://www.ThriveERP.com/fr_FR/slides/slide/manage-payroll-1002"
+msgid "https://www.thrivebureau.com/fr_FR/slides/slide/manage-payroll-1002"
 msgstr ""
 
 #. module: hr_payroll

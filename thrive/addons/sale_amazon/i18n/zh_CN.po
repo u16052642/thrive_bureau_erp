@@ -3,7 +3,7 @@
 # 	* sale_amazon
 # 
 # Translators:
-# Mandy Choy <mnc@ThriveERP.com>, 2022
+# Mandy Choy <mnc@thrivebureau.com>, 2022
 # 智能科技奇客罗方 <alanljj@gmail.com>, 2022
 # Martin Trigaux, 2022
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2022
@@ -39,7 +39,7 @@ msgid ""
 "                    <li>Save the changes and click on the <em>SYNC ORDERS</em> button.</li>\n"
 "                </ol>\n"
 "            </p>\n"
-"            <p>If the problem persists, contact <a href=\"https://www.ThriveERP.com/help/\">Thrive support</a>.</p>\n"
+"            <p>If the problem persists, contact <a href=\"https://www.thrivebureau.com/help/\">Thrive support</a>.</p>\n"
 "        </div>\n"
 "        "
 msgstr ""
@@ -55,7 +55,7 @@ msgstr ""
 "                    <li>保存更改并点击<em>同步订单</em>按钮。</li>\n"
 "                </ol>\n"
 "            </p>\n"
-"            <p>如果问题仍然存在，请联系<a href=\"https://www.ThriveERP.com/help/\">Thrive支持</a>。</p>\n"
+"            <p>如果问题仍然存在，请联系<a href=\"https://www.thrivebureau.com/help/\">Thrive支持</a>。</p>\n"
 "        </div>\n"
 "        "
 

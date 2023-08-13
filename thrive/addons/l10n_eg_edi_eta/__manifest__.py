@@ -9,7 +9,7 @@
        Special thanks to Plementus <info@plementus.com> for their help in developing this module.
     """,
     'author': 'thrive',
-    'website': 'https://www.ThriveERP.com',
+    'website': 'https://www.thrivebureau.com',
     'category': 'account',
     'version': '0.1',
     'license': 'LGPL-3',

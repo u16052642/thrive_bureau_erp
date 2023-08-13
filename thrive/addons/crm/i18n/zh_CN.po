@@ -332,7 +332,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -403,7 +403,7 @@ msgstr ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    由<a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>提供技术提供\n"
+"    由<a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>提供技术提供\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -3453,8 +3453,8 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
-msgstr "邮件别名的名称，例如，如果您要收取 <jobs@example.ThriveERP.com> 的EMail,别名就要设为：\"jobs\""
+"<jobs@example.thrivebureau.com>"
+msgstr "邮件别名的名称，例如，如果您要收取 <jobs@example.thrivebureau.com> 的EMail,别名就要设为：\"jobs\""
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -3962,8 +3962,8 @@ msgstr "例如太贵了"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.ThriveERP.com"
-msgstr "例如：https://www.ThriveERP.com"
+msgid "e.g. https://www.thrivebureau.com"
+msgstr "例如：https://www.thrivebureau.com"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form

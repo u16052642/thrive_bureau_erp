@@ -73,7 +73,7 @@ QUOTE_BLOCKQUOTE = u"""<html>
     </div>
     <blockquote
 cite="mid:CAEJSRZvWvud8c6Qp=wfNG6O1+wK3i_jb33qVrF7XyrgPNjnyUA@mail.gmail.com"
-      type="cite"><base href="https://www.ThriveERP.com">
+      type="cite"><base href="https://www.thrivebureau.com">
       <div dir="ltr">Yep Dominique that is true, as Postgres was the
         base of all same as Thrive and MySQL etc came much later.Â 
         <div><br>
@@ -375,11 +375,11 @@ HOTMAIL_1 = u"""<div>
             <div id="SkyDrivePlaceholder">
             </div>
             <hr id="stopSpelling">
-            Subject: Re: your ThriveERP.com registration<br>From: xxx@xxx.xxx<br>To: xxx@xxx.xxx<br>Date: Wed, 27 Mar 2013 17:12:12 +0000
+            Subject: Re: your thrivebureau.com registration<br>From: xxx@xxx.xxx<br>To: xxx@xxx.xxx<br>Date: Wed, 27 Mar 2013 17:12:12 +0000
             <br><br>
             Hello xxx,
             <br>
-            I noticed you recently created an ThriveERP.com account to access ThriveERP Apps.
+            I noticed you recently created an thrivebureau.com account to access ThriveERP Apps.
             <br>
             You indicated that you wish to use ThriveERP in your own company.
             We would like to know more about your your business needs and requirements, and see how
@@ -473,7 +473,7 @@ MSOFFICE_1 = u"""
                     </span></b>
                     <span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">
                         ThriveERP Enterprise [mailto:sales@thrivebureau.com]
-                        <br><b>Sent:</b> Monday, 11 March, 2013 14:47<br><b>To:</b> Alan Widmer<br><b>Subject:</b> Re: your ThriveERP.com registration
+                        <br><b>Sent:</b> Monday, 11 March, 2013 14:47<br><b>To:</b> Alan Widmer<br><b>Subject:</b> Re: your thrivebureau.com registration
                     </span>
                 </p>
                 <p></p>

@@ -711,8 +711,8 @@ class TestResPartner(AccountTestInvoicingCommon):
         bill = self.create_and_post_bill(partner_id=child_partner, product_id=self.product_a, amount=1500.0, date='2000-05-12')
         # simulate the previous behavior of Thrive setting the child_partner on the amls instead of commercial_partner_id
         # for details on this solved issue, see those 2 commits as examples:
-        # https://github.com/thrive/ThriveERP.commit/4606d1a8890
-        # https://github.com/thrive/ThriveERP.commit/91379d20da6f7114359c9147654a60fe86b904d5
+        # https://github.com/thrive/thrivebureau.commit/4606d1a8890
+        # https://github.com/thrive/thrivebureau.commit/91379d20da6f7114359c9147654a60fe86b904d5
         bill.line_ids.partner_id = child_partner
 
         self.pay_bill(bill=bill, amount=1500.0, date='2000-05-12')

@@ -6,7 +6,7 @@
 # Martin Trigaux, 2019
 # Ermin Trevisan <trevi@twanda.com>, 2019
 # Rudolf Schnapka <rs@techno-flex.de>, 2019
-# Leon Grill <leg@ThriveERP.com>, 2019
+# Leon Grill <leg@thrivebureau.com>, 2019
 # Chris Egal <sodaswed@web.de>, 2019
 # 
 msgid ""

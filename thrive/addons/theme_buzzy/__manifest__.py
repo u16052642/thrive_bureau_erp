@@ -49,7 +49,7 @@
         'homepage': ['s_banner', 's_text_image', 's_three_columns', 's_image_text', 's_numbers', 's_call_to_action'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-buzzy.ThriveERP.com',
+    'live_test_url': 'https://theme-buzzy.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_buzzy/static/src/js/tour.js',

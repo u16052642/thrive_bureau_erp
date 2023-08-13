@@ -24,7 +24,7 @@ class TestThrivebot(TestMailCommon, TestRecipients):
             'partner_ids': [],
             'subtype_xmlid': 'mail.mt_comment'
         }
-        cls.thrivebot_ping_body = '<a href="http://ThriveERP.com/web#model=res.partner&amp;id=%s" class="o_mail_redirect" data-oe-id="%s" data-oe-model="res.partner" target="_blank">@ThriveBot</a>' % (cls.thrivebot.id, cls.thrivebot.id)
+        cls.thrivebot_ping_body = '<a href="http://thrivebureau.com/web#model=res.partner&amp;id=%s" class="o_mail_redirect" data-oe-id="%s" data-oe-model="res.partner" target="_blank">@ThriveBot</a>' % (cls.thrivebot.id, cls.thrivebot.id)
         cls.test_record_employe = cls.test_record.with_user(cls.user_employee)
 
     @mute_logger('thrive.addons.mail.models.mail_mail')

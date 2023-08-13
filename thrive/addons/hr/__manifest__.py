@@ -7,7 +7,7 @@
     'category': 'Human Resources/Employees',
     'sequence': 95,
     'summary': 'Centralize employee information',
-    'website': 'https://www.ThriveERP.com/app/employees',
+    'website': 'https://www.thrivebureau.com/app/employees',
     'images': [
         'images/hr_department.jpeg',
         'images/hr_employee.jpeg',

@@ -37,7 +37,7 @@
         'homepage': ['s_banner', 's_image_text', 's_three_columns', 's_product_list', 's_call_to_action'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-kiddo.ThriveERP.com',
+    'live_test_url': 'https://theme-kiddo.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_kiddo/static/src/js/tour.js',

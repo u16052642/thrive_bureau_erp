@@ -17,8 +17,8 @@ from thrive.addons.iap.tools.iap_tools import iap_jsonrpc
 from thrive.exceptions import AccessError
 from thrive.tools import float_round, html_escape
 
-DEFAULT_IAP_ENDPOINT = 'https://iap-pe-edi.ThriveERP.com'
-DEFAULT_IAP_TEST_ENDPOINT = 'https://l10n-pe-edi-proxy-demo.ThriveERP.com'
+DEFAULT_IAP_ENDPOINT = 'https://iap-pe-edi.thrivebureau.com'
+DEFAULT_IAP_TEST_ENDPOINT = 'https://l10n-pe-edi-proxy-demo.thrivebureau.com'
 
 
 class AccountEdiFormat(models.Model):
@@ -160,7 +160,7 @@ class AccountEdiFormat(models.Model):
                        "1. Linked Digiflow as OSE.\n"
                        "2. Authorize Digiflow as PSE.\n"
                        "Reference: \n"
-                       "https://www.ThriveERP.com/documentation/16.0/applications/finance/accounting/fiscal_localizations/localizations/peru.html#what-do-you-need-to-do"),
+                       "https://www.thrivebureau.com/documentation/16.0/applications/finance/accounting/fiscal_localizations/localizations/peru.html#what-do-you-need-to-do"),
             '98': _lt("The cancellation request has not yet finished processing by SUNAT. Please retry in a few minutes.")
         }
 
@@ -361,7 +361,7 @@ class AccountEdiFormat(models.Model):
     # -------------------------------------------------------------------------
 
     def _l10n_pe_edi_get_iap_buy_credits_message(self, company):
-        base_url = 'https://iap-sandbox.ThriveERP.com/iap/1/credit' if company.l10n_pe_edi_test_env else ''
+        base_url = 'https://iap-sandbox.thrivebureau.com/iap/1/credit' if company.l10n_pe_edi_test_env else ''
         url = self.env['iap.account'].get_credits_url(service_name="l10n_pe_edi", base_url=base_url)
         return '''<p><b>%s</b></p><p>%s</p>''' % (
             _('You have insufficient credits to sign or verify this document!'),

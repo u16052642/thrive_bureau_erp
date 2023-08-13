@@ -60,7 +60,7 @@ class TestViewNormalization(TransactionCase):
                                 <field name="zip" placeholder="ZIP" class="o_address_zip" attrs="{'readonly': [('type', '=', 'contact'),('parent_id', '!=', False)]}"/>
                                 <field name="country_id" placeholder="Country" class="o_address_country" options="{&quot;no_open&quot;: True, &quot;no_create&quot;: True}" attrs="{'readonly': [('type', '=', 'contact'),('parent_id', '!=', False)]}"/>
                             </div>
-                            <field name="website" widget="url" placeholder="e.g. www.ThriveERP.com"/>
+                            <field name="website" widget="url" placeholder="e.g. www.thrivebureau.com"/>
                         </group>
                         <group>
                             <field name="function" placeholder="e.g. Sales Director" attrs="{'invisible': [('is_company','=', True)]}"/>

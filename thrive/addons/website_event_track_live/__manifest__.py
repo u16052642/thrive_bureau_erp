@@ -8,7 +8,7 @@
     'sequence': 1006,
     'version': '1.0',
     'summary': 'Support live tracks: streaming, participation, youtube',
-    'website': 'https://www.ThriveERP.com/app/events',
+    'website': 'https://www.thrivebureau.com/app/events',
     'depends': [
         'website_event_track',
     ],

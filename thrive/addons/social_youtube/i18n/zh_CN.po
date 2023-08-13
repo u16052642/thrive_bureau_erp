@@ -738,8 +738,8 @@ msgstr "您的视频元数据，包括标题和观看计数（但不包括视频
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form
 msgid ""
 "e.g. Engage your entire community with a single app! "
-"https://www.ThriveERP.com/trial"
-msgstr "例如，用一个单一的应用程序来吸引您的整个社区！https://www.ThriveERP.com/trial"
+"https://www.thrivebureau.com/trial"
+msgstr "例如，用一个单一的应用程序来吸引您的整个社区！https://www.thrivebureau.com/trial"
 
 #. module: social_youtube
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form

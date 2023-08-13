@@ -9,7 +9,7 @@
 # Jan Pedro Tumusok <jpt@eyenetworks.no>, 2022
 # Aleksander, 2022
 # Jorunn D. Newth, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Marius Stedjan <marius@stedjan.com>, 2022
 # Henning Fyllingsnes, 2023
@@ -11119,7 +11119,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
 msgstr ""
 
 #. module: website

@@ -11,7 +11,7 @@
 # Grzegorz Krukar <grzegorzgk1@gmail.com>, 2022
 # Piotr Cierkosz <piotr.w.cierkosz@gmail.com>, 2022
 # Grażyna Grzelak <grazyna.grzelak@openglobe.pl>, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2022
 # Paweł Wodyński <pw@mythrive.pl>, 2022
 # Tomasz Leppich <t.leppich@gmail.com>, 2022
@@ -972,10 +972,10 @@ msgstr ""
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Nazwa aliasu e-mail, np. \"jobs\", jeśli chcesz przechwytywać wiadomości "
-"e-mail dla <jobs@example.ThriveERP.com>"
+"e-mail dla <jobs@example.thrivebureau.com>"
 
 #. module: quality
 #: model:ir.model.fields,help:quality.field_quality_alert_team__alias_user_id

@@ -9,7 +9,7 @@ from thrive.addons.iap.tools import iap_tools
 import logging as logger
 _logger = logger.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://ocn.ThriveERP.com'
+DEFAULT_ENDPOINT = 'https://ocn.thrivebureau.com'
 
 
 class ResConfigSettings(models.TransientModel):

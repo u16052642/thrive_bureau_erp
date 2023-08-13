@@ -3,10 +3,10 @@
 # 	* loyalty
 # 
 # Translators:
-# Clo <clo@ThriveERP.com>, 2022
+# Clo <clo@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
-# Pauline Thiry <pth@ThriveERP.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Pauline Thiry <pth@thrivebureau.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2023
 # 
 msgid ""

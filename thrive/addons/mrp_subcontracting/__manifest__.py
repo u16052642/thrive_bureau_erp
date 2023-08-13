@@ -5,7 +5,7 @@
     'name': "mrp_subcontracting",
     'version': '0.1',
     'summary': "Subcontract Productions",
-    'website': 'https://www.ThriveERP.com/app/manufacturing',
+    'website': 'https://www.thrivebureau.com/app/manufacturing',
     'category': 'Manufacturing/Manufacturing',
     'depends': ['mrp'],
     'data': [

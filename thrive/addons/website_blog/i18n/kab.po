@@ -481,7 +481,7 @@ msgstr "Sdukel s"
 
 #. module: website_blog
 #: model_terms:blog.post,content:website_blog.blog_post_1
-msgid "Here are the ideas behind the ThriveERP.communication tools:"
+msgid "Here are the ideas behind the thrivebureau.communication tools:"
 msgstr ""
 
 #. module: website_blog
@@ -508,7 +508,7 @@ msgstr "Asulay"
 
 #. module: website_blog
 #: model:blog.post,subtitle:website_blog.blog_post_1
-msgid "Ideas behind the ThriveERP.communication tools."
+msgid "Ideas behind the thrivebureau.communication tools."
 msgstr ""
 
 #. module: website_blog

@@ -3,7 +3,7 @@
 # 	* sign_itsme
 # 
 # Translators:
-# Jérôme JEK <jek@ThriveERP.com>, 2022
+# Jérôme JEK <jek@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

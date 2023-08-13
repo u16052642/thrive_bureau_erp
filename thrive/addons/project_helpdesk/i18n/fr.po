@@ -3,7 +3,7 @@
 # 	* project_helpdesk
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # e2f <projects@e2f.com>, 2022
 # Alexandra Jubert, 2022

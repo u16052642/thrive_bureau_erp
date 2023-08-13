@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2023
 # 
 msgid ""
@@ -36,7 +36,7 @@ msgid ""
 "                    <li>Save the changes and click on the <em>SYNC ORDERS</em> button.</li>\n"
 "                </ol>\n"
 "            </p>\n"
-"            <p>If the problem persists, contact <a href=\"https://www.ThriveERP.com/help/\">Thrive support</a>.</p>\n"
+"            <p>If the problem persists, contact <a href=\"https://www.thrivebureau.com/help/\">Thrive support</a>.</p>\n"
 "        </div>\n"
 "        "
 msgstr ""

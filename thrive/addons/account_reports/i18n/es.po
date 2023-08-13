@@ -3,7 +3,7 @@
 # 	* account_reports
 # 
 # Translators:
-# Sebastian Brandt <brs@ThriveERP.com>, 2022
+# Sebastian Brandt <brs@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022
 # Farouk Jabiri, 2022

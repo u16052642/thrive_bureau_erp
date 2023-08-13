@@ -359,7 +359,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -430,7 +430,7 @@ msgstr ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Funciona amb <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=dbamp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
+"    Funciona amb <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=dbamp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
 "</td></tr>\n"
 "</table>"
 
@@ -1328,7 +1328,7 @@ msgid ""
 "company size, business information, social media accounts, etc."
 msgstr ""
 "Sabies que pots buscar els companyies per nom o per número VAT per a filtrar"
-" instantàniament totes les dades? ThriveERP.completa automàticament tot per a tu:"
+" instantàniament totes les dades? thrivebureau.completa automàticament tot per a tu:"
 " logo, direcció. grandària de la companyia, informació del negoci, comptes "
 "de xarxes socials, etc."
 
@@ -3621,10 +3621,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "El nom d'aquest pseudònim de correu electrònic. Per exemple, \"jobs\", si "
-"voleu obtenir els correus per <jobs@example.ThriveERP.com>"
+"voleu obtenir els correus per <jobs@example.thrivebureau.com>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -4179,8 +4179,8 @@ msgstr "p. ex. Massa car"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.ThriveERP.com"
-msgstr "per exemple https://www.ThriveERP.com"
+msgid "e.g. https://www.thrivebureau.com"
+msgstr "per exemple https://www.thrivebureau.com"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form

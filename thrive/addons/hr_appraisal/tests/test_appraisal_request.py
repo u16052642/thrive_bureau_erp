@@ -22,7 +22,7 @@ class TestHrAppraisalRequest(TransactionCase):
         cls.employee = cls.env['hr.employee'].create({
             'name': "Michaël Hawkins",
             'parent_id': cls.manager.id,
-            'work_email': 'michael@ThriveERP.com',
+            'work_email': 'michael@thrivebureau.com',
             'user_id': cls.employee_user.id,
             'address_home_id': cls.env['res.partner'].create({'name': 'Private contact', 'email': 'private@email.com'}).id,
         })

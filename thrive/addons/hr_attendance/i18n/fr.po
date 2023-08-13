@@ -4,8 +4,8 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
-# Geoffrey_GMF <gmf@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
+# Geoffrey_GMF <gmf@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # Óscar Fonseca <tecnico@extreme-micro.com>, 2022
 # 

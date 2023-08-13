@@ -7,7 +7,7 @@
 # c21b6a13d68b58cd46df1f0c60d157fa_0eac24f <ebcc7c4c5322361be308a32a8952aa57_340590>, 2022
 # Marius Stedjan <marius@stedjan.com>, 2022
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Lars Aam <lars.aam@vikenfiber.no>, 2022
 # Thor Arne Hvidsten, 2022
 # 

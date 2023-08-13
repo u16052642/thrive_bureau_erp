@@ -5,7 +5,7 @@
     'sequence': 210,
     'summary': 'Chat with your website visitors',
     'category': 'Website/Live Chat',
-    'website': 'https://www.ThriveERP.com/app/live-chat',
+    'website': 'https://www.thrivebureau.com/app/live-chat',
     'description':
         """
 Live Chat Support

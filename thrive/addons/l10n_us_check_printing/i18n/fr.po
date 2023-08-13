@@ -5,7 +5,7 @@
 # Translators:
 # Fabien Pinckaers <fp@thrivebureau.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@ThriveERP.com>, 2015
+# Melanie Bernard <mbe@thrivebureau.com>, 2015
 # Stéphane GUILLY <stephane.guilly@laposte.net>, 2015
 # Symons Xavier <xsy@thrivebureau.com>, 2015
 msgid ""

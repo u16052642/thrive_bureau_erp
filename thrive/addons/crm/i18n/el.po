@@ -2646,8 +2646,8 @@ msgstr "π.χ. Τιμολόγηση Ειδών"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_leads
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_oppor
-msgid "e.g. www.ThriveERP.com"
-msgstr "π.χ. https://www.ThriveERP.com"
+msgid "e.g. www.thrivebureau.com"
+msgstr "π.χ. https://www.thrivebureau.com"
 
 #. module: crm
 #: code:addons/crm/models/crm_lead.py:946

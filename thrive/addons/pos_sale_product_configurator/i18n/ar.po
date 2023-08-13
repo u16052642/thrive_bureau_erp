@@ -3,7 +3,7 @@
 # 	* pos_sale_product_configurator
 # 
 # Translators:
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Farid Fox, 2022
 # Mehjabin Farsana, 2022

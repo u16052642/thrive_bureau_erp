@@ -6,7 +6,7 @@ from collections import namedtuple
 API_VERSION = '2019-05-16'  # The API version of Stripe implemented in this module
 
 # Stripe proxy URL
-PROXY_URL = 'https://stripe.api.ThriveERP.com/api/stripe/'
+PROXY_URL = 'https://stripe.api.thrivebureau.com/api/stripe/'
 
 # Support payment method types
 PMT = namedtuple('PaymentMethodType', ['name', 'countries', 'currencies', 'recurrence'])

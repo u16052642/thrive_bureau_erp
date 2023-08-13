@@ -2,7 +2,7 @@
 {
     'name': 'Events Organization',
     'version': '1.7',
-    'website': 'https://www.ThriveERP.com/app/events',
+    'website': 'https://www.thrivebureau.com/app/events',
     'category': 'Marketing/Events',
     'summary': 'Trainings, Conferences, Meetings, Exhibitions, Registrations',
     'description': """

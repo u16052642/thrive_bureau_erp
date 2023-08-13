@@ -61,7 +61,7 @@ class SocialLinkedinCase(SocialCase):
         Check the priority of the ``post type``
         The first priority is image
         """
-        self.social_post.message = 'A message https://ThriveERP.com'
+        self.social_post.message = 'A message https://thrivebureau.com'
         self.assertTrue(self.social_post.image_ids)
         self._test_post_type('multiImage')
 
@@ -70,7 +70,7 @@ class SocialLinkedinCase(SocialCase):
         Check the priority of the ``post type``
         The second priority is urls
         """
-        self.social_post.message = 'A message https://ThriveERP.com'
+        self.social_post.message = 'A message https://thrivebureau.com'
         self.social_post.image_ids = False
         self._test_post_type('article')
 

@@ -6,10 +6,10 @@
 # f477e7ae9c75a2428d6113663a8354fe_bcd021c <0ff4ce060a36f446722508a48e99c22a_347081>, 2022
 # e2f <projects@e2f.com>, 2022
 # Xavier Belmere <Info@cartmeleon.com>, 2022
-# Melanie Bernard <mbe@ThriveERP.com>, 2022
-# Nathan Grognet <ngr@ThriveERP.com>, 2022
+# Melanie Bernard <mbe@thrivebureau.com>, 2022
+# Nathan Grognet <ngr@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 
 msgid ""
@@ -3324,8 +3324,8 @@ msgstr "Texte multiligne"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Mon compte ThriveERP.com"
+msgid "My thrivebureau.com account"
+msgstr "Mon compte thrivebureau.com"
 
 #. module: web
 #. thrive-javascript

@@ -13,7 +13,7 @@
 # Rafał Kozak <rafal.kozak@openglobe.pl>, 2022
 # taksun <taksun@o2.pl>, 2022
 # Radosław Biegalski <radoslaw.biegalski@openglobe.pl>, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Slawomir Adamus <melthalion@gmail.com>, 2022
 # Grażyna Grzelak <grazyna.grzelak@openglobe.pl>, 2022
 # Monika Motyczyńska <m.monia@op.pl>, 2022
@@ -3307,7 +3307,7 @@ msgstr "Tekst wielowierszowy"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
+msgid "My thrivebureau.com account"
 msgstr "Moje konto Thrive Bureau ERP.com"
 
 #. module: web

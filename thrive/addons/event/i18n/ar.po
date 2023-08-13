@@ -3,7 +3,7 @@
 # 	* event
 # 
 # Translators:
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Niyas Raphy, 2022
 # 
@@ -3607,8 +3607,8 @@ msgstr "مثال: تذكرة كبار الشخصيات "
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@ThriveERP.com"
-msgstr "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
+msgstr "events@thrivebureau.com"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

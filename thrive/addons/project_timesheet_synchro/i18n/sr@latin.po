@@ -3,7 +3,7 @@
 # * project_timesheet_synchro
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Nemanja Dragovic <nemanjadragovic94@gmail.com>, 2017
 # Ljubisa Jovev <ljubisa.jovev@gmail.com>, 2017
 # Djordje Marjanovic <djordje_m@yahoo.com>, 2017
@@ -529,7 +529,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:494
 #, python-format
-msgid "Use an ThriveERP.com account"
+msgid "Use an thrivebureau.com account"
 msgstr ""
 
 #. module: project_timesheet_synchro

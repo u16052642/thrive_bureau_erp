@@ -6,7 +6,7 @@
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2022
 # 宇洛 李, 2022
 # mrshelly <mrshelly@hotmail.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 #
 msgid ""

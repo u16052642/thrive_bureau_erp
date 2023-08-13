@@ -6,7 +6,7 @@
 # Mustafa J. Kadhem <safi2266@gmail.com>, 2022
 # Shaima Safar <shaima.safar@open-inside.com>, 2022
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2023
 # Hassan Najm <hassannjm@gmail.com>, 2023
 # 

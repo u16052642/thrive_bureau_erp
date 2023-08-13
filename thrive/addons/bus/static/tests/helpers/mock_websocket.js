@@ -71,7 +71,7 @@ export function patchWebsocketWorkerWithCleanup(params = {}) {
         },
     }, { pure: true });
     patchWithCleanup(websocketWorker || WebsocketWorker.prototype, params);
-    websocketWorker = websocketWorker || new WebsocketWorker('wss://ThriveERP.com/websocket');
+    websocketWorker = websocketWorker || new WebsocketWorker('wss://thrivebureau.com/websocket');
     patchWithCleanup(browser, {
         SharedWorker: function () {
             const sharedWorker = new SharedWorkerMock(websocketWorker);

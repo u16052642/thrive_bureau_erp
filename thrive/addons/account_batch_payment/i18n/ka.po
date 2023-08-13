@@ -3,7 +3,7 @@
 # * account_batch_deposit
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Giorgi Melitauri <gmelitauri@live.com>, 2018
 msgid ""
 msgstr ""

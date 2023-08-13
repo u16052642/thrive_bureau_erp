@@ -3,7 +3,7 @@
 # 	* documents_fleet
 # 
 # Translators:
-# Leon Grill <leg@ThriveERP.com>, 2022
+# Leon Grill <leg@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

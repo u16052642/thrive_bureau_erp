@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Patricia Gutiérrez Capetillo <pagc@ThriveERP.com>, 2022
+# Patricia Gutiérrez Capetillo <pagc@thrivebureau.com>, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022
 # 
 msgid ""

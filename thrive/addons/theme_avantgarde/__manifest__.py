@@ -28,7 +28,7 @@
     },
     'depends': ['theme_common'],
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-avantgarde.ThriveERP.com',
+    'live_test_url': 'https://theme-avantgarde.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_avantgarde/static/src/js/tour.js',

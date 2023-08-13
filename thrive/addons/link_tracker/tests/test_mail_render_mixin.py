@@ -69,7 +69,7 @@ class TestMailRenderMixin(common.TransactionCase):
         self.assertRegex(created_short_url, "{base_url}/r/[\\w]+".format(base_url=self.base_url))
 
         new_content = self.env["mail.render.mixin"]._shorten_links(
-            'Reusing this old <a href="{old_short_url}">link</a> with a new <a href="https://ThriveERP.com">one</a>'
+            'Reusing this old <a href="{old_short_url}">link</a> with a new <a href="https://thrivebureau.com">one</a>'
             .format(old_short_url=created_short_url),
             {}
         )
@@ -140,7 +140,7 @@ class TestMailRenderMixin(common.TransactionCase):
         self.assertRegex(created_short_url, "{base_url}/r/[\\w]+".format(base_url=self.base_url))
 
         new_content = self.env["mail.render.mixin"]._shorten_links_text(
-            'Reusing this old link {old_short_url} with a new one, https://ThriveERP.com</a>'
+            'Reusing this old link {old_short_url} with a new one, https://thrivebureau.com</a>'
             .format(old_short_url=created_short_url),
             {}
         )

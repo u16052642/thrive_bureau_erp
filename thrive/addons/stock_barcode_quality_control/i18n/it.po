@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Sergio Zanchetta <primes2h@gmail.com>, 2019
-# Léonie Bouchat <lbo@ThriveERP.com>, 2019
+# Léonie Bouchat <lbo@thrivebureau.com>, 2019
 # mymage <stefano.consolaro@mymage.it>, 2019
 # 
 msgid ""

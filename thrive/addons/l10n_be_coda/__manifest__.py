@@ -61,7 +61,7 @@ If required, you can manually adjust the descriptions via the CODA configuration
         'views/account_journal_views.xml',
     ],
     'auto_install': True,
-    'website': 'https://www.ThriveERP.com/app/accounting',
+    'website': 'https://www.thrivebureau.com/app/accounting',
     'installable': True,
     'license': 'OEEL-1',
 }

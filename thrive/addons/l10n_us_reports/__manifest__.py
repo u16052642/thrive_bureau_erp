@@ -7,7 +7,7 @@
     'description': """
         Accounting reports for US
     """,
-    'website': 'https://www.ThriveERP.com/app/accounting',
+    'website': 'https://www.thrivebureau.com/app/accounting',
     'depends': [
         'l10n_us', 'account_reports'
     ],

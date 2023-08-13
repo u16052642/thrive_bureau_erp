@@ -150,7 +150,7 @@ class HrExpense(models.Model):
             'version': CLIENT_OCR_VERSION,
         }
         endpoint = self.env['ir.config_parameter'].sudo().get_param(
-            'hr_expense_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/expense/1/validate_batch'
+            'hr_expense_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/expense/1/validate_batch'
         try:
             iap_tools.iap_jsonrpc(endpoint, params=params)
             exp_to_validate.extract_state = 'done'
@@ -199,7 +199,7 @@ class HrExpense(models.Model):
     def _check_status(self):
         self.ensure_one()
         endpoint = self.env['ir.config_parameter'].sudo().get_param(
-            'hr_expense_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/expense/1/get_result'
+            'hr_expense_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/expense/1/get_result'
         params = {
                 'version': CLIENT_OCR_VERSION,
                 'document_id': self.extract_remote_id
@@ -304,7 +304,7 @@ class HrExpense(models.Model):
         ):
             account_token = self.env['iap.account'].get('invoice_ocr')
             endpoint = self.env['ir.config_parameter'].sudo().get_param(
-                    'hr_expense_extract_endpoint', 'https://iap-extract.ThriveERP.com') + '/api/extract/expense/1/parse'
+                    'hr_expense_extract_endpoint', 'https://iap-extract.thrivebureau.com') + '/api/extract/expense/1/parse'
 
             #this line contact iap to create account if this is the first request. This allow iap to give free credits if the database is elligible
             self.env['iap.account'].get_credits('invoice_ocr')
@@ -379,12 +379,12 @@ class HrExpense(models.Model):
 </p>
 <p>Snap pictures of your receipts and let Thrive<br/> automatically create expenses for you.</p>
 <p class="d-none d-md-block">
-    <a href="https://apps.apple.com/be/app/thrive/id1272543640" target="_blank" class="o_expense_mobile_app">
-        <img alt="Apple App Store" class="img img-fluid h-100 o_expense_apple_store" src="/hr_expense/static/img/app_store.png"/>
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.thrive.mobile" target="_blank" class="o_expense_mobile_app">
-        <img alt="Google Play Store" class="img img-fluid h-100 o_expense_google_store" src="/hr_expense/static/img/play_store.png"/>
-    </a>
+    # <a href="https://apps.apple.com/be/app/thrive/id1272543640" target="_blank" class="o_expense_mobile_app">
+    #     <img alt="Apple App Store" class="img img-fluid h-100 o_expense_apple_store" src="/hr_expense/static/img/app_store.png"/>
+    # </a>
+    # <a href="https://play.google.com/store/apps/details?id=com.thrive.mobile" target="_blank" class="o_expense_mobile_app">
+    #     <img alt="Google Play Store" class="img img-fluid h-100 o_expense_google_store" src="/hr_expense/static/img/play_store.png"/>
+    # </a>
 </p>"""
             if not expenses:
                 html_to_return += """

@@ -1537,7 +1537,7 @@
 
         <!--
             The below view is invalid since `multi_edit="1"` has been set on the tree
-            https://github.com/thrive/ThriveERP.commit/972e097dbe7cdc7afdae722391692f9b3bf063b8#diff-db3b2f2e90f34ffef22194c3eac5a34b17af9b9a0a644d77da9e80738963931eL859
+            https://github.com/thrive/thrivebureau.commit/972e097dbe7cdc7afdae722391692f9b3bf063b8#diff-db3b2f2e90f34ffef22194c3eac5a34b17af9b9a0a644d77da9e80738963931eL859
             because `activity_type_id` uses in his domain a field `res_model`
             which is not available in the view and not even in the model.
             It has not been detected because:

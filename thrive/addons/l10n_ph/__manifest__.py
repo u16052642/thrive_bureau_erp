@@ -8,7 +8,7 @@
     "category": "Accounting/Localizations/Account Charts",
     "version": "1.0",
     "author": "Thrive PS",
-    "website": "https://www.ThriveERP.com",
+    "website": "https://www.thrivebureau.com",
     "depends": [
         "account",
         "base_vat",

@@ -11308,7 +11308,7 @@ msgstr "https://fonts.google.com/specimen/Roboto"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
 msgstr ""
 
 #. module: website

@@ -83,7 +83,7 @@ class L10nClEdiUtilMixin(models.AbstractModel):
         (content, content_type) = urllib3.filepost.encode_multipart_formdata(data)
         # The User-Agent parameter is mandatory. The service is very picky with it so it set as the
         # same User-Agent used in the documentation, using other User-Agent like 'python-requests/2.21.0' or
-        # 'Thrive (http://www.ThriveERP.com/contactus)' or 'Mozilla/4.0 ( compatible; Thrive %s )' % release.series
+        # 'Thrive (http://www.thrivebureau.com/contactus)' or 'Mozilla/4.0 ( compatible; Thrive %s )' % release.series
         # causes a "Token not valid" response
         # ref: https://www4c.sii.cl/bolcoreinternetui/api/
         headers = {

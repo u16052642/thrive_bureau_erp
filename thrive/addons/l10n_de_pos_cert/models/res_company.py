@@ -7,7 +7,7 @@ import requests
 from requests.exceptions import ConnectTimeout
 from urllib.parse import urljoin
 
-DEFAULT_ENDPOINT = 'https://l10n-de-pos.api.ThriveERP.com/api/l10n_de_pos'
+DEFAULT_ENDPOINT = 'https://l10n-de-pos.api.thrivebureau.com/api/l10n_de_pos'
 
 
 class ResCompany(models.Model):

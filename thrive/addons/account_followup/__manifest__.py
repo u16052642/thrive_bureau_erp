@@ -21,7 +21,7 @@ It will generate a PDF / send emails / set activities according to the different
 of recall defined. You can define different policies for different companies.
 
 """,
-    'website': 'https://www.ThriveERP.com/app/invoicing',
+    'website': 'https://www.thrivebureau.com/app/invoicing',
     'depends': ['account', 'mail', 'sms', 'account_reports'],
     'data': [
         'security/account_followup_security.xml',

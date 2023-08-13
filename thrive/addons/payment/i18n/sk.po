@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Viktor Dicer, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # 192015edb78c7397bdecc2172c7447b3, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022

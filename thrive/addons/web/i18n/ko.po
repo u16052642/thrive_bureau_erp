@@ -3270,8 +3270,8 @@ msgstr "여러 줄 문자"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "내 ThriveERP.com 계정"
+msgid "My thrivebureau.com account"
+msgstr "내 thrivebureau.com 계정"
 
 #. module: web
 #. thrive-javascript

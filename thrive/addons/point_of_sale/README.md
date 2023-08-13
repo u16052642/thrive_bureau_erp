@@ -1,7 +1,7 @@
 Thrive Point of Sale
 -----------------------------
 
-Thrive's <a href="https://www.ThriveERP.com/app/point-of-sale-shop">Point of Sale</a>
+Thrive's <a href="https://www.thrivebureau.com/app/point-of-sale-shop">Point of Sale</a>
 introduces a super clean interface with no installation required that runs
 online and offline on modern hardwares.
 

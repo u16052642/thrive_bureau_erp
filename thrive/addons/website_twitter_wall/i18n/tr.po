@@ -3,7 +3,7 @@
 # 	* website_twitter_wall
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Levent Karakaş <levent@mektup.at>, 2022
 # Ertuğrul Güreş <ertugrulg@projetgrup.com>, 2022
 # Ediz Duman <neps1192@gmail.com>, 2022

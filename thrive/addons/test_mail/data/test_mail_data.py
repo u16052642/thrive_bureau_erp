@@ -264,7 +264,7 @@ Received: by mail.example.com (Postfix, from userid 10002)
     id E8166BFACB; Fri, 23 Aug 2013 13:18:02 +0200 (CEST)
 From: "Bruce Wayne" <bruce@wayneenterprises.com>
 Subject: test
-Message-ID: <c0c20fdd-a38e-b296-865b-d9232bf30ce5@ThriveERP.com>
+Message-ID: <c0c20fdd-a38e-b296-865b-d9232bf30ce5@thrivebureau.com>
 Date: Mon, 26 Aug 2019 16:55:09 +0200
 MIME-Version: 1.0
 Content-Type: multipart/mixed;
@@ -403,13 +403,13 @@ AAAAACwAAAAAAgACAAAEA3DJFQA7
 MAIL_EML_ATTACHMENT = """Subject: Re: test attac
 From: {email_from}
 To: {to}
-References: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@ThriveERP.com>
-Message-ID: <cb7eaf62-58dc-2017-148c-305d0c78892f@ThriveERP.com>
+References: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@thrivebureau.com>
+Message-ID: <cb7eaf62-58dc-2017-148c-305d0c78892f@thrivebureau.com>
 Date: Wed, 14 Mar 2018 14:26:58 +0100
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
  Thunderbird/52.6.0
 MIME-Version: 1.0
-In-Reply-To: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@ThriveERP.com>
+In-Reply-To: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@thrivebureau.com>
 Content-Type: multipart/mixed;
  boundary="------------A6B5FD5F68F4D73ECD739009"
 Content-Language: en-US
@@ -458,33 +458,33 @@ ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc
          7wXuo/gpYe6E2cPuS2opei8AzjEhYTNzlYXTPvaoxCCTTjfGTaPv22TeRDehuIXngSEl
          Nmmw==
 ARC-Authentication-Results: i=1; mx.google.com;
-       dkim=pass header.i=@ThriveERP.com header.s=mail header.b=MCzhjB9b;
-       spf=pass (google.com: domain of soup@ThriveERP.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@ThriveERP.com;
-       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=ThriveERP.com
-Return-Path: <soup@ThriveERP.com>
-Received: from mail2.ThriveERP.com (mail2.ThriveERP.com. [149.202.180.44])
+       dkim=pass header.i=@thrivebureau.com header.s=mail header.b=MCzhjB9b;
+       spf=pass (google.com: domain of soup@thrivebureau.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@thrivebureau.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=thrivebureau.com
+Return-Path: <soup@thrivebureau.com>
+Received: from mail2.thrivebureau.com (mail2.thrivebureau.com. [149.202.180.44])
         by mx.google.com with ESMTPS id y4si4279200wmy.148.2018.03.05.01.19.22
         (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
         Mon, 05 Mar 2018 01:19:23 -0800 (PST)
-Received-SPF: pass (google.com: domain of soup@ThriveERP.com designates 149.202.180.44 as permitted sender) client-ip=149.202.180.44;
+Received-SPF: pass (google.com: domain of soup@thrivebureau.com designates 149.202.180.44 as permitted sender) client-ip=149.202.180.44;
 Authentication-Results: mx.google.com;
-       dkim=pass header.i=@ThriveERP.com header.s=mail header.b=MCzhjB9b;
-       spf=pass (google.com: domain of soup@ThriveERP.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@ThriveERP.com;
-       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=ThriveERP.com
+       dkim=pass header.i=@thrivebureau.com header.s=mail header.b=MCzhjB9b;
+       spf=pass (google.com: domain of soup@thrivebureau.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@thrivebureau.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=thrivebureau.com
 Received: from [10.10.31.24] (unknown [91.183.114.50])
 	(Authenticated sender: soup)
-	by mail2.ThriveERP.com (Postfix) with ESMTPSA id 7B571A4085
-	for <what@ThriveERP.com>; Mon,  5 Mar 2018 10:19:21 +0100 (CET)
-DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=ThriveERP.com; s=mail;
+	by mail2.thrivebureau.com (Postfix) with ESMTPSA id 7B571A4085
+	for <what@thrivebureau.com>; Mon,  5 Mar 2018 10:19:21 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=thrivebureau.com; s=mail;
 	t=1520241562; bh=L2r7Sp/vjogIdM1k8H9zDGDjnhKolsTTLLjndnFC4Jc=;
 	h=To:From:Subject:Date:From;
 	b=MCzhjB9bnsrJ3uKjq+GjujFxmtrq3fc7Vv7Vg2C72EPKnkxgqy6yPjWKtXbBlaiT3
 	 YjKI24aiSQlOeOPQiqFgiDzeqqemNDp+CRuhoYz1Vbz+ESRaHtkWRLb7ZjvohS2k7e
 	 RTq7tUxY2nUL2YrNHV7DFYtJVBwiTuyLP6eAiJdE=
-To: what@ThriveERP.com
-From: Soup <soup@ThriveERP.com>
+To: what@thrivebureau.com
+From: Soup <soup@thrivebureau.com>
 Subject: =?UTF-8?Q?Soupe_du_jour_:_Pois_cass=c3=a9s?=
-Message-ID: <a05d8334-7b7c-df68-c96a-4a88ed19f31b@ThriveERP.com>
+Message-ID: <a05d8334-7b7c-df68-c96a-4a88ed19f31b@thrivebureau.com>
 Date: Mon, 5 Mar 2018 10:19:21 +0100
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
  Thunderbird/52.6.0
@@ -495,7 +495,7 @@ Content-Language: en-US
 X-Spam-Status: No, score=-1.2 required=5.0 tests=ALL_TRUSTED,BAYES_00,
 	HTML_IMAGE_ONLY_08,HTML_MESSAGE,T_REMOTE_IMAGE autolearn=no
 	autolearn_force=no version=3.4.0
-X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on mail2.ThriveERP.com
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on mail2.thrivebureau.com
 
 This is a multi-part message in MIME format.
 --------------1F2D18B1129FC2F0B9EECF50
@@ -510,7 +510,7 @@ Soup
 Thrive Bureau ERP
 Chaussée de Namur, 40
 B-1367 Grand Rosière
-Web: http://www.ThriveERP.com
+Web: http://www.thrivebureau.com
 
 
 --------------1F2D18B1129FC2F0B9EECF50
@@ -533,7 +533,7 @@ Soup
 Thrive Bureau ERP
 Chaussée de Namur, 40
 B-1367 Grand Rosière
-Web: <a class="moz-txt-link-freetext" href="http://www.ThriveERP.com">http://www.ThriveERP.com</a> </pre>
+Web: <a class="moz-txt-link-freetext" href="http://www.thrivebureau.com">http://www.thrivebureau.com</a> </pre>
   </body>
 </html>
 
@@ -826,7 +826,7 @@ aa.com" style=3D"text-decoration:none; color: white;">info@aust-mfg.com</a>=
                       </tr>
                       <tr>
                         <td align=3D"center">
-                            Powered by <a href=3D"https://www.ThriveERP.com">Odo=
+                            Powered by <a href=3D"https://www.thrivebureau.com">Odo=
 o</a>.
                         </td>
                       </tr>

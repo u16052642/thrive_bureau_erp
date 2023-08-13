@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Mehjabin Farsana, 2022
 # Niyas Raphy, 2022
 # Hassan Najm <hassannjm@gmail.com>, 2023

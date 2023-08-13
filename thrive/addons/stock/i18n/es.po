@@ -3528,7 +3528,7 @@ msgid ""
 "operations with the corresponding products, locations and lot/serial "
 "numbers."
 msgstr ""
-"Si esta casilla está marcada, ThriveERP.completará automáticamente las "
+"Si esta casilla está marcada, thrivebureau.completará automáticamente las "
 "operaciones detalladas con los productos, ubicaciones y números de lote / "
 "serie correspondientes."
 

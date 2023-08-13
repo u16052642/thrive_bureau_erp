@@ -5,7 +5,7 @@
 # Translators:
 # Jaroslav Helemik Nemec <nemec@helemik.cz>, 2022
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2022
-# Pauline Thiry <pth@ThriveERP.com>, 2022
+# Pauline Thiry <pth@thrivebureau.com>, 2022
 # Michal Veselý <michal@veselyberanek.net>, 2022
 # Ladislav Tomm <tomm@helemik.cz>, 2022
 # Martin Trigaux, 2022

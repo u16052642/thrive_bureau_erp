@@ -1714,10 +1714,10 @@ msgstr ""
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Numele aliasului de e-mail, de ex. „locuri de muncă” dacă doriți să primiți "
-"e-mailuri pentru <jobs@example.ThriveERP.com>"
+"e-mailuri pentru <jobs@example.thrivebureau.com>"
 
 #. module: mrp_plm
 #: model:ir.model.fields,help:mrp_plm.field_mrp_eco_type__alias_user_id

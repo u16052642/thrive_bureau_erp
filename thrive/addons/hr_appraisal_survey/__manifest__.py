@@ -7,7 +7,7 @@
     'category': 'Human Resources/Appraisals',
     'sequence': 31,
     'summary': '360 Feedback',
-    'website': 'https://www.ThriveERP.com/app/appraisals',
+    'website': 'https://www.thrivebureau.com/app/appraisals',
     'depends': ['hr_appraisal', 'survey'],
     'description': """
 This module adds an integration with Survey to ask feedbacks to any employee, based on a survey to fill.

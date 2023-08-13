@@ -3,7 +3,7 @@
 # 	* account
 # 
 # Translators:
-# Daniela Cervantes <dace@ThriveERP.com>, 2022
+# Daniela Cervantes <dace@thrivebureau.com>, 2022
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2022
 # Pablo Rojas <rojaspablo88@gmail.com>, 2022
 # José Vicente <txusev@gmail.com>, 2022
@@ -16,7 +16,7 @@
 # Farouk Jabiri, 2022
 # Mariana Torres <mt@adhoc.com.ar>, 2022
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2022
-# Camille Dantinne <cmd@ThriveERP.com>, 2022
+# Camille Dantinne <cmd@thrivebureau.com>, 2022
 # Víctor Martínez <victor.martinez@tecnativa.com>, 2022
 # David Ramia, 2023
 # 

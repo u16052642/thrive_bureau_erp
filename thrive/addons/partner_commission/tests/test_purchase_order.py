@@ -177,7 +177,7 @@ class TestPurchaseOrder(TestCommissionsSetup):
             sales_rep = self.env['res.users'].create({
                 'name': '...',
                 'login': 'sales_rep_1',
-                'email': 'sales_rep_1@ThriveERP.com',
+                'email': 'sales_rep_1@thrivebureau.com',
                 'company_id': self.company.id,
                 'groups_id': [(6, 0, [self.ref('sales_team.group_sale_salesman')])],
             })

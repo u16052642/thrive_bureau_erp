@@ -230,7 +230,7 @@ No CSRF validation token provided for path %r
 
 Thrive URLs are CSRF-protected by default (when accessed with unsafe
 HTTP methods). See
-https://www.ThriveERP.com/documentation/16.0/developer/reference/addons/http.html#csrf
+https://www.thrivebureau.com/documentation/16.0/developer/reference/addons/http.html#csrf
 for more details.
 
 * if this endpoint is accessed through Thrive via py-QWeb form, embed a CSRF

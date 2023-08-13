@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2018
-# Ranjit Pillai <rpi@ThriveERP.com>, 2018
+# Ranjit Pillai <rpi@thrivebureau.com>, 2018
 # Turkesh Patel <turkesh4friends@gmail.com>, 2018
 # Dharmraj Jhala <dja@thrivebureau.com>, 2018
 # Spellbound Soft Solutions <jeel.spellbound@gmail.com>, 2018

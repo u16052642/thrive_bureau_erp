@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Linas Versada <linaskrisiukenas@gmail.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Antanas Muliuolis <an.muliuolis@gmail.com>, 2022
 # Martin Trigaux, 2022
 # Monika Raciunaite <monika.raciunaite@gmail.com>, 2022

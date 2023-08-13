@@ -11,7 +11,7 @@
 # Andrzej Wiśniewski <a.wisniewski@hadron.eu.com>, 2022
 # Karol Rybak <karolrybak85@gmail.com>, 2022
 # Mariusz, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2022
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2022
 # Tomasz Leppich <t.leppich@gmail.com>, 2022
@@ -1094,8 +1094,8 @@ msgstr "np. Dekoracje Otwartego Dębu"
 
 #. module: website_event_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_exhibitor.event_sponsor_view_form
-msgid "e.g. : https://www.ThriveERP.com"
-msgstr "np.: https://www.ThriveERP.com"
+msgid "e.g. : https://www.thrivebureau.com"
+msgstr "np.: https://www.thrivebureau.com"
 
 #. module: website_event_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_exhibitor.event_sponsor_view_form

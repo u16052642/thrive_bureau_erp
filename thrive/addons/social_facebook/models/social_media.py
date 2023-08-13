@@ -73,7 +73,7 @@ class SocialMediaFacebook(models.Model):
         ).text
 
         if iap_add_accounts_url == 'unauthorized':
-            raise UserError(_("You don't have an active subscription. Please buy one here: %s", 'https://www.ThriveERP.com/buy'))
+            raise UserError(_("You don't have an active subscription. Please buy one here: %s", 'https://www.thrivebureau.com/buy'))
 
         return {
             'type': 'ir.actions.act_url',

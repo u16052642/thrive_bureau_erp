@@ -328,7 +328,7 @@ msgstr "np. Wyszukiwarka, strona internetowa, ..."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.ThriveERP.com/contactus"
+msgid "e.g. https://www.thrivebureau.com/contactus"
 msgstr ""
 
 #. module: website_links

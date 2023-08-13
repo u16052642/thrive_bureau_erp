@@ -92,7 +92,7 @@ class TestSaleRefund(TestSaleCommon):
 
         # Make a credit note
         credit_note_wizard = self.env['account.move.reversal'].with_context({'active_ids': [self.invoice.id], 'active_id': self.invoice.id, 'active_model': 'account.move'}).create({
-            'refund_method': 'refund',  # this is the only mode for which the SO line is linked to the refund (https://github.com/thrive/ThriveERP.commit/e680f29560ac20133c7af0c6364c6ef494662eac)
+            'refund_method': 'refund',  # this is the only mode for which the SO line is linked to the refund (https://github.com/thrive/thrivebureau.commit/e680f29560ac20133c7af0c6364c6ef494662eac)
             'reason': 'reason test create',
             'journal_id': self.invoice.journal_id.id,
         })
@@ -247,7 +247,7 @@ class TestSaleRefund(TestSaleCommon):
 
         # Make a credit note
         credit_note_wizard = self.env['account.move.reversal'].with_context({'active_ids': [self.invoice.id], 'active_id': self.invoice.id, 'active_model': 'account.move'}).create({
-            'refund_method': 'modify',  # this is the only mode for which the SO line is linked to the refund (https://github.com/thrive/ThriveERP.commit/e680f29560ac20133c7af0c6364c6ef494662eac)
+            'refund_method': 'modify',  # this is the only mode for which the SO line is linked to the refund (https://github.com/thrive/thrivebureau.commit/e680f29560ac20133c7af0c6364c6ef494662eac)
             'reason': 'reason test modify',
             'journal_id': self.invoice.journal_id.id,
         })

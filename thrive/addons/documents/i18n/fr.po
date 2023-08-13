@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Olivier ANDRE <frsw194@gmail.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # Martin Trigaux, 2022
 # 
@@ -325,7 +325,7 @@ msgid ""
 "                            <t t-if=\"object.date_deadline\">\n"
 "                                This link expires on <b t-out=\"object.date_deadline or ''\">2021-05-17</b>.<br/>\n"
 "                            </t>\n"
-"                            Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
+"                            Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
 "                          </td></tr>\n"
 "                        </table>\n"
 "                    </td></tr>\n"
@@ -426,7 +426,7 @@ msgstr ""
 "                            <t t-if=\"object.date_deadline\">\n"
 "                                Ce lien expire le <b t-out=\"object.date_deadline or ''\">2021-05-17</b>.<br/>\n"
 "                            </t>\n"
-"                            Généré par <a target=\"_blank\" href=\"https://www.ThriveERP.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
+"                            Généré par <a target=\"_blank\" href=\"https://www.thrivebureau.com/app/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
 "                          </td></tr>\n"
 "                        </table>\n"
 "                    </td></tr>\n"
@@ -2572,10 +2572,10 @@ msgstr ""
 #: model:ir.model.fields,help:documents.field_documents_share__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Le nom de l'alias de messagerie, par exemple 'carrières' pour relever les "
-"emails de <carrieres@example.ThriveERP.com>"
+"emails de <carrieres@example.thrivebureau.com>"
 
 #. module: documents
 #: model:ir.model.fields,help:documents.field_documents_share__alias_user_id

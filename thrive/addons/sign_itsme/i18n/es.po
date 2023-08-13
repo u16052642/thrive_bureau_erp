@@ -3,7 +3,7 @@
 # 	* sign_itsme
 # 
 # Translators:
-# Jesse Garza <jga@ThriveERP.com>, 2022
+# Jesse Garza <jga@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

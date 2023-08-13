@@ -3,14 +3,14 @@
 # * sale_ebay
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2016
+# Martin Trigaux <mat@thrivebureau.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Thrive Bureau ERP server 10.0e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-30 12:54+0000\n"
 "PO-Revision-Date: 2015-10-30 12:54+0000\n"
-"Last-Translator: Martin Trigaux <mat@ThriveERP.com>, 2016\n"
+"Last-Translator: Martin Trigaux <mat@thrivebureau.com>, 2016\n"
 "Language-Team: Armenian (https://www.transifex.com/thrive/teams/41243/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

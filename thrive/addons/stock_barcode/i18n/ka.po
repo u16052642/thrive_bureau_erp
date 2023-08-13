@@ -3,7 +3,7 @@
 # * stock_barcode
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Giorgi Melitauri <gmelitauri@live.com>, 2018
 msgid ""
 msgstr ""
@@ -919,7 +919,7 @@ msgstr ""
 
 #. module: stock_barcode
 #: model:ir.ui.view,arch_db:stock_barcode.barcode_planner
-msgid "feedback@mail.ThriveERP.com"
+msgid "feedback@mail.thrivebureau.com"
 msgstr ""
 
 #. module: stock_barcode

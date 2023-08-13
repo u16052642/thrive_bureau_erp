@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2022
 # e2f <projects@e2f.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 
 msgid ""

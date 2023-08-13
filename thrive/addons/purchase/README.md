@@ -2,7 +2,7 @@ Thrive Supply Chain
 -----------------
 
 Automate requisition-to-pay, control invoicing with the Thrive
-<a href="https://www.ThriveERP.com/app/purchase">Open Source Supply Chain</a>.
+<a href="https://www.thrivebureau.com/app/purchase">Open Source Supply Chain</a>.
 
 Automate procurement propositions, launch request for quotations, track
 purchase orders, manage vendors' information, control products reception and

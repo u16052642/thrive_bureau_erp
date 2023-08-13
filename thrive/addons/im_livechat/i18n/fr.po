@@ -3,9 +3,9 @@
 # 	* im_livechat
 # 
 # Translators:
-# Eloïse Stilmant <est@ThriveERP.com>, 2022
+# Eloïse Stilmant <est@thrivebureau.com>, 2022
 # Alexandra Jubert, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Jolien De Paepe, 2022
 # 

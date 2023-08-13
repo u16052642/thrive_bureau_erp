@@ -3,8 +3,8 @@
 # 	* sale_temporal
 # 
 # Translators:
-# Lucia Pacheco <lpo@ThriveERP.com>, 2022
-# Patricia Gutiérrez Capetillo <pagc@ThriveERP.com>, 2022
+# Lucia Pacheco <lpo@thrivebureau.com>, 2022
+# Patricia Gutiérrez Capetillo <pagc@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

@@ -8,7 +8,7 @@ import { browser } from "../../core/browser/browser";
 import { registry } from "../../core/registry";
 
 function documentationItem(env) {
-    const documentationURL = "https://www.ThriveERP.com/documentation/16.0";
+    const documentationURL = "https://www.thrivebureau.com/documentation/16.0";
     return {
         type: "item",
         id: "documentation",
@@ -85,7 +85,7 @@ function thriveAccountItem(env) {
     return {
         type: "item",
         id: "account",
-        description: env._t("My ThriveERP.com account"),
+        description: env._t("My thrivebureau.com account"),
         callback: () => {
             env.services
                 .rpc("/web/session/account")
@@ -93,7 +93,7 @@ function thriveAccountItem(env) {
                     browser.location.href = url;
                 })
                 .catch(() => {
-                    browser.location.href = "https://accounts.ThriveERP.com/account";
+                    browser.location.href = "https://accounts.thrivebureau.com/account";
                 });
         },
         sequence: 60,

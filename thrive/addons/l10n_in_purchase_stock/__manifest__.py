@@ -16,7 +16,7 @@
     """,
 
     'author': "Thrive",
-    'website': "https://www.ThriveERP.com",
+    'website': "https://www.thrivebureau.com",
     'category': 'Accounting/Localizations/Purchase',
     'version': '1.0',
 

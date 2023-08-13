@@ -43,7 +43,7 @@
         'homepage': ['s_picture', 's_references', 's_image_text', 's_text_image', 's_title', 's_comparisons', 's_call_to_action'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-thrive-experts.ThriveERP.com',
+    'live_test_url': 'https://theme-thrive-experts.thrivebureau.com',
     'assets': {
         'website.assets_editor': [
             'theme_thrive_experts/static/src/js/tour.js',

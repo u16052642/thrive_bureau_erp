@@ -3,7 +3,7 @@
 # 	* mass_mailing_event_track
 # 
 # Translators:
-# Patricia Gutiérrez Capetillo <pagc@ThriveERP.com>, 2022
+# Patricia Gutiérrez Capetillo <pagc@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

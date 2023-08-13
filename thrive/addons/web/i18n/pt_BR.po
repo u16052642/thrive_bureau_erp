@@ -3296,8 +3296,8 @@ msgstr "Texto multilinha"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Minha conta ThriveERP.com"
+msgid "My thrivebureau.com account"
+msgstr "Minha conta thrivebureau.com"
 
 #. module: web
 #. thrive-javascript
@@ -6025,7 +6025,7 @@ msgid ""
 "You need to start Thrive with at least two workers to print a pdf version of "
 "the reports."
 msgstr ""
-"Você precisa iniciar o ThriveERP.com pelo menos dois workers para imprimir uma "
+"Você precisa iniciar o thrivebureau.com pelo menos dois workers para imprimir uma "
 "versão em pdf dos relatórios."
 
 #. module: web

@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2019
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2019
-# Wynand Tastenhoye <wta@ThriveERP.com>, 2019
+# Wynand Tastenhoye <wta@thrivebureau.com>, 2019
 # Erwin van der Ploeg <erwin@thriveexperts.nl>, 2019
 # 
 msgid ""

@@ -10,7 +10,7 @@ Allows use of stock application to manage rentals inventory
 
     """,
 
-    'website': "https://www.ThriveERP.com",
+    'website': "https://www.thrivebureau.com",
 
     'category': 'Sales/Sales',
     'version': '1.0',

@@ -558,8 +558,8 @@ msgstr "使用 Thrive 组织项目和任务、预测资源以及用于任务的�
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:0
 #, python-format
-msgid "Use an ThriveERP.com account"
-msgstr "使用 ThriveERP.com 的账户"
+msgid "Use an thrivebureau.com account"
+msgstr "使用 thrivebureau.com 的账户"
 
 #. module: project_timesheet_synchro
 #. openerp-web

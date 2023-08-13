@@ -1,7 +1,7 @@
 Thrive Blogs
 ----------
 
-Write, Design, Promote and Engage with <a href="https://www.ThriveERP.com/app/blog">Thrive Blogs</a>.
+Write, Design, Promote and Engage with <a href="https://www.thrivebureau.com/app/blog">Thrive Blogs</a>.
 
 Express yourself with the Thrive enterprise grade blogging platform. Write
 beautiful blog posts, engage with visitors, translate content and moderate

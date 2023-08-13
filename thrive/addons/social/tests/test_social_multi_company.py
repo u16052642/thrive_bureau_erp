@@ -155,7 +155,7 @@ class TestSocialMultiCompany(common.SocialCase):
         self.assertTrue(self.account_2.utm_medium_id)
         self.assertNotEqual(self.account_1.utm_medium_id, self.account_2.utm_medium_id)
 
-        url = 'https://ThriveERP.com/test/click/count/computation'
+        url = 'https://thrivebureau.com/test/click/count/computation'
         message = f"""
             Hi social users :)
             Visit {url}

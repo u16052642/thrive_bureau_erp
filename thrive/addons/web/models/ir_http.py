@@ -92,7 +92,7 @@ class Http(models.AbstractModel):
             "db": self.env.cr.dbname,
             "server_version": version_info.get('server_version'),
             "server_version_info": version_info.get('server_version_info'),
-            "support_url": "https://www.ThriveERP.com/buy",
+            "support_url": "https://www.thrivebureau.com/buy",
             "name": user.name,
             "username": user.login,
             "partner_display_name": user.partner_id.display_name,

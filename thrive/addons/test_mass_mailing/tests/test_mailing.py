@@ -92,13 +92,13 @@ class TestMassMailing(TestMassMailCommon):
             mail_links_info=[[
                 ('url0', 'https://www.thrive.tz/my/%s' % record.name, True, {}),
                 ('url1', 'https://www.thrive.be', True, {}),
-                ('url2', 'https://www.ThriveERP.com', True, {}),
+                ('url2', 'https://www.thrivebureau.com', True, {}),
                 ('url3', 'https://www.thrive.eu', True, {}),
                 ('url4', 'https://www.example.com/foo/bar?baz=qux', True, {'baz': 'qux'}),
                 ('url5', '%s/event/dummy-event-0' % mailing.get_base_url(), True, {}),
                 # view is not shortened and parsed at sending
                 ('url6', '%s/view' % mailing.get_base_url(), False, {}),
-                ('url7', 'mailto:test@ThriveERP.com', False, {}),
+                ('url7', 'mailto:test@thrivebureau.com', False, {}),
                 # unsubscribe is not shortened and parsed at sending
                 ('url8', '%s/unsubscribe_from_list' % mailing.get_base_url(), False, {}),
             ] for record in recipients],

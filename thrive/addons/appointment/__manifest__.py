@@ -7,7 +7,7 @@
     'category': 'Marketing/Online Appointment',
     'sequence': 215,
     'summary': 'Allow people to book meetings in your agenda',
-    'website': 'https://www.ThriveERP.com/app/appointments',
+    'website': 'https://www.thrivebureau.com/app/appointments',
     'description': """
         Allow clients to Schedule Appointments through the Portal
     """,

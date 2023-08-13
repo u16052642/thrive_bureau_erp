@@ -19,7 +19,7 @@ Services offers as of July 2022. See the task's dev notes for the details on the
 ## Merge details
 
 The first version of the module was specified in task
-[2802678](https://www.ThriveERP.com/web#id=2802678&model=project.task) and merged with PR thrive/thrive#95860
+[2802678](https://www.thrivebureau.com/web#id=2802678&model=project.task) and merged with PR thrive/thrive#95860
 in `saas-15.5`.
 
 ## Testing instructions

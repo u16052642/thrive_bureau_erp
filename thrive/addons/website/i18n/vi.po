@@ -5,7 +5,7 @@
 # Translators:
 # thriveviet <cuong.nm@ictech.vn>, 2022
 # Thin Tran <trvathin@gmail.com>, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2022
 # Vo Thanh Thuy, 2022
 # Martin Trigaux, 2022
@@ -11466,8 +11466,8 @@ msgstr "https://fonts.google.com/specimen/Roboto"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
-msgstr "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
+msgstr "https://www.thrivebureau.com"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_thrive_menu

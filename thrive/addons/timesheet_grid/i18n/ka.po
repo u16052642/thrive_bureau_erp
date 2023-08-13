@@ -3,7 +3,7 @@
 # * timesheet_grid
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Giorgi Melitauri <gmelitauri@live.com>, 2018
 msgid ""
 msgstr ""
@@ -54,7 +54,7 @@ msgid ""
 "            <p style=\"font-size: 11px;\"><strong>Sent by\n"
 "            <a href=\"${object.user_id.company_id.website}\" style=\"text-decoration:none; color: #875A7B;\">\n"
 "                <strong>${user.company_id.name}</strong>\n"
-"            </a> using <a href=\"www.ThriveERP.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Thrive</strong></a>\n"
+"            </a> using <a href=\"www.thrivebureau.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Thrive</strong></a>\n"
 "            </strong></p>\n"
 "        </td>\n"
 "    </tr></tbody>\n"
@@ -99,7 +99,7 @@ msgid ""
 "            <p style=\"font-size: 11px;\"><strong>Sent by\n"
 "            <a href=\"${object.user_id.company_id.website}\" style=\"text-decoration:none; color: #875A7B;\">\n"
 "                <strong>${user.company_id.name}</strong>\n"
-"            </a> using <a href=\"www.ThriveERP.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Thrive</strong></a>\n"
+"            </a> using <a href=\"www.thrivebureau.com\" style=\"text-decoration:none; color: #875A7B;\"><strong>Thrive</strong></a>\n"
 "            </strong></p>\n"
 "        </td>\n"
 "    </tr></tbody>\n"

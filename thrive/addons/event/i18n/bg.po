@@ -3,7 +3,7 @@
 # * event
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # B Dochev <dochevb@gmail.com>, 2017
 msgid ""
 msgstr ""
@@ -1964,7 +1964,7 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_2
 #: model_terms:event.event,description:event.event_3
-msgid "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
 msgstr ""
 
 #. module: event
@@ -1981,7 +1981,7 @@ msgstr ""
 
 #. module: event
 #: model_terms:event.event,description:event.event_3
-msgid "https://www.ThriveERP.com/services/technical-training"
+msgid "https://www.thrivebureau.com/services/technical-training"
 msgstr ""
 
 #. module: event

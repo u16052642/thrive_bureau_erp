@@ -202,16 +202,16 @@ class MassMailingList(models.Model):
             'src_lists' after the merge except the destination mailing list 'self'.
         """
         # Explation of the SQL query with an example. There are the following lists
-        # A (id=4): yti@ThriveERP.com; yti@example.com
-        # B (id=5): yti@ThriveERP.com; yti@thrivebureau.com
+        # A (id=4): yti@thrivebureau.com; yti@example.com
+        # B (id=5): yti@thrivebureau.com; yti@thrivebureau.com
         # C (id=6): nothing
         # To merge the mailing lists A and B into C, we build the view st that looks
         # like this with our example:
         #
         #  contact_id |           email           | row_number |  list_id |
         # ------------+---------------------------+------------------------
-        #           4 | yti@ThriveERP.com              |          1 |        4 |
-        #           6 | yti@ThriveERP.com              |          2 |        5 |
+        #           4 | yti@thrivebureau.com              |          1 |        4 |
+        #           6 | yti@thrivebureau.com              |          2 |        5 |
         #           5 | yti@example.com           |          1 |        4 |
         #           7 | yti@thrivebureau.com           |          1 |        5 |
         #

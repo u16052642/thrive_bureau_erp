@@ -3,7 +3,7 @@
 # * sale_subscription_dashboard
 # 
 # Translators:
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Gari Araolaza <garaolaza@codesyntax.com>, 2018
 msgid ""
 msgstr ""

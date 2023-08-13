@@ -8,7 +8,7 @@
 # Mustafa Rawi <mustafa@cubexco.com>, 2022
 # Mustafa J. Kadhem <safi2266@gmail.com>, 2022
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""
@@ -3312,7 +3312,7 @@ msgstr "نص متعدد الأسطر"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
+msgid "My thrivebureau.com account"
 msgstr "حسابي على أودو"
 
 #. module: web

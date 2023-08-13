@@ -8,7 +8,7 @@
     'description': """
 Add a dynamic report about recruitment.
     """,
-    'website': 'https://www.ThriveERP.com/app/recruitment',
+    'website': 'https://www.thrivebureau.com/app/recruitment',
     'depends': ['hr_recruitment'],
     'data': [
         'security/ir.model.access.csv',

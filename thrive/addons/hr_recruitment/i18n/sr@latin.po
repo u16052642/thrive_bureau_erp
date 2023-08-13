@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Nemanja Dragovic <nemanjadragovic94@gmail.com>, 2017
-# Martin Trigaux <mat@ThriveERP.com>, 2017
+# Martin Trigaux <mat@thrivebureau.com>, 2017
 # Djordje Marjanovic <djordje_m@yahoo.com>, 2017
 # Ljubisa Jovev <ljubisa.jovev@gmail.com>, 2017
 msgid ""
@@ -179,9 +179,9 @@ msgid ""
 "\n"
 "                    <h3 style=\"color:#9A6C8E;\"><strong>Want to learn about us?</strong></h3>\n"
 "                    <ol>\n"
-"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.ThriveERP.com/blog/thrive-news-5/post/the-thrive-story-56\">Founders' story</a></li>\n"
+"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.thrivebureau.com/blog/thrive-news-5/post/the-thrive-story-56\">Founders' story</a></li>\n"
 "                        <li><a style=\"color:#1CC5A9\" href=\"https://www.slideshare.net/openobject/the-thrive-culture\">The Thrive Culture</a></li>\n"
-"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.ThriveERP.com/page/about-us\">About us</a></li>\n"
+"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.thrivebureau.com/page/about-us\">About us</a></li>\n"
 "                    </ol>\n"
 "\n"
 "                    <hr style=\"margin: 30px 0\"/>\n"
@@ -313,9 +313,9 @@ msgid ""
 "\n"
 "                    <h3 style=\"color:#9A6C8E;\"><strong>Want to learn more?</strong></h3>\n"
 "                    <ol>\n"
-"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.ThriveERP.com/blog/thrive-news-5/post/the-thrive-story-56\">Founders' story</a></li>\n"
+"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.thrivebureau.com/blog/thrive-news-5/post/the-thrive-story-56\">Founders' story</a></li>\n"
 "                        <li><a style=\"color:#1CC5A9\" href=\"https://www.slideshare.net/openobject/the-thrive-culture\">The Thrive Culture</a></li>\n"
-"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.ThriveERP.com/page/about-us\">About us</a></li>\n"
+"                        <li><a style=\"color:#1CC5A9\" href=\"https://www.thrivebureau.com/page/about-us\">About us</a></li>\n"
 "                    </ol>\n"
 "\n"
 "                    <hr style=\"margin: 30px 0\"/>\n"
@@ -1744,7 +1744,7 @@ msgstr ""
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: hr_recruitment

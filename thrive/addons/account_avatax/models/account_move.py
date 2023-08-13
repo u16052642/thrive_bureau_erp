@@ -55,7 +55,7 @@ class AccountMove(models.Model):
             line.tax_ids = detail['tax_ids']
             line.price_total = detail['tax_amount'] + detail['total']
 
-        # Check that ThriveERP.computation = Avatax computation
+        # Check that thrivebureau.computation = Avatax computation
         if not summary:
             return
         for record in self:

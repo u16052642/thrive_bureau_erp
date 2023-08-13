@@ -11,7 +11,7 @@
 # Joakim Weckman, 2022
 # Tommi Rintala <tommi.rintala@gmail.com>, 2022
 # Martin Trigaux, 2022
-# Vallen Delobel <edv@ThriveERP.com>, 2022
+# Vallen Delobel <edv@thrivebureau.com>, 2022
 # Kari Lindgren <karisatu@gmail.com>, 2022
 # Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>, 2022
 # 

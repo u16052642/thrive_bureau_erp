@@ -3,7 +3,7 @@
 # 	* l10n_ch
 #
 # Translators:
-# Fernanda Marques <fem@ThriveERP.com>, 2022
+# Fernanda Marques <fem@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Thomas Lefebvre, 2022
 #

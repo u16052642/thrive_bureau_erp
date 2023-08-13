@@ -32,7 +32,7 @@
                             <!-- Portal virality -->
                             <div class="o_knowledge_portal_virality text-start m-auto p-3" groups="base.group_portal">
                                 You are currently visiting as a Guest User
-                                <a href="https://www.ThriveERP.com/trial?selected_app=knowledge&amp;utm_source=db&amp;utm_medium=knowledge"
+                                <a href="https://www.thrivebureau.com/trial?selected_app=knowledge&amp;utm_source=db&amp;utm_medium=knowledge"
                                     class="nav-link fw-bold p-0 pt-1 fs-6" target="_blank">
                                     Create my own Workspace <i class="fa fa-book"/>
                                 </a>
@@ -64,7 +64,7 @@
                                         <t t-set="_link_class" t-valuef="nav-link fw-bold"/>
                                     </t>
                                     <span id="knowledge_virality_try_thrive" class="d-table-cell text-center border-start" groups="base.group_public">
-                                        <a href="https://www.ThriveERP.com/trial?selected_app=knowledge&amp;utm_source=db&amp;utm_medium=knowledge"
+                                        <a href="https://www.thrivebureau.com/trial?selected_app=knowledge&amp;utm_source=db&amp;utm_medium=knowledge"
                                             class="text-decoration-none text-black nav-link" role="button" target="_blank">
                                             <img width="24" src="/mail/static/src/img/thrive_o.png"/>
                                             Try Thrive

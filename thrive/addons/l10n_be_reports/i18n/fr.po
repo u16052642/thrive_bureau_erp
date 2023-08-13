@@ -5,7 +5,7 @@
 # Translators:
 # Loic <loic.richard2@gmail.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@ThriveERP.com>, 2015
+# Melanie Bernard <mbe@thrivebureau.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Thrive 9.0\n"

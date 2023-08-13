@@ -16,8 +16,8 @@ import logging
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_IAP_ENDPOINT = "https://l10n-in-edi.api.ThriveERP.com"
-DEFAULT_IAP_TEST_ENDPOINT = "https://l10n-in-edi-demo.api.ThriveERP.com"
+DEFAULT_IAP_ENDPOINT = "https://l10n-in-edi.api.thrivebureau.com"
+DEFAULT_IAP_TEST_ENDPOINT = "https://l10n-in-edi-demo.api.thrivebureau.com"
 
 
 class AccountEdiFormat(models.Model):
@@ -89,7 +89,7 @@ class AccountEdiFormat(models.Model):
         return error_message
 
     def _l10n_in_edi_get_iap_buy_credits_message(self, company):
-        base_url = "https://iap-sandbox.ThriveERP.com/iap/1/credit" if not company.sudo().l10n_in_edi_production_env else ""
+        base_url = "https://iap-sandbox.thrivebureau.com/iap/1/credit" if not company.sudo().l10n_in_edi_production_env else ""
         url = self.env["iap.account"].get_credits_url(service_name="l10n_in_edi", base_url=base_url)
         return markupsafe.Markup("""<p><b>%s</b></p><p>%s <a href="%s">%s</a></p>""") % (
             _("You have insufficient credits to send this document!"),

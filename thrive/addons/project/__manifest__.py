@@ -4,7 +4,7 @@
 {
     'name': 'Project',
     'version': '1.2',
-    'website': 'https://www.ThriveERP.com/app/project',
+    'website': 'https://www.thrivebureau.com/app/project',
     'category': 'Services/Project',
     'sequence': 45,
     'summary': 'Organize and plan your projects',

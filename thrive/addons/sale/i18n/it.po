@@ -6,7 +6,7 @@
 # Friederike Fasterling-Nesselbosch, 2022
 # Sergio Zanchetta <primes2h@gmail.com>, 2022
 # Rita Amboni, 2022
-# Jonathan Quique <jqu@ThriveERP.com>, 2022
+# Jonathan Quique <jqu@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

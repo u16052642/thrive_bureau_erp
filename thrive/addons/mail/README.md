@@ -2,7 +2,7 @@ Thrive Enterprise Social Network
 ------------------------------
 
 Connect with experts, follow what interests you, share documents and promote
-best practices with Thrive <a href="https://www.ThriveERP.com/app/discuss">Enterprise Social Network</a>. Get work done with
+best practices with Thrive <a href="https://www.thrivebureau.com/app/discuss">Enterprise Social Network</a>. Get work done with
 effective collaboration across departments, geographies, documents and business
 applications. All of this while decreasing email overload.
 

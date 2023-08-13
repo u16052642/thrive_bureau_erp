@@ -3,7 +3,7 @@
 # 	* website_event_meet
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022
 # Martin Trigaux, 2022

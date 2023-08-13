@@ -6959,7 +6959,7 @@ msgstr ""
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.ThriveERP.com"
+msgid "feedback@mail.thrivebureau.com"
 msgstr ""
 
 #. module: stock

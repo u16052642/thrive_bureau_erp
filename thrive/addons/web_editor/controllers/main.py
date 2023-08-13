@@ -27,7 +27,7 @@ from thrive.addons.base.models.assetsbundle import AssetsBundle
 from ..models.ir_attachment import SUPPORTED_IMAGE_EXTENSIONS, SUPPORTED_IMAGE_MIMETYPES
 
 logger = logging.getLogger(__name__)
-DEFAULT_LIBRARY_ENDPOINT = 'https://media-api.ThriveERP.com'
+DEFAULT_LIBRARY_ENDPOINT = 'https://media-api.thrivebureau.com'
 
 class Web_Editor(http.Controller):
     #------------------------------------------------------

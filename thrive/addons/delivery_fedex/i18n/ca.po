@@ -10,7 +10,7 @@
 # Harcogourmet, 2022
 # Carles Antoli <carlesantoli@hotmail.com>, 2022
 # Jonatan Gk, 2022
-# Miquel Torner <miq@ThriveERP.com>, 2022
+# Miquel Torner <miq@thrivebureau.com>, 2022
 # Farouk Jabiri, 2022
 # Ivan Espinola, 2022
 # 

@@ -3,7 +3,7 @@
 # 	* appointment
 # 
 # Translators:
-# Mariana Santos Romo <msn@ThriveERP.com>, 2022
+# Mariana Santos Romo <msn@thrivebureau.com>, 2022
 # marcescu, 2022
 # 966ff43e6966712895a590e7320ca288, 2022
 # 715cd7e95e9ee8a7f9785bf3e53bc76f, 2022

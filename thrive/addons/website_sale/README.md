@@ -3,7 +3,7 @@ Thrive e-Commerce
 
 ### Optimize sales with an awesome online store.
 
-Thrive is an <a href="https://www.ThriveERP.com/app/ecommerce">Open Source eCommerce</a>
+Thrive is an <a href="https://www.thrivebureau.com/app/ecommerce">Open Source eCommerce</a>
 unlike anything you have ever seen before. Get an awesome catalog of products
 and great product description pages.
 

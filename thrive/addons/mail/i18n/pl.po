@@ -22,7 +22,7 @@
 # Mariusz, 2022
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2022
 # Krzysztof Przygoda, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Monika Grzelak <m.e.grzelak@gmail.com>, 2022
 # Jaroslaw Kaczmarski, 2022
 # Rafał Kozak <rafal.kozak@openglobe.pl>, 2022
@@ -9113,10 +9113,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Nazwa aliasu e-mail, np. \"jobs\", jeśli chcesz przechwytywać wiadomości "
-"e-mail dla <jobs@example.ThriveERP.com>"
+"e-mail dla <jobs@example.thrivebureau.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -9923,11 +9923,11 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.ThriveERP.com)."
+"email server (@mycompany.thrivebureau.com)."
 msgstr ""
 "Korzystanie z własnego serwera e-mail jest wymagane do wysyłania / "
 "odbierania wiadomości e-mail w wersjach Community i Enterprise. Użytkownicy "
-"online korzystają z gotowego do użycia serwera e-mail (@mycompany.ThriveERP.com)."
+"online korzystają z gotowego do użycia serwera e-mail (@mycompany.thrivebureau.com)."
 
 #. module: mail
 #. thrive-javascript
@@ -16728,7 +16728,7 @@ msgstr ""
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.email_compose_message_wizard_form
-msgid "e.g: \"info@mycompany.ThriveERP.com\""
+msgid "e.g: \"info@mycompany.thrivebureau.com\""
 msgstr ""
 
 #. module: mail

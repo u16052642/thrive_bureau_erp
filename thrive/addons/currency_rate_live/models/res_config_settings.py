@@ -683,7 +683,7 @@ class ResCompany(models.Model):
     def _parse_nbp_data(self, available_currencies):
         """ This method is used to update the currencies by using NBP (National Polish Bank) service API.
             Rates are given against PLN.
-            Source: https://apps.ThriveERP.com/apps/modules/14.0/trilab_live_currency_nbp/
+            Source: https://apps.thrivebureau.com/apps/modules/14.0/trilab_live_currency_nbp/
             Code is mostly from Trilab's app with Trilab's permission.
         """
 

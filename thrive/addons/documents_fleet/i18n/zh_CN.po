@@ -3,7 +3,7 @@
 # 	* documents_fleet
 # 
 # Translators:
-# Felix Yuen <fyu@ThriveERP.com>, 2022
+# Felix Yuen <fyu@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

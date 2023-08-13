@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2022
 # Mustafa J. Kadhem <safi2266@gmail.com>, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""
@@ -753,10 +753,10 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form
 msgid ""
 "e.g. Engage your entire community with a single app! "
-"https://www.ThriveERP.com/trial"
+"https://www.thrivebureau.com/trial"
 msgstr ""
 "مثال: تمكن من التفاعل مع مجتمعك بأكمله باستخدام تطبيق واحد! "
-"https://www.ThriveERP.com/trial "
+"https://www.thrivebureau.com/trial "
 
 #. module: social_youtube
 #: model_terms:ir.ui.view,arch_db:social_youtube.social_post_view_form

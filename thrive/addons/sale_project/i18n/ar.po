@@ -6,7 +6,7 @@
 # Mustafa Rawi <mustafa@cubexco.com>, 2022
 # MOHAMMAD IBRAHIM <m.moamir@outlook.com>, 2022
 # Martin Trigaux, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""

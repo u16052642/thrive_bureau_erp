@@ -5,7 +5,7 @@
     'name': 'Notes',
     'version': '1.0',
     'category': 'Productivity/Notes',
-    'website': 'https://www.ThriveERP.com/app/notes',
+    'website': 'https://www.thrivebureau.com/app/notes',
     'summary': 'Organize your work with memos',
     'sequence': 260,
     'depends': [

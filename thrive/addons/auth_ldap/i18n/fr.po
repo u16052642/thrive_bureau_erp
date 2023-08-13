@@ -3,7 +3,7 @@
 # 	* auth_ldap
 # 
 # Translators:
-# Cécile Collart <cco@ThriveERP.com>, 2019
+# Cécile Collart <cco@thrivebureau.com>, 2019
 # Christophe CHAUVET <christophe.chauvet@gmail.com>, 2019
 # Martin Trigaux, 2019
 # 

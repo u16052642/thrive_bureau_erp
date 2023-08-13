@@ -34,7 +34,7 @@ patch(MockServer.prototype, "appointment_mock_server", {
             });
             return {
                 appointment_type_id: customAppointmentTypeID,
-                invite_url: `http://amazing.ThriveERP.com/appointment/3?filter_staff_user_ids=%5B${1}%5D`,
+                invite_url: `http://amazing.thrivebureau.com/appointment/3?filter_staff_user_ids=%5B${1}%5D`,
             };
         } else if (route === "/appointment/appointment_type/search_create_anytime") {
             let anytimeAppointmentID = this.mockSearch(
@@ -52,7 +52,7 @@ patch(MockServer.prototype, "appointment_mock_server", {
             }
             return {
                 appointment_type_id: anytimeAppointmentID,
-                invite_url: `http://amazing.ThriveERP.com/appointment/3?filter_staff_user_ids=%5B${1}%5D`,
+                invite_url: `http://amazing.thrivebureau.com/appointment/3?filter_staff_user_ids=%5B${1}%5D`,
             };
         } else if (route === "/appointment/appointment_type/get_staff_user_appointment_types") {
             if (1) {
@@ -72,7 +72,7 @@ patch(MockServer.prototype, "appointment_mock_server", {
             const appointment_type_id = args.appointment_type_id;
             return {
                 appointment_type_id: appointment_type_id,
-                invite_url: `http://amazing.ThriveERP.com/appointment/${appointment_type_id}?filter_staff_user_ids=%5B${1}%5D`,
+                invite_url: `http://amazing.thrivebureau.com/appointment/${appointment_type_id}?filter_staff_user_ids=%5B${1}%5D`,
             }
         }
         return _super(...arguments);

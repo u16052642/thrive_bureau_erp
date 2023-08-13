@@ -9,7 +9,7 @@
 # Carlos Liébana <carlos.liebana@factorlibre.com>
 # Hugo Santos <hugo.santos@factorlibre.com>
 # Albert Cabedo <albert@gafic.com>
-# Olivier Colson <oco@ThriveERP.com>
+# Olivier Colson <oco@thrivebureau.com>
 # Roberto Lizana <robertolizana@trey.es>
 
 {

@@ -3,7 +3,7 @@
 {
     'name': "Studio",
     'summary': "Create and customize your Thrive apps",
-    'website': 'https://www.ThriveERP.com/app/studio',
+    'website': 'https://www.thrivebureau.com/app/studio',
     'description': """
 Studio - Customize Thrive
 =======================

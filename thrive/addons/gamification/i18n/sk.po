@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # gebri <gebri@inmail.sk>, 2022
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
@@ -254,7 +254,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table width=\"590\" border=\"0\" cellpadding=\"0\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 14px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=gamification\" style=\"color: #875A7B;\">Thrive</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=gamification\" style=\"color: #875A7B;\">Thrive</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

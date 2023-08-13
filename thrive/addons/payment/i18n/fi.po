@@ -16,7 +16,7 @@
 # Miika Nissi <miika.nissi@tawasta.fi>, 2022
 # Tuomas Lyyra <tuomas.lyyra@legenda.fi>, 2022
 # Marko Happonen <marko.happonen@sprintit.fi>, 2022
-# Richard Mouthier <rmo@ThriveERP.com>, 2022
+# Richard Mouthier <rmo@thrivebureau.com>, 2022
 # Mikko Salmela <salmemik@gmail.com>, 2022
 # Eino Mäkitalo <eino.makitalo@netitbe.fi>, 2022
 # Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>, 2022

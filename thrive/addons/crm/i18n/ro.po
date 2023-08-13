@@ -344,7 +344,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Thrive</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -1241,7 +1241,7 @@ msgid ""
 "company size, business information, social media accounts, etc."
 msgstr ""
 "Ai știut că poți căuta o companie după nume sau numărul de TVA pentru a "
-"completa instantaneu toate datele sale? ThriveERP.completează automat toate "
+"completa instantaneu toate datele sale? thrivebureau.completează automat toate "
 "datele pentru tine: logo, adresă, dimensiunea companiei, informații de "
 "afaceri, conturi de social media, etc."
 
@@ -3526,10 +3526,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "Numele aliasului de e-mail, de ex. „locuri de muncă” dacă doriți să primiți "
-"e-mailuri pentru <jobs@example.ThriveERP.com>"
+"e-mailuri pentru <jobs@example.thrivebureau.com>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -4089,8 +4089,8 @@ msgstr "ex. Prea scump"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.ThriveERP.com"
-msgstr "e.g. https://www.ThriveERP.com"
+msgid "e.g. https://www.thrivebureau.com"
+msgstr "e.g. https://www.thrivebureau.com"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form

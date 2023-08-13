@@ -322,7 +322,7 @@ If you have development competencies, we can propose you specific traineeships</
 
       <record id="work_contact_qdp" model="res.partner">
           <field name="name">Marc Demo</field>
-          <field name="email">gilles@ThriveERP.com</field>
+          <field name="email">gilles@thrivebureau.com</field>
           <field name="image_1920" type="base64" file="hr/static/img/employee_qdp-image.png"/>
       </record>
 
@@ -514,7 +514,7 @@ If you have development competencies, we can propose you specific traineeships</
 
       <record id="work_contact_jod" model="res.partner">
           <field name="name">Rachel Perry</field>
-          <field name="email">jod@ThriveERP.com</field>
+          <field name="email">jod@thrivebureau.com</field>
           <field name="image_1920" type="base64" file="hr/static/img/employee_jod-image.jpg"/>
       </record>
 

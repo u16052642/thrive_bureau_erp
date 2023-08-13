@@ -16,6 +16,6 @@
     ],
     'installable': True,
     'auto_install': True,
-    'website': 'https://www.ThriveERP.com/page/accounting',
+    'website': 'https://www.thrivebureau.com/page/accounting',
     'license': 'OEEL-1',
 }

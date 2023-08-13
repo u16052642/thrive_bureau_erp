@@ -4,7 +4,7 @@
 # 
 # Translators:
 # gebri <gebri@inmail.sk>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Matus Krnac <matus.krnac@gmail.com>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022
 # Filip Hanes <filip.hanes@protonmail.com>, 2022
@@ -3510,8 +3510,8 @@ msgstr ""
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@ThriveERP.com"
-msgstr "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
+msgstr "events@thrivebureau.com"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

@@ -572,8 +572,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/project_timesheet_synchro/static/src/xml/project_timesheet.xml:0
 #, python-format
-msgid "Use an ThriveERP.com account"
-msgstr "Ein ThriveERP.com-Konto verwenden"
+msgid "Use an thrivebureau.com account"
+msgstr "Ein thrivebureau.com-Konto verwenden"
 
 #. module: project_timesheet_synchro
 #. openerp-web

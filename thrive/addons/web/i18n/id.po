@@ -3318,8 +3318,8 @@ msgstr "Teks Multiline"
 #. thrive-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My ThriveERP.com account"
-msgstr "Akun ThriveERP.com saya"
+msgid "My thrivebureau.com account"
+msgstr "Akun thrivebureau.com saya"
 
 #. module: web
 #. thrive-javascript

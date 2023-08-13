@@ -11,7 +11,7 @@
 # Martin Trigaux, 2022
 # Mustafa Rawi <mustafa@cubexco.com>, 2022
 # Abdullah J <bosaeed4@gmail.com>, 2022
-# Malaz Abuidris <msea@ThriveERP.com>, 2022
+# Malaz Abuidris <msea@thrivebureau.com>, 2022
 # Niyas Raphy, 2022
 # 
 msgid ""
@@ -11430,8 +11430,8 @@ msgstr "https://fonts.google.com/specimen/Roboto"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.ThriveERP.com"
-msgstr "https://www.ThriveERP.com"
+msgid "https://www.thrivebureau.com"
+msgstr "https://www.thrivebureau.com"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_thrive_menu

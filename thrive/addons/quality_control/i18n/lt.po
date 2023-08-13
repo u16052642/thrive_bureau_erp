@@ -6,7 +6,7 @@
 # Monika Raciunaite <monika.raciunaite@gmail.com>, 2022
 # Darius Ribinskas <dahius@gmail.com>, 2022
 # Silvija Butko <silvija.butko@gmail.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022
 # Arminas Grigonis <arminas@versada.lt>, 2022
 # Antanas Muliuolis <an.muliuolis@gmail.com>, 2022

@@ -13,7 +13,7 @@
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2022
 # Karol Rybak <karolrybak85@gmail.com>, 2022
 # Piotr Szlązak <szlazakpiotr@gmail.com>, 2022
-# Natalia Gros <nag@ThriveERP.com>, 2022
+# Natalia Gros <nag@thrivebureau.com>, 2022
 # Maksym <ms@mythrive.pl>, 2022
 # 
 msgid ""

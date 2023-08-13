@@ -3,9 +3,9 @@
 # 	* account
 # 
 # Translators:
-# Leon Grill <leg@ThriveERP.com>, 2022
+# Leon Grill <leg@thrivebureau.com>, 2022
 # Jinjiu Liu, 2022
-# Johannes Croe <jcr@ThriveERP.com>, 2022
+# Johannes Croe <jcr@thrivebureau.com>, 2022
 # Friederike Fasterling-Nesselbosch, 2022
 # Felix Hoßfeld <felix.hossfeld@thoughtgang.de>, 2022
 # Andreas Jonderko <a.jonderko@gastronovi.com>, 2022

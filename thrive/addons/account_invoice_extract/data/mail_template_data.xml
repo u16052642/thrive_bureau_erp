@@ -3,8 +3,8 @@
     <data noupdate="1">
         <record id="account_invoice_extract_no_credit" model="mail.template">
             <field name="name">Account Invoice Extract Notification</field>
-            <field name="email_from">iap@ThriveERP.com</field>
-            <field name="email_to">iap@ThriveERP.com</field>
+            <field name="email_from">iap@thrivebureau.com</field>
+            <field name="email_to">iap@thrivebureau.com</field>
             <field name="subject">Account Invoice Extract Notification</field>
             <field name="model_id" ref="iap.model_iap_account"/>
             <field name="body_html" type="html">

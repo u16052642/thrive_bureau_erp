@@ -3,8 +3,8 @@
 # 	* project_helpdesk
 # 
 # Translators:
-# Braulio D. López Vázquez <bdl@ThriveERP.com>, 2022
-# Lucia Pacheco <lpo@ThriveERP.com>, 2022
+# Braulio D. López Vázquez <bdl@thrivebureau.com>, 2022
+# Lucia Pacheco <lpo@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # Jolien De Paepe, 2022
 # 
 msgid ""
@@ -714,10 +714,10 @@ msgstr "Vous êtes sur le point d'envoyer ceci"
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.ThriveERP.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.thrivebureau.com</a> to claim your free credits."
 msgstr ""
 "Vous n'avez pas de compte IAP enregistré pour ce service.<br>Merci d'aller "
-"sur <a href=%s target=\"new\">iap.ThriveERP.com</a> pour réclamer votre crédits "
+"sur <a href=%s target=\"new\">iap.thrivebureau.com</a> pour réclamer votre crédits "
 "gratuits."
 
 #. module: snailmail

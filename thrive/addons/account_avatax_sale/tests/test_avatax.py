@@ -13,7 +13,7 @@ class TestSaleAvalara(TestAccountAvataxCommon):
 
         # This tax is deliberately wrong with an amount of 1. This is
         # used to make sure we use the tax values that Avatax returns
-        # and not the tax values ThriveERP.computes (these values would be
+        # and not the tax values thrivebureau.computes (these values would be
         # wrong if a user manually changes it or if they're partially
         # exempt).
         cls.tax_with_diff_amount = cls.env["account.tax"].create({

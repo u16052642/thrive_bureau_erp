@@ -3,7 +3,7 @@
 # 	* event
 # 
 # Translators:
-# Camille Dantinne <cmd@ThriveERP.com>, 2022
+# Camille Dantinne <cmd@thrivebureau.com>, 2022
 # Rafael Blasco <rblasco@moduon.team>, 2022
 # marcescu, 2022
 # Martin Trigaux, 2022
@@ -4098,8 +4098,8 @@ msgstr "ej. Entrada VIP"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@ThriveERP.com"
-msgstr "events@ThriveERP.com"
+msgid "events@thrivebureau.com"
+msgstr "events@thrivebureau.com"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

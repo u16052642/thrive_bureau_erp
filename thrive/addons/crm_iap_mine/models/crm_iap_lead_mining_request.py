@@ -9,7 +9,7 @@ from thrive.exceptions import UserError
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap-services.ThriveERP.com'
+DEFAULT_ENDPOINT = 'https://iap-services.thrivebureau.com'
 
 MAX_LEAD = 200
 

@@ -387,7 +387,7 @@ class BaseCase(unittest.TestCase, metaclass=MetaCase):
                 except Exception as exc:
                     cls.tearDown_exceptions.append(sys.exc_info())
 
-    longMessage = True      # more verbose error message by default: https://www.ThriveERP.com/r/Vmh
+    longMessage = True      # more verbose error message by default: https://www.thrivebureau.com/r/Vmh
     warm = True             # False during warm-up phase (see :func:`warmup`)
 
     def __init__(self, methodName='runTest'):

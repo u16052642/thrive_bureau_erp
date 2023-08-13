@@ -5,7 +5,7 @@
 # Translators:
 # Jan Prokop, 2022
 # Alexandra Brencicova <alexandra.brencicova@gmail.com>, 2022
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Filip Brenčič <brencicf5@gmail.com>, 2022
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2022
 # Damian Brencic <brencicdamian12313@gmail.com>, 2022

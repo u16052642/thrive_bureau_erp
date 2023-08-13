@@ -4,7 +4,7 @@
 # 
 # Translators:
 # ushyme (sesn), 2022
-# Braulio D. López Vázquez <bdl@ThriveERP.com>, 2022
+# Braulio D. López Vázquez <bdl@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # Michael Epstein, 2022
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2022
@@ -38,7 +38,7 @@ msgid ""
 "                    <li>Save the changes and click on the <em>SYNC ORDERS</em> button.</li>\n"
 "                </ol>\n"
 "            </p>\n"
-"            <p>If the problem persists, contact <a href=\"https://www.ThriveERP.com/help/\">Thrive support</a>.</p>\n"
+"            <p>If the problem persists, contact <a href=\"https://www.thrivebureau.com/help/\">Thrive support</a>.</p>\n"
 "        </div>\n"
 "        "
 msgstr ""
@@ -54,7 +54,7 @@ msgstr ""
 "                    <li>Guarde los cambios y haga clic en el botón<em>SINCRONIZAR PEDIDOS</em>.</li>\n"
 "                </ol>\n"
 "            </p>\n"
-"            <p>Si el problema persiste, póngase en contacto con el <a href=\"https://www.ThriveERP.com/help/\">soporte técnico de Thrive</a>.</p>\n"
+"            <p>Si el problema persiste, póngase en contacto con el <a href=\"https://www.thrivebureau.com/help/\">soporte técnico de Thrive</a>.</p>\n"
 "        </div>\n"
 "        "
 

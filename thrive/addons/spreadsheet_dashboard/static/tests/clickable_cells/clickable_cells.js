@@ -30,7 +30,7 @@ QUnit.test("A link in a dashboard should be clickable", async (assert) => {
     const data = {
         sheets: [
             {
-                cells: { A1: { content: "[Thrive](https://ThriveERP.com)" } },
+                cells: { A1: { content: "[Thrive](https://thrivebureau.com)" } },
             },
         ],
     };

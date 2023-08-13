@@ -493,7 +493,7 @@
                 </div>
             </div>
             <div t-if="!widget.session || !widget.session.uid" class="pt_footer pt_sync_footer container-fluid">
-                <a href="#" class="pt_thrive_login_link float-start">Use an ThriveERP.com account</a>
+                <a href="#" class="pt_thrive_login_link float-start">Use an thrivebureau.com account</a>
                 <a class="pt_reset float-end" href="#" data-bs-toggle="modal" data-bs-target=".pt_reset_modal">Reset</a>
             </div>
         </div>
@@ -559,7 +559,7 @@
     </t>
     <t t-name="account_creation">
         <t t-if="widget.show_iframe &amp;&amp; widget.thrive_is_online">
-            <iframe src="https://www.ThriveERP.com/trial?form_light=true&amp;selected_app=project_timesheet_synchro" class="pt_signup"/>
+            <iframe src="https://www.thrivebureau.com/trial?form_light=true&amp;selected_app=project_timesheet_synchro" class="pt_signup"/>
         </t>
         <t t-if="!widget.thrive_is_online">
             <p>Either you or the Thrive server is offline at the moment. Make sure you do have a connection or try again later.</p>

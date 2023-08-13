@@ -3,7 +3,7 @@
 # * sale
 #
 # Translators:
-# Denis Ledoux <dle@ThriveERP.com>, 2016
+# Denis Ledoux <dle@thrivebureau.com>, 2016
 # Esteban Echeverry <tebanep@nubark.com>, 2016
 # Felipe Palomino <omega@nubark.com>, 2016
 # Mateo Tibaquirá <nestormateo@gmail.com>, 2015

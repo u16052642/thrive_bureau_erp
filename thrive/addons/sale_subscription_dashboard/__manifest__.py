@@ -12,7 +12,7 @@ It adds dashboards to :
 1) Analyse the recurrent revenue and other metrics for subscriptions
 2) Analyse the subscriptions modifications by salesman and compute their value.
     """,
-    'website': 'https://www.ThriveERP.com/app/accounting',
+    'website': 'https://www.thrivebureau.com/app/accounting',
     'category': 'Sales/Subscriptions',
     'data': [
         'views/sale_subscription_dashboard_views.xml',

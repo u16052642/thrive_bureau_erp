@@ -3,7 +3,7 @@
 # 	* l10n_multilang
 # 
 # Translators:
-# SAKthrive <sak@ThriveERP.com>, 2022
+# SAKthrive <sak@thrivebureau.com>, 2022
 # Martin Trigaux, 2022
 # 
 msgid ""

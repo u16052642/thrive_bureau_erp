@@ -3,7 +3,7 @@
 # 	* documents
 # 
 # Translators:
-# Xavier ALT <xal@ThriveERP.com>, 2019
+# Xavier ALT <xal@thrivebureau.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-23 11:38+0000\n"
 "PO-Revision-Date: 2019-08-26 09:35+0000\n"
-"Last-Translator: Xavier ALT <xal@ThriveERP.com>, 2019\n"
+"Last-Translator: Xavier ALT <xal@thrivebureau.com>, 2019\n"
 "Language-Team: Luxembourgish (https://www.transifex.com/thrive/teams/41243/lb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -310,7 +310,7 @@ msgid ""
 "                            % if object.date_deadline:\n"
 "                                This link expires on <b>${object.date_deadline}.</b><br/>\n"
 "                            % endif\n"
-"                            Powered by <a target=\"_blank\" href=\"https://www.ThriveERP.com/page/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
+"                            Powered by <a target=\"_blank\" href=\"https://www.thrivebureau.com/page/documents\" style=\"color: #875A7B;\">Thrive Documents</a>\n"
 "                          </td></tr>\n"
 "                        </table>\n"
 "                    </td></tr>\n"
@@ -1945,7 +1945,7 @@ msgstr ""
 #: model:ir.model.fields,help:documents.field_documents_share__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 
 #. module: documents

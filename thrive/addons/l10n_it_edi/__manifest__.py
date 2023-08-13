@@ -18,7 +18,7 @@
 E-invoice implementation
     """,
     'category': 'Accounting/Localizations/EDI',
-    'website': 'http://www.ThriveERP.com/',
+    'website': 'http://www.thrivebureau.com/',
     'data': [
         'security/ir.model.access.csv',
         'data/account_edi_data.xml',

@@ -973,10 +973,10 @@ msgstr ""
 #: model:ir.model.fields,help:quality.field_quality_alert_team_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 msgstr ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.ThriveERP.com>"
+"<jobs@example.thrivebureau.com>"
 
 #. module: quality
 #: model:ir.model.fields,help:quality.field_quality_alert_team_alias_user_id

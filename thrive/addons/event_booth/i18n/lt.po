@@ -4,7 +4,7 @@
 # 
 # Translators:
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2022
-# Jonas Zinkevicius <jozi@ThriveERP.com>, 2022
+# Jonas Zinkevicius <jozi@thrivebureau.com>, 2022
 # Ramunė ViaLaurea <ramune.vialaurea@gmail.com>, 2022
 # UAB "Draugiški sprendimai" <transifex@draugiskisprendimai.lt>, 2022
 # Audrius Palenskis <audrius.palenskis@gmail.com>, 2022

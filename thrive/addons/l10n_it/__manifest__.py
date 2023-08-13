@@ -17,7 +17,7 @@ Piano dei conti italiano di un'impresa generica.
 Italian accounting chart and localization.
     """,
     'category': 'Accounting/Localizations/Account Charts',
-    'website': 'http://www.ThriveERP.com/',
+    'website': 'http://www.thrivebureau.com/',
     'data': [
         'data/account_account_tag.xml',
         'data/account_chart_template.xml',

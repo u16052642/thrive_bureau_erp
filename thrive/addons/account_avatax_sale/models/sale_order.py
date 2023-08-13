@@ -35,7 +35,7 @@ class SaleOrder(models.Model):
         account.tax. The percentage (amount field) on account.tax
         won't be correct in case of (partial) exemptions. As always we
         should rely purely on the values Avatax returns, not the
-        values ThriveERP.computes. This will create a single tax group
+        values thrivebureau.computes. This will create a single tax group
         using the amount_* fields on the order which come from Avatax.
         """
         res = super()._compute_tax_totals()

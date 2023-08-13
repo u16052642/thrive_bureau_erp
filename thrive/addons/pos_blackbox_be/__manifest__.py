@@ -19,7 +19,7 @@ More info:
 
 Legal
 -----
-**The use of pos_blackbox_be sources is only certified on ThriveERP.com SaaS platform
+**The use of pos_blackbox_be sources is only certified on thrivebureau.com SaaS platform
 for version 13.0.** Contact Thrive Bureau ERP before installing pos_blackbox_be module.
 
 An obfuscated and certified version of the pos_blackbox_be may be provided on

@@ -314,7 +314,7 @@ class TestAccessFeatures(common.SlidesCase):
             {'name': 'Link',
              'slide_id': self.slide_3.id,
              'resource_type': 'url',
-             'link': 'https://www.ThriveERP.com'}
+             'link': 'https://www.thrivebureau.com'}
         ])
         # No public access to resources
         with self.assertRaises(AccessError):

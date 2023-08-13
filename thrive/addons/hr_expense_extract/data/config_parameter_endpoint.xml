@@ -4,7 +4,7 @@
 
         <record id="hr_expense_extract_endpoint" model="ir.config_parameter">
             <field name="key">hr_expense_extract_endpoint</field>
-            <field name="value">https://iap-extract.ThriveERP.com</field>
+            <field name="value">https://iap-extract.thrivebureau.com</field>
         </record>
 
     </data>

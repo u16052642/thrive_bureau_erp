@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2022
 # Christophe Klopfert, 2022
-# Cécile Collart <cco@ThriveERP.com>, 2022
+# Cécile Collart <cco@thrivebureau.com>, 2022
 # laje_thrive, 2022
 # Jolien De Paepe, 2023
 # 

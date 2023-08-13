@@ -8,7 +8,7 @@
     'category': 'Marketing/Online Appointment',
     'sequence': 2150,
     'summary': 'Generate leads when prospects schedule appointments',
-    'website': 'https://www.ThriveERP.com/app/appointments',
+    'website': 'https://www.thrivebureau.com/app/appointments',
     'description': """
 Allow to generate lead from Scheduled Appointments through your Website
 -----------------------------------------------------------------------

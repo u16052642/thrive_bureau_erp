@@ -118,7 +118,7 @@ msgid ""
 "A technical explanation of Thrive as a CMS and a eCommerce platform for "
 "version 8."
 msgstr ""
-"Una explicación técnica de ThriveERP.como un CMS y una plataforma de Comercio "
+"Una explicación técnica de thrivebureau.como un CMS y una plataforma de Comercio "
 "Electrónico para la versión 8."
 
 #. module: website_event_track
@@ -578,7 +578,7 @@ msgstr "Estado y Estrategia de Thrive 2014"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
 msgid "Thrive as your Enterprise Social Network."
-msgstr "ThriveERP.como la Red Social de su Empresa."
+msgstr "thrivebureau.como la Red Social de su Empresa."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27

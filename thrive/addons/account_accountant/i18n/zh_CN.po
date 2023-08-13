@@ -5,7 +5,7 @@
 # Translators:
 # keecome <7017511@qq.com>, 2022
 # Martin Trigaux, 2022
-# Emily Jia <eji@ThriveERP.com>, 2022
+# Emily Jia <eji@thrivebureau.com>, 2022
 # 稀饭~~ <wangwhai@qq.com>, 2022
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2022
 # 
