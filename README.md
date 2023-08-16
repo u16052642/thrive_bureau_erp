@@ -6,7 +6,7 @@ For installation in VPS server use these three lines, in the end of the installa
 login to vps terminal then insert three lines then it will start automatically start the installation process
 
 step 1)
-sudo wget https://github.com/u16052642/thrive_erp_install_script/blob/main/thrive1669_install.sh
+sudo wget https://raw.githubusercontent.com/u16052642/thrive_erp_install_script/main/thrive1669_install.sh
 
 step 2)
 sudo chmod +x thrive1669_install.sh
